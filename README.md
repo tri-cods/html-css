@@ -33,8 +33,8 @@ For this workshop, participants will need:
 [Tags and elements](sections/elements.md)  
 [Paragraphs and headings](sections/p_and_h.md)  
 [Links](sections/links.md)  
-[Images](sections/images.md) 
-[General Conventions](sections/conventions.md) 
+[Images](sections/images.md)  
+[General Conventions](sections/conventions.md)  
 [Activity: Creating a Website](sections/create_site.md)  
 
 ### CSS Basics
