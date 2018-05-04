@@ -30,18 +30,16 @@ THe `<p>` tags denote **paragraphs**, or blocks of text.
 
 *Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes.* 
 
-## ACTIVITY:
-In you `index.html` file, add
-<ul>
-	<li> Title </li>
-	<li> Heading </li>
-	<li> Paragraph </li> 
-</ul>
+## Activity
+
+In your `index.html` file, add
+
+- Title
+- Heading
+- Paragraph 
+
 Then, re-save the file. Go into your finder and open it in your browser.
-<br/>
-<br/>
-What do you notice about how the information is organized in the webpage? In other words, where is the title, heading and paragraph text?
-<br/>
-<br/>
+
+What do you notice about how the information is organized in the webpage? In other words, where are the title, heading and paragraph text?
 
 [<<<Back](elements.md) | [Next>>>](links.md)

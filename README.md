@@ -2,17 +2,17 @@
 
 # Introduction to HTML and CSS
 
-Through this workshop, participants will be introduced to two basic languages used in web development and design: HTML and CSS. 
+Through this workshop, participants will be introduced to two markup languages used in web development and design: HTML and CSS. 
 
 Learning HTML and CSS is a first step in 'getting under the hood' of the internet and can help you a) create websites from scratch, or b) better understand how website-building platforms like WordPress take the information you input to create websites. 
 
-## Learning Goals for this workshop:
+## Learning Goals
 
 - Develop a general understanding of how the Internet works 
-- Understand the basics of HTML and CSS languagesli>
+- Understand the basics of HTML and CSS
 - Begin building a website using HTML and CSS
 - Understand how to use a basic text editor like Sublime to create webpages
-- Gain general understanding of how the next steps needed to present your website on the Internet
+- Gain a general understanding of the next steps needed to present your website on the Internet
 
 ## Tech Needs:
 
