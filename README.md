@@ -1,6 +1,6 @@
 [Next>>>](sections/introduction.md)
 
-# HTML and CSS Workshop
+# Introduction to HTML and CSS
 
 Through this workshop, participants will be introduced to two basic languages used in web development and design: HTML and CSS. 
 
