@@ -50,10 +50,8 @@ Incorporating classes and IDs into the styling of your document includes two ste
 	<li> About </li>
 </ul>
 ```
-<br/>
+
 ## Tip
 If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
-<br/>
-<br/>
 
 [<<<Back](filter.md) | [Next>>>](selectors.md)
