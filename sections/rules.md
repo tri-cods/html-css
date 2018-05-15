@@ -10,12 +10,12 @@ h1 {
 	font-style: italic;
 }
 p {
-	font-family: san serif
-	font-style: normal
+	font-family: san serif;
+	font-style: normal;
 }
 #navbar {
 	background-color: yellow;
-	padding: 80px
+	padding: 80px;
 }
 .intro {
 	font-family: arial;
@@ -32,6 +32,9 @@ Note the different syntax being used for the different rule sets. The bottom two
 
 ## ACTIVITY
 Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.  
+
+## What should happen? 
+The formatting of the text on your page should change accordingly. Your `<h1>` should be orange and italic, for example.
 
 <strong>What are some other selectors you might set for different HTML elements?</strong>
 <br/>
