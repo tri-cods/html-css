@@ -32,14 +32,17 @@ THe `<p>` tags denote **paragraphs**, or blocks of text.
 
 ## Activity
 
-In your `index.html` file, add
+Using your text editor, add the following to your `index.html`:
 
 - Title
 - Heading
 - Paragraph 
 
-Then, re-save the file. Go into your finder and open it in your browser.
+Then, re-save the file. open it in your browser again or refresh the page if still opened. 
 
 What do you notice about how the information is organized in the webpage? In other words, where are the title, heading and paragraph text?
+
+## What should you see? 
+Heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab. 
 
 [<<<Back](elements.md) | [Next>>>](links.md)
