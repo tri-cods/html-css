@@ -33,7 +33,7 @@ Incorporating classes and IDs into the styling of your document includes two ste
 ```
 
 ## Id selectors 
-...look like this in the CSS - the name of the selector preceeded by a hashmark:
+...clook like this in the CSS - the name of the selector preceeded by a hashmark:
 
 ```
 #navbar {
@@ -51,7 +51,8 @@ Incorporating classes and IDs into the styling of your document includes two ste
 </ul>
 ```
 <br/>
-*Tip: If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
+## Tip
+If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
 <br/>
 <br/>
 
