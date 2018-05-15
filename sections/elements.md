@@ -2,7 +2,7 @@
 
 # Tags and Elements
 
-Tags and elements are the structuring components of a page.
+Tags and elements are the structuring components of html webpages.
 
 **Elements** identify the different parts of a page, such as paragraphs, headings, titles, body text, images and more. Elements are demarcated by tags which enclose the content of an element (ex. `<head>` and `<head>` are tags that denote the head section of your page).
 
@@ -14,13 +14,11 @@ Tags and elements are the structuring components of a page.
 	  This is also a paragraph
 	</p>
 
-Elements which have an opening and closing tag can have other elements inside them.
+Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a strong element, which emphasizes the included text by bolding it.
 
 	<p>
 	  When I came home from school, I saw he had <strong>stolen</strong> my chocolate pudding.
 	</p>
-
-Note that the `<strong>` tag indicates bolded text.
 
 Other elements have self-closing tags as with the image element below. These tags are also called **void tags** These elements don't require a separate closing tag, and these tags don't require a closing tag because you wouldn't add an element into this element.
 	
