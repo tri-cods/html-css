@@ -1,12 +1,14 @@
 [<<<Back](conventions.md) | [Next>>>](css_basic.md)
 
-#  ACTIVITY: Create a Course Site!
+#  ACTIVITY: Create an Institute Site!
 
-Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for a course you teach. 
+Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future institute. 
 
-The first step is creating a new page. Call this page `Course.html` and remember the conditions of where to save it.
+On your desktop, create a new folder called `Institute_Site`. 
 
-## You page should include the following:
+Create a `index.html` file inside that folder. This will be the homepage or landing page of your site. 
+
+## This page should include the following:
 <p>
     <ul>
         <li> Doctype </li>
@@ -20,6 +22,8 @@ The first step is creating a new page. Call this page `Course.html` and remember
     </ul>
     <strong>Think about the order of your content as you assemble the body of your page.</strong> 
 </p>
+
+Don't worry about getting the content just write, as much as using this to review the structure of a webpage, and practice the creating a webpage. 
 
 ## Additional Tags
 Here are two additional tags that might come in handy in assembling your page:
