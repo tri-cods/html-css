@@ -2,8 +2,11 @@
 
 # Conventions
 
-As we’ve gone through the different components of creating a webpage, you have likely picked up on some conventions or industry standards for creating a webpage using HTML. However, before proceeding, let's outline them.
+As we’ve gone through the different components of creating a webpage, you likely have noticed some conventions or industry standards for creating a webpage using HTML. 
 
+**Any guesses?**
+
+## Let's outline them:
 <p>
     <ul>
         <li> <strong>Some tags are self-closing, while others require a closing tag.</strong> Self-closing tags are called void tags, and are generally self-closing because you wouldn't need or want to add another element within a tag. </li>
