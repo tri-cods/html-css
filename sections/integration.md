@@ -2,7 +2,7 @@
 
 # Integrating CSS and HTML
 
-In order to CSS to inform the style of the content on the page, it must be integated with your HTML. CSS can be integrated into your HTML in three ways. 
+In order for CSS to inform the style of the content on the page, it must be integated with your HTML. CSS can be integrated into your HTML in three ways. 
 
 ## OPTION 1: Inline
 
@@ -55,7 +55,7 @@ Internal styling also adds CSS directly into the HTML, but keeps it separate fro
 
 ## Option 3: External
 
-External styling creates a completely separate document for your CSS that will be linked to your html in the head section of your html document using the code below. This separate document is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same file as the html document it is linked to.
+External styling creates a completely separate document for your CSS that will be linked to your html in the head section of your html document using the code below. This separate document is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same folder as the html document it is linked to.
 
 ```
 <!DOCTYPE html>
@@ -73,8 +73,17 @@ External styling creates a completely separate document for your CSS that will b
 Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML and CSS separate. 
 
 ## ACTIVITY
-Open up a new document in your Sublime Text editor. Save the document as `style.css` to the same folder as your HTML documents. In your `index.html` document, link to your style sheet and re-save the file. Be sure to add it in the correct place in the code. 
+Create a stylesheet through the command line. 
+
+In your `index.html` document, link to your style sheet and re-save the file. 
 <br/>
 <br/>
+## Creating a stylesheet through the command line:
+After opening the terminal, 2. cd Desktop, 3. cd Institute_Site, 4. touch style.css
+
+## Where should the stylesheet be linked? 
+The style sheet should follow `Option 3: External` - inserting the following code into the head element: 
+
+`<link rel="stylesheet" href="style.css">`
 
 [<<<Back](css_basic.md) | [Next>>>](rules.md)
