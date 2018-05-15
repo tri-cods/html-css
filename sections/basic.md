@@ -62,8 +62,7 @@ Open your secondary and view the page source. How can you explain what happens w
 After opening your terminal, you:
 2. $ cd Desktop
 3. $ mkdir website
-4. $ mkdir website 
-   $ touch index.html
+4. $ mkdir website  AND  $ touch index.html
 5. $ touch about.html
 
 ## What should happen when I open my two new files?
