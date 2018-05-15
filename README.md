@@ -2,17 +2,12 @@
 
 # Introduction to HTML and CSS
 
-Through this workshop, participants will be introduced to two markup languages used in web development and design: HTML and CSS. 
+HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is language used for design and layout. Together, these languages form the foundation of what one needs to know to create well-organized websites that are also easy on the eyes.
 
-Learning HTML and CSS is a first step in 'getting under the hood' of the internet and can help you a) create websites from scratch, or b) better understand how website-building platforms like WordPress take the information you input to create websites. 
-
-## Learning Goals
-
-- Develop a general understanding of how the Internet works 
-- Understand the basics of HTML and CSS
-- Begin building a website using HTML and CSS
-- Understand how to use a basic text editor like Sublime to create webpages
-- Gain a general understanding of the next steps needed to present your website on the Internet
+By the end of this workshop, participants will:
+- Understand the basics of the HTML and CSS markdown languages
+- Understand the anatomy of a webpage and how the Internet works
+- Use HTML and CSS and a basic text editor to begin building a website
 
 ## Tech Needs:
 
