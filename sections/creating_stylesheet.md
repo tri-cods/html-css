@@ -1,6 +1,6 @@
 [<<<Back](selectors.md) | [Next>>>](troubleshooting.md)
 
-# ACTIVITY: Stylizing your Course Site with CSS
+# ACTIVITY: Stylizing your Institute Site with CSS
 
 Using the CSS basics we've just reviewed, and the list of selectors found on the [Selectors page](selectors.md) and online, give your course site some styling.
 
@@ -13,6 +13,7 @@ I encourage you to use an external stylesheet with classes and IDs to style part
 		<li> Change the font of your paragraph text. </li>
 		<li> Change the background color of your navigation bar or menu. </li>
 		<li> Center your image on your page. </li>
+		<li> Shape up your navbar </li>
 	</ul>
 </p>
 
