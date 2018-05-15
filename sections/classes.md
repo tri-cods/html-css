@@ -7,13 +7,14 @@ Classes and IDs can also assist with more fine-grained styling by allowing you t
 Incorporating classes and IDs into the styling of your document includes two steps: 
 
 <ul>
-	<li> First, some CSS code must be added to your stylesheet; </li>
-	<li> Second, some HTML code that refers to the CSS must be added to your HTML document. <i> Note that this is in addition to the general link to the stylesheet.</i> </li>
+	<li> First, some CSS rules must be added to your stylesheet; </li>
+	<li> Second, some HTML code that refers to the stylesheet must be added to your HTML document. <i> Note that this is in addition to the general link to the stylesheet.</i> </li>
 </ul>
 
 **The code for classes and IDs is different in both CSS and HTML.**
 
-**Class selectors** look like this - the name of the selector preceeded by a full stop:
+## Class selectors
+...look like this - the name of the selector preceeded by a full stop:
 
 ```
 .intro {
@@ -31,7 +32,8 @@ Incorporating classes and IDs into the styling of your document includes two ste
 </p>
 ```
 
-**Id selectors** look like this in the CSS - the name of the selector preceeded by a hashmark:
+## Id selectors 
+...look like this in the CSS - the name of the selector preceeded by a hashmark:
 
 ```
 #navbar {
