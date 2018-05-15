@@ -4,9 +4,9 @@
 
 It is common - especially in the beginning - that you'll add or amend something to/in your text editor, but it won't present when rendered by your browser. 
 
-The first inclination is to scan the text in your editor for errors. Nesting will help tremendously with this task. Often times it is as little as forgetting a semi-colon, or closing tag. 
+Your first inclination should be to scan the text in your editor for errors. Nesting will help tremendously with this task. Often times it is as little as forgetting a semi-colon, or closing tag. 
 
-Another investigative tactic is to **View Page Source**. 
+Another investigative tactic is to **View Page Source** on the page opened in the browser. 
 
 If you think its an **error with the HTML**, you'll be able to see it there. 
 
