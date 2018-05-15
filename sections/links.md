@@ -46,14 +46,15 @@ Use relative links when referring to pages on your own site. The main advantage 
 
 ## Activity
 
-In your `index.html` file, add a relative link to your About page. 
-
-Re-save that text file and reopen or refresh it in your browser. 
-
-Also add a relative link from your `About page` to your `index.html` page. In your link, call this page `Home`. This will allow you to toggle back-and-forth between the two pages.
-
-Lastly, include an absolute link to a page of your choosing. Remember that an absolute link includes the protocol (for example, `http:`) and also a domain (for example, `cuny.edu`).
+1. In your `index.html` file, add a relative link to your About page. 
+2. Also add a relative link from your `About page` to your `index.html` page. In your link, call this page `Home` (Reminder: `index.html` is the homepage)
+3. Lastly, include an absolute link to a page of your choosing. Remember that an absolute link includes the protocol (for example, `http:`) and also a domain (for example, `cuny.edu`).
 
 	http://cuny.edu/about
+
+4. Re-save your text files and reopen or refresh them in your browser. 
+
+## Check if it worked!
+When your pages are updated, you should be able to toggle back and forth between the pages of your website, and navigate to the external webpage. 
 
 [<<<Back](p_and_h.md) | [Next>>>](images.md)
