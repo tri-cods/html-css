@@ -22,7 +22,7 @@ This link is asking the browser to look for a file titled `about.html` in the sa
 
 ## Option 2: Absolute Links
 
-An absolute link includes information that allows the browser to fild resources on other websites. This information includes the site domain—such as `google.com`—and often the protocol—such as `http` or `https`.
+An absolute link includes information that allows the browser to file resources on other websites. This information includes the site domain—such as `google.com`—and often the protocol—such as `http` or `https`.
 
 	<a href="http://www.google.com">Google</a>
 
@@ -36,7 +36,7 @@ This pathway is directing your browser to look online for this text document at 
 
 Each example above includes an `href` tag. The `href` tag, short for hypertext reference, is an example of an **attribute**. Attributes offer secondary information about an element.
 
-The `<a>` tag, or anchor tag, creates a link. The text within the `<a>` and `</a>` tags, the ancor text, is what a visitor to the site will see and can click on. The `href=` attribute tells the browser where the user should be directed when they click the link.
+The `<a>` tag, or anchor tag, creates a link. The text within the `<a>` and `</a>` tags, the anchor text, is what a visitor to the site will see and can click on. The `href=` attribute tells the browser where the user should be directed when they click the link.
 
 There is another technical difference between the two options above.
 
@@ -48,9 +48,9 @@ Use relative links when referring to pages on your own site. The main advantage 
 
 In your `index.html` file, add a relative link to your About page. 
 
-Re-save that text file and re-open it in your browser. (You can refresh the page if you still have it open, or re-open it by clicking on it in the folder using your graphical user interface..)
+Re-save that text file and reopen or refresh it in your browser. 
 
-Also add a relative link from your `About page` to your `index.html` page. Call this page `Home`. This will allow you to toggle back-and-forth between the two pages.
+Also add a relative link from your `About page` to your `index.html` page. In your link, call this page `Home`. This will allow you to toggle back-and-forth between the two pages.
 
 Lastly, include an absolute link to a page of your choosing. Remember that an absolute link includes the protocol (for example, `http:`) and also a domain (for example, `cuny.edu`).
 
