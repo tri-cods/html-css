@@ -36,7 +36,6 @@ Copy and paste the CSS above into your `style.css` file and re-save the file. Th
 ## What should happen? 
 The formatting of the text on your page should change accordingly. Your `<h1>` should be orange and italic, for example.
 
-##What are some other selectors you might set for different HTML elements?##
-
+## What are some other selectors you might set for different HTML elements?
 
 [<<<Back](integration.md) | [Next>>>](filter.md)
