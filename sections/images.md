@@ -22,7 +22,7 @@ Download and save an image from the web, or move an image from your computer int
 
 Tip: Give the file a simple name. Also, the name **can not** have spaces.
 
-Using the code above as a reference, add that image into your `index.html` file, re-save the file, and re-open or refresh the page in your browser. 
+Using the code above as a reference, add that image into your `index.html` file, re-save the file, and re-open or refresh the page in your browser. You image should now appear on the page.
 
 ## What type of tag is the `<img>` tag? 
 
