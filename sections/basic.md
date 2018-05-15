@@ -57,9 +57,6 @@ B. From the command line, make sure you are in the same folder as the file, and 
 What happens? 
 
 Open your secondary and view the page source. How can you explain what happens when you open these text files? 
-<br/>
-<br/>
-<br/>
 
 ## Command line to Create New files
 After opening your terminal, you:
