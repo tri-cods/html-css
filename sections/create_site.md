@@ -53,8 +53,10 @@ Here are two additional tags that might come in handy in assembling your page:
 <br/>
 ```
 
-
 ## CHALLENGE
 Finished? Play around with other tags by referring to an [html cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
+
+## Using Command Line to make a new folder
+After opening the terminal, 2. cd Desktop, 3. mkdir Institute_Site, 3. cd Institute_Site, 4. touch index.html
 
 [<<<Back](conventions.md) | [Next>>>](css_basic.md) 
