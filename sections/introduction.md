@@ -2,7 +2,7 @@
 
 # Introduction
 
-Websites seems like these magical things that appear when we open our web browsers. We can click between different pages of the website to obtain different information about the 'thing' the website is providing information about. What may be less obvious about websites is that, in essence **websites are interlinked text documents** usually written in HTML or another web-based markup language (for example, XML, XHTML). 
+Websites seems like these magical things that appear when we open our web browsers (i.e. Chrome, Firefox, Safari, Internet Explorer). We can click between different pages of the website to obtain different information about the 'thing' the website is providing information about. What may be less obvious about websites is that, in essence **websites are interlinked text documents** usually written in HTML or another web-based markup language (for example, XML, XHTML). 
 
 *Fun fact*: **Nearly 80% of all websites (whose markup language we know) use HTML.** 
 [(Source)](https://w3techs.com/technologies/details/ml-html/all/all)
