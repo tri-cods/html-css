@@ -4,9 +4,9 @@
 
 Paragraphs and headings are the main textual elements of the body of your webpages. Because these contain content that you want to organize and display on your webpage, these are entered in the body element. 
 
-The `<h1>`, `<h2>`, `<h3>`, etc tags denote **headings and subheadings**, `<h1>` being the largest.
+The `<h1>`, `<h2>`, `<h3>`, etc tags denote **headings** and **subheadings**, `<h1>` being the largest.
 
-THe `<p>` tags denote **paragraphs**, or blocks of text.
+The `<p>` tags denote **paragraphs**, or blocks of text.
 
 ```
 <!DOCTYPE html>
@@ -38,11 +38,11 @@ Using your text editor, add the following to your `index.html`:
 - Heading
 - Paragraph 
 
-Then, re-save the file. open it in your browser again or refresh the page if still opened. 
+Then, re-save the file. Open it in your browser again or refresh the page if still opened. 
 
-What do you notice about how the information is organized in the webpage? In other words, where are the title, heading and paragraph text?
+What do you notice about how the information is organized in the webpage? In other words, where are the title, heading, and paragraph text?
 
 ## What should you see? 
-Heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab. 
+The heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab. 
 
 [<<<Back](elements.md) | [Next>>>](links.md)
