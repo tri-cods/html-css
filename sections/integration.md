@@ -2,9 +2,9 @@
 
 # Integrating CSS and HTML
 
-In order for CSS to inform the style of the content on the page, it must be integated with your HTML. CSS can be integrated into your HTML in three ways. 
+In order for CSS to inform the style of the content on the page, it must be integrated with your HTML. CSS can be integrated into your HTML in three ways. 
 
-## OPTION 1: Inline
+## Option 1: Inline
 
 Inline styling adds CSS directly into the HTML of a page to adjust the style of particular parts of a page. 
 
@@ -27,7 +27,7 @@ For example, if you want your first paragraph to be red, but your second paragra
 </html>
 ```
 
-## OPTION 2: Internal
+## Option 2: Internal
 
 Internal styling also adds CSS directly into the HTML, but keeps it separate from the content code of the page by adding it into the head using the `<style>` tag. When using internal styling you are providing styling rules for the entire page. For example, if you want all headings to be blue:
 
@@ -55,7 +55,7 @@ Internal styling also adds CSS directly into the HTML, but keeps it separate fro
 
 ## Option 3: External
 
-External styling creates a completely separate document for your CSS that will be linked to your html in the head section of your html document using the code below. This separate document is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same folder as the html document it is linked to.
+External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same folder as the HTML document it is linked to.
 
 ```
 <!DOCTYPE html>
