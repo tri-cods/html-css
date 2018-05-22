@@ -1,6 +1,6 @@
 [<<<Back](filter.md) | [Next>>>](selectors.md)
 
-# Classes and Ids
+# Classes and IDs
 
 Classes and IDs can also assist with more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that **IDs are unique**, used to identify one specfic element or part of an element, whereas **classes are used to identify multiple instances of the same type of element**.
 
@@ -32,8 +32,8 @@ Incorporating classes and IDs into the styling of your document includes two ste
 </p>
 ```
 
-## Id selectors 
-...clook like this in the CSS - the name of the selector preceeded by a hashmark:
+## ID selectors 
+...look like this in the CSS—the name of the selector preceeded by a hashmark:
 
 ```
 #navbar {
@@ -52,6 +52,6 @@ Incorporating classes and IDs into the styling of your document includes two ste
 ```
 
 ## Tip
-If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
+*If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
 
 [<<<Back](filter.md) | [Next>>>](selectors.md)
