@@ -59,11 +59,11 @@ What happens?
 Open your secondary and view the page source. How can you explain what happens when you open these text files? 
 
 ## Command line to Create New files
-After opening your terminal, you:
-2. $ cd Desktop
-3. $ mkdir website
-4. $ mkdir website  AND  $ touch index.html
-5. $ touch about.html
+After opening your terminal, you:  
+2. $ cd Desktop  
+3. $ mkdir website  
+4. $ mkdir website  AND  $ touch index.html  
+5. $ touch about.html  
 
 ## What should happen when I open my two new files?
 A blank page should open in your web browser. 
