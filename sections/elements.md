@@ -14,13 +14,13 @@ Tags and elements are the structuring components of html webpages.
 	  This is also a paragraph
 	</p>
 
-Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a strong element, which emphasizes the included text by bolding it.
+Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a strong element, which emphasizes the included text by making it bold.
 
 	<p>
 	  When I came home from school, I saw he had <strong>stolen</strong> my chocolate pudding.
 	</p>e
 
-Other elements have self-closing tags as with the image element below. These tags are also called **void tags** These elements don't require a separate closing tag, and these tags don't require a closing tag because you wouldn't add an element into this element.
+Other elements have self-closing tags as with the image element below. These tags are also called **void tags**. These elements don't require a separate closing tag. These tags don't require a closing tag because you wouldn't add an element into this element.
 	
 	<img src="image.jpeg">
 
