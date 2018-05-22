@@ -2,9 +2,9 @@
 
 # Links
 
-Links are the foundation of the world wide web, and so are an important component of most websites. By hyperlinking text, you can move between the different webpages on your site (sometimes in the form of a menu or navigation bar), or connect to other resources or information on other websites.
+Links are the foundation of the World Wide Web, and so are an important component of most websites. By hyperlinking text, you can move between the different webpages on your site (sometimes in the form of a menu or navigation bar), or connect to other resources or information on other websites.
 
-The `<a>` tag, or **anchor tag**, creates the link to another document. You can use the `<a>` tag to link to other documents or webpages you created for the same site or to documents or webpages created by other web users. 
+The `<a>` tag, or **anchor tag**, creates a link to another document. You can use the `<a>` tag to link to other documents or webpages you created for the same site or to documents or webpages created by other web users. 
 
 ## Option 1: Relative Links
 
