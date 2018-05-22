@@ -23,7 +23,7 @@ After the `DOCTYPE`, we see the start of the **Root Element**. EVERYTHING—all 
 
 The root element begins by indicating which language the document is written in; and in this basic template, `en` tells us and the computer that we are writing in English. 
 
-Within the root element of the basic template below, you'll notice the two main sections of all HTML documents - a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
+Within the root element of the basic template below, you'll notice the two main sections of all HTML documents: a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
 
 The **head section** contains basic information about the file such as the title, keywords, authors, a short description, etc. This is also where you will link to your CSS stylesheet which describes how you want the page styled (what color, font, size of text, where and how do you want the cotent laid out, etc—something we'll talk about later.
 
@@ -50,7 +50,7 @@ These are the first two pages of your new website!
 
 *Note: The `index.html` file is your default homepage. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [Resources](resource.md) for more.
 
-Once you have both documents saved, open them by
+Once you have both documents saved, open them by:
 A. Opening your file manager (i.e. Finder on Macs)
 B. From the command line, make sure you are in the same folder as the file, and type open `index.html`.
 
@@ -65,11 +65,11 @@ After opening your terminal, you:
 4. $ mkdir website  AND  $ touch index.html  
 5. $ touch about.html  
 
-## What should happen when I open my two new files?
+## What should happen when I open each of my two new files?
 A blank page should open in your web browser. 
 
 When you 'View Page Source', you should see the code for the basic template. 
 
-No content renders on the page, because there is no coontent in the template at this time. 
+No content renders on the page, because there is no content in the template at this time. 
 
 [<<<Back](opening_activity.md) | [Next>>>](elements.md)
