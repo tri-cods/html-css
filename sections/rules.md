@@ -28,7 +28,7 @@ The first rule applies to all `<h1>` tags on each page where your HTML document 
 
 The lines within the curly braces (i.e. `{ }`) are called **selectors**, and they change the formatting of the elements in the HTML document. Each selector ends in a semicolon (`;`).
 
-Note the different syntax being used for the different rule sets. The bottom two are specific kinds of rule sets called **classes** and **ids**. In general, classes and ids allow for more specific styling - more on these soon! 
+Note the different syntax being used for the different rule sets. The bottom two are specific kinds of rule sets called **classes** and **ids**. In general, classes and ids allow for more specific styling—more on these soon! 
 
 ## ACTIVITY
 Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.  
