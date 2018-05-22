@@ -13,7 +13,7 @@ I encourage you to use an external stylesheet with classes and IDs to style part
 		<li> Change the font of your paragraph text. </li>
 		<li> Change the background color of your navigation bar or menu. </li>
 		<li> Center your image on your page. </li>
-		<li> Shape up your navbar </li>
+		<li> Shape up your navigation bar. </li>
 	</ul>
 </p>
 
