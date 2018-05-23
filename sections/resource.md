@@ -1,18 +1,15 @@
 [<<<Back](public.md) | [Back to Beginning>>>](../README.md)
 
-<h3> Why index.html? </h3> 
+## Cheatsheets
+- HTML
+- CSS
 
-[Understanding the index.html Page on a Website, *Thought Co.*](https://www.thoughtco.com/index-html-page-3466505)
+## HTML Tutorials
 
-<h2>
-	Free and Cheap Hosting Services
-</h2>
+## CSS Tutorials
 
-1. Reclaim Hosting
-<img src="reclaim.jpeg"/>
-
-<p>
-<a href:"https://pages.github.com/" Github Pages/> 
-</p>v
+## Other Guides
+- Design
+- Accessibility
 
 [<<<Back](public.md) | [Back to Beginning>>>](../README.md)
