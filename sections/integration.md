@@ -76,13 +76,12 @@ Option 3, external styling, is preferred by most web developers because it is co
 Create a stylesheet through the command line. 
 
 In your `index.html` document, link to your style sheet and re-save the file. 
-<br/>
-<br/>
+
 ## Command Line to create style sheet:
-After opening terminal:
-2. $ cd Desktop
-3. $ cd Institute_Site
-4. $ touch style.css
+After opening terminal: </br>
+2. $ cd Desktop </br>
+3. $ cd Institute_Site </br>
+4. $ touch style.css </br>
 5. $ open style.css
 
 ## Where should the stylesheet be linked? 
