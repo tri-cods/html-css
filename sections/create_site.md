@@ -4,7 +4,7 @@
 
 Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future institute. 
 
-On your desktop, create a new folder called `Institute_Site`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site. 
+On your desktop, create a new folder called `webite`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site. 
 
 **Challenge:** Practice using the command line. Commands are written out below if you need help getting started. 
 
@@ -59,8 +59,8 @@ Finished? Play around with other tags by referring to an [html cheatsheet](http:
 ## Command Line for new folder and file
 After opening the terminal: </br>
 2. $ cd Desktop </br>
-3. $ mkdir Institute_Site </br>
-4. $ cd Institute_Site </br>
+3. $ mkdir website </br>
+4. $ cd website </br>
 5. $ touch index.html
 
 [<<<Back](conventions.md) | [Next>>>](css_basic.md) 
