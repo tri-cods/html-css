@@ -31,7 +31,7 @@ The **body section** contains the content of the page including paragraphs, imag
 
 ## Activity
 
-Create a folder called `html_css` on your desktop.
+Create a folder called `website` on your desktop.
 
 **CHALLENGE** Use the command line to do it. 
 
@@ -40,30 +40,23 @@ Create a folder called `html_css` on your desktop.
 3. Create a new folder called "website"
 4. Create a new file in that folder called index.html. 
 5. Create a second new file in that folder called about.html.
-(See below for commands.)
+(See below for help remembering the commands.)
 
-Open your text editor (Visual Studio Code) and open your two newly created files (index.html and about.html).
+Open your text editor (VS Code) and open your two newly created files (index.html and about.html).
 
 Type or copy and paste the template above into your two new text files and resave.
 
 These are the first two pages of your new website! 
 
-*Note: The `index.html` file is your default homepage. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [Resources](resource.md) for more.
+*Note: The `index.html` file is your default homepage. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
 
 Once you have both documents saved, open them by:
-A. Opening your file manager (i.e. Finder on Macs)
-B. From the command line, make sure you are in the same folder as the file, and type open `index.html`.
+A. Opening from your file manager (i.e. Finder on Macs)
+B. From the command line, make sure you are in the same folder as the file, and type open `filename` `(in this case `index.html` and 'about.html')`
 
-What happens? 
+### What happens? 
 
 Open your secondary and view the page source. How can you explain what happens when you open these text files? 
-
-## Command line to Create New files
-After opening your terminal, you:  
-2. $ cd Desktop  
-3. $ mkdir website  
-4. $ mkdir website  AND  $ touch index.html  
-5. $ touch about.html  
 
 ## What should happen when I open each of my two new files?
 A blank page should open in your web browser. 
@@ -71,5 +64,13 @@ A blank page should open in your web browser.
 When you 'View Page Source', you should see the code for the basic template. 
 
 No content renders on the page, because there is no content in the template at this time. 
+
+## Command line to Create New folders and files
+After opening your terminal, you:  
+2. $ cd Desktop  
+3. $ mkdir website  
+4. $ cd website
+5. $ touch index.html  
+6. $ touch about.html  
 
 [<<<Back](opening_activity.md) | [Next>>>](elements.md)
