@@ -1,4 +1,4 @@
-add resource list here. look at Kelsey's? 
+[<<<Back](public.md) | [Back to Beginning>>>](../README.md)
 
 <h3> Why index.html? </h3> 
 
@@ -14,3 +14,5 @@ add resource list here. look at Kelsey's?
 <p>
 <a href:"https://pages.github.com/" Github Pages/> 
 </p>v
+
+[<<<Back](public.md) | [Back to Beginning>>>](../README.md)
