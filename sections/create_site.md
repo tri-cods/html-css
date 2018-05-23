@@ -61,6 +61,6 @@ After opening the terminal: </br>
 2. $ cd Desktop </br>
 3. $ mkdir Institute_Site </br>
 4. $ cd Institute_Site </br>
-4. $ touch index.html
+5. $ touch index.html
 
 [<<<Back](conventions.md) | [Next>>>](css_basic.md) 
