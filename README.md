@@ -13,8 +13,8 @@ By the end of this workshop, participants will:
 
 For this workshop, participants will need: 
 
-- A text editor such as Sublime.
-- An internet browser such as Chrome.
+- A text editor such as VS Code.
+- An internet browser such as Firefox.
 
 
 ## Table of Contents
@@ -43,9 +43,9 @@ For this workshop, participants will need:
 [Activity: Creating a CSS Stylesheet](sections/creating_stylesheet.md)  
 [Troubleshooting](sections/troubleshooting.md)  
 
-### Looking Ahead
+### Recap & Looking Ahead
 
+[Summary](sections/summary.md)
 [Making your Website Public](sections/public.md)  
-*Additional Resources forthcoming*  
 
 [Next>>>](sections/introduction.md)
