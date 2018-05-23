@@ -41,7 +41,7 @@ Create a folder called `website` on your desktop.
 4. Create a new file in that folder called index.html. 
 5. Create a second new file in that folder called about.html.
 
-TIP: See below for help remembering the commands.
+**TIP: See below for help remembering the commands.**
 
 Open your text editor (VS Code) and open your two newly created files (index.html and about.html).
 
