@@ -52,6 +52,6 @@ Incorporating classes and IDs into the styling of your document includes two ste
 ```
 
 ## Tip
-If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
+If you run into an error, be sure to **check your syntax**. Often times it is a mistype, or overlooking a semi-colon, etc.
 
 [<<<Back](filter.md) | [Next>>>](selectors.md)
