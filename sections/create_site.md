@@ -57,10 +57,10 @@ Here are two additional tags that might come in handy in assembling your page:
 Finished? Play around with other tags by referring to an [html cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
 
 ## Command Line for new folder and file
-After opening the terminal:
-2. cd Desktop </br>
-3. mkdir Institute_Site </br>
-4. cd Institute_Site </br>
-4. touch index.html
+After opening the terminal: </br>
+2. $ cd Desktop </br>
+3. $ mkdir Institute_Site </br>
+4. $ cd Institute_Site </br>
+4. $ touch index.html
 
 [<<<Back](conventions.md) | [Next>>>](css_basic.md) 
