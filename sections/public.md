@@ -1,4 +1,4 @@
-[<<<Back](troubleshooting) | [Next>>>](../README.md)
+[<<<Back](summary.md) | [Next>>>](resources.md)
 
 # Making Your Website Public
 
@@ -35,4 +35,4 @@ You can also treat your computer as a server, and [host a website directly from 
 - [How To Use FTP Through the Command Line in Mac OS X](http://www.techradar.com/how-to/software/operating-systems/how-to-use-ftp-through-the-command-line-in-mac-os-x-1305664)
 - [How to Use the Mac Terminal as an FTP or SFTP Client](https://beebom.com/how-to-use-mac-terminal-ftp-sftp-client/)
 
-[<<<Back](troubleshooting) | [Next>>>](../README.md)
+[<<<Back](troubleshooting) | [Next>>>](resources.md)
