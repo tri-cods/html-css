@@ -2,7 +2,7 @@
 
 # Integrating CSS and HTML
 
-In order for CSS to inform the style of the content on the page, it must be integrated with your HTML. CSS can be integrated into your HTML in three ways. 
+In order for CSS to inform the style of the content on the page, it must be integrated with your HTML. CSS can be integrated into your HTML in three ways: inline, internal, and external.
 
 ## Option 1: Inline
 
@@ -78,8 +78,12 @@ Create a stylesheet through the command line.
 In your `index.html` document, link to your style sheet and re-save the file. 
 <br/>
 <br/>
-## Creating a stylesheet through the command line:
-After opening the terminal, 2. cd Desktop, 3. cd Institute_Site, 4. touch style.css
+## Command Line to create style sheet:
+After opening terminal:
+2. $ cd Desktop
+3. $ cd Institute_Site
+4. $ touch style.css
+5. $ open style.css
 
 ## Where should the stylesheet be linked? 
 The style sheet should follow `Option 3: External` - inserting the following code into the head element: 
