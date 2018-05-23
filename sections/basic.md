@@ -31,13 +31,13 @@ The **body section** contains the content of the page including paragraphs, imag
 
 ## Activity
 
-Create a folder called `website` on your desktop.
+Create a folder called `htmlpractice` on your desktop.
 
 **CHALLENGE** Use the command line to do it. 
 
 1. Open your terminal
 2. Navigate to your desktop
-3. Create a new folder called "website"
+3. Create a new folder called "htmlpractice"
 4. Create a new file in that folder called index.html. 
 5. Create a second new file in that folder called about.html.
 
