@@ -12,7 +12,7 @@ HTML is a markup language used to write web-based documents. It's used to design
 
 <h2> Markup language vs. Programming Language </h2>
 HTML is a markup language, not a programming language, and functionally and conceptually there is a difference. Whereas programming languages are used to transform data—by creating scripts that organize an output of data based on a particular input of data—a markup language is used to control the presentation of data. 
-
+</br>
 For a practical example of this difference we can think about tables. A programming language can help you search through a table, understand the kinds of data the table includes, find particular data points, or transform its content into other kinds of data like frequencies. A markup language will help you create and arrange the table and add content to it.
 
 A common way to refer to the differences between a programming language and a markup language is that the former is *interpreted* while the latter is *compiled*.
