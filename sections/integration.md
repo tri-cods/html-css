@@ -85,7 +85,9 @@ After opening terminal: </br>
 5. $ open style.css
 
 ## Where should the stylesheet be linked? 
-The style sheet should follow `Option 3: External` - inserting the following code into the head element: 
+The style sheet should follow `Option 3: External`.
+
+Insert the following code into the head element: 
 
 `<link rel="stylesheet" href="style.css">`
 
