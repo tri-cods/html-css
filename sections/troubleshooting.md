@@ -1,4 +1,4 @@
-[<<<Back](creating_stylesheet.md) | [Next>>>](public.md)
+[<<<Back](creating_stylesheet.md) | [Next>>>](summary.md)
 
 # Troubleshooting
 
@@ -16,4 +16,4 @@ If you think its an **error with the CSS**, then from the Page Source you'll nee
 <br/>
 <br/>
 
-[<<<Back](creating_stylesheet.md) | [Next>>>](public.md)
+[<<<Back](creating_stylesheet.md) | [Next>>>](summary.md)
