@@ -40,7 +40,8 @@ Create a folder called `website` on your desktop.
 3. Create a new folder called "website"
 4. Create a new file in that folder called index.html. 
 5. Create a second new file in that folder called about.html.
-(See below for help remembering the commands.)
+
+TIP: See below for help remembering the commands.
 
 Open your text editor (VS Code) and open your two newly created files (index.html and about.html).
 
@@ -66,10 +67,10 @@ When you 'View Page Source', you should see the code for the basic template.
 No content renders on the page, because there is no content in the template at this time. 
 
 ## Command line to Create New folders and files
-After opening your terminal, you:  
+After opening your terminal:  
 2. $ cd Desktop  
 3. $ mkdir website  
-4. $ cd website
+4. $ cd website   </br>
 5. $ touch index.html  
 6. $ touch about.html  
 
