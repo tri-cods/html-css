@@ -4,9 +4,9 @@
 
 Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future institute. 
 
-On your desktop, create a new folder called `Institute_Site`. 
+On your desktop, create a new folder called `Institute_Site`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site. 
 
-Create a `index.html` file inside that folder. This will be the homepage or landing page of your site. 
+**Challenge** Practice using the command line. Commands are written out below if you need help getting started. 
 
 ## This page should include the following:
 <p>
@@ -56,7 +56,11 @@ Here are two additional tags that might come in handy in assembling your page:
 ## CHALLENGE
 Finished? Play around with other tags by referring to an [html cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
 
-## Using Command Line to make a new folder and create an index.html file within it
-After opening the terminal, 2. cd Desktop, 3. mkdir Institute_Site, 3. cd Institute_Site, 4. touch index.html
+## Command Line for new folder and file
+After opening the terminal:
+2. cd Desktop, 
+3. mkdir Institute_Site, 
+4. cd Institute_Site, 
+4. touch index.html
 
 [<<<Back](conventions.md) | [Next>>>](css_basic.md) 
