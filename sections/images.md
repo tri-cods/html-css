@@ -16,6 +16,16 @@ The same rules apply here as with the `href` tag: if the image is not located in
 
 ![Chrome broken image icon](broken.png)
 
+## Making Images Accessible
+
+Alternative text, or alt text, is descriptive "text associated with an image that serves the same purpose and conveys the same essential information as the image" [Wikipedia Manual of Style/Accessibility/Alternative Text for Images](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility/Alternative_text_for_images), and is important for ensuring content conveyed by images is accessible to all.  
+
+To add alternative text to an image, you add an additional attribute, `alt` followed by your descriptive text. For example:
+
+`<img src="filename.png" alt="Text in these quotes describes the image" />`
+
+For more information, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say. 
+
 ## Activity
 
 Download and save an image from the web, or move an image from your computer into the same folder as your `index.html` file. 
