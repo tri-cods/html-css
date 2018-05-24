@@ -1,4 +1,4 @@
-[<<<Back](public.md) | [Back to Beginning>>>](../README.md)
+[<<<Back](public.md) | [Back to Beginning>>>](projects.md)
 
 # Resources
 
@@ -15,4 +15,4 @@
 - [Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)
 - [Web Design Inspiration](https://www.webdesign-inspiration.com/)
 
-[<<<Back](public.md) | [Back to Beginning>>>](../README.md)
+[<<<Back](public.md) | [Back to Beginning>>>](projects.md)
