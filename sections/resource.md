@@ -2,20 +2,17 @@
 
 # Resources
 
-Below is a set of resources to supplement the content of this workshop. They help you expand your understanding of these two languages, learn more about important 
-
 ## Cheatsheets
 - [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
 - [CSS Cheatsheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf)
 
 ## Tutorials
-- [HTML Tutorial](https://www.tutorialspoint.com/index.htm)
-- [CSS Tutorial](https://www.csstutorial.net/)
-- [Other, HTML & CSS & Beyond](https://www.w3schools.com/default.asp)
-- [Javascript, another language](https://www.javascript.com/)
+- [HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
-## Other Guides
-- Web Design
-- Web Development with Accessibility in Min
+## Other
+- [Code School's Beginner's Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
+- [Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)
+- [Web Design Inspiration](https://www.webdesign-inspiration.com/)
 
 [<<<Back](public.md) | [Back to Beginning>>>](../README.md)
