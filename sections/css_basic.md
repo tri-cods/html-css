@@ -2,7 +2,7 @@
 
 # CSS Basics
 
-CSS stands for Cascading Stylesheet. This language works in coordination with HTML, but is its own language with its own rules and terminology. In contrast to HTML, which is responsible for the content of the page, CSS is responsible for the presentation of the page.
+CSS stands for Cascading Style Sheets. This language works in coordination with HTML, but is its own language with its own rules and terminology. In contrast to HTML, which is responsible for the content of the page, CSS is responsible for the presentation of the page.
 
 Examples of what CSS can help you determine include:
 <p>
