@@ -17,8 +17,8 @@ For a practical example of this difference we can think about tables. A programm
 
 A common way to refer to the differences between a programming language and a markup language is that the former is *interpreted* while the latter is *compiled*.
 
-## CSS, aka Cascading Stylesheet
-CSS is a language for describing style in markup languages, and is usually used in conjunction with HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. Its name—cascading stylesheets—refers to the fact that there is an order of precedence in how CSS rules are applied to a document; in short, more specific rules overwrite less specific rules.
+## CSS, aka Cascading Style Sheets
+CSS is a language for describing style in markup languages, and is usually used in conjunction with HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. Its name—cascading style sheets—refers to the fact that there is an order of precedence in how CSS rules are applied to a document; in short, more specific rules overwrite less specific rules.
 
 ## Where does the Internet come in?
 Together, these languages can be used to write and style a website using a text editor (i.e. VS Code) directly from your computer. No Internet access needed. 
