@@ -1,7 +1,6 @@
 [<<<Back](opening_activity.md) | [Next>>>](elements.md)
 
 # Basic Template for HTML
-are you working? 
 
 Below is a basic template for an empty HTML Document. 
 
