@@ -48,7 +48,7 @@ For this workshop, participants will need:
 
 [Summary](sections/summary.md)</br>
 [Making your Website Public](sections/public.md) </br>
-[Resources](resource.md)
+[Resources](resource.md) </br>
 [Projects](projects.md)
 
 [Get Started>>>](sections/introduction.md)
