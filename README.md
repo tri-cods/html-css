@@ -16,6 +16,7 @@ For this workshop, participants will need:
 - A text editor such as VS Code.
 - An internet browser such as Firefox.
 
+[Get Started>>>](sections/introduction.md)
 
 ## Table of Contents
 
@@ -46,6 +47,7 @@ For this workshop, participants will need:
 ### Recap & Looking Ahead
 
 [Summary](sections/summary.md)</br>
-[Making your Website Public](sections/public.md)  
+[Making your Website Public](sections/public.md)
+[Resources](resource.md)  
 
-[Next>>>](sections/introduction.md)
+[Get Started>>>](sections/introduction.md)
