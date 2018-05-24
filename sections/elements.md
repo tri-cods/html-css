@@ -20,13 +20,11 @@ Elements which have an opening and closing tag can have other elements inside th
 	  When I came home from school, I saw he had <strong>stolen</strong> my chocolate pudding.
 	</p>e
 
-Other elements have self-closing tags as with the image element below. These tags are also called **void tags**. These elements don't require a separate closing tag. These tags don't require a closing tag because you wouldn't add an element into this element.
+Other elements have self-closing tags as with the image element below. These tags are also called **void tags**. These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements—it doesn't for example, make sense to put anything inside an image.
 	
-	<img src="image.jpeg">
+	<img alt="This is an image" src="image.jpeg">
 
-If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. This is because each of these main elements contains a number of more specific elements, many of which we'll discuss today.
-<br/>
-<br/>
+If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. Each of these main elements will eventually hold many other elements, many of which will be the content of our website.
 
 [<<<Back](basic.md) | [Next>>>](p_and_h.md)
 	

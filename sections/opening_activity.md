@@ -10,13 +10,10 @@
 
 ![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](page_source.jpeg)
 
-
-## What do you see?
-
-## What should you see? 
+## What you're seeing
 
 A second page should open in your browser, and that page should display the underlying code of the page. This is the code that is used to make and render the page in your web browser. 
 
-Through this workshop, we are going to learn how to read and write this code, and render them in the browser on your local computer. At the end we will discuss the next steps for how you could get your text files to render a website on the Internet. 
+Through this workshop, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
 
 [<<<Back](introduction.md) | [Next>>>](basic.md)
