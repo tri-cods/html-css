@@ -47,7 +47,7 @@ For this workshop, participants will need:
 ### Recap & Looking Ahead
 
 [Summary](sections/summary.md)</br>
-[Making your Website Public](sections/public.md)
+[Making your Website Public](sections/public.md) </br>
 [Resources](resource.md)  
 
 [Get Started>>>](sections/introduction.md)
