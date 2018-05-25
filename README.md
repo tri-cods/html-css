@@ -17,24 +17,24 @@ By the end of this workshop, participants will:
 ## HTML Basics
 
 [Introduction](sections/introduction.md)  
-[Opening Activity](sections/opening_activity.md)  
+[Opening activity](sections/opening_activity.md)  
 [Basic template](sections/basic.md)  
 [Tags and elements](sections/elements.md)  
 [Paragraphs and headings](sections/p_and_h.md)  
 [Links](sections/links.md)  
 [Images](sections/images.md)  
-[General Conventions](sections/conventions.md)  
-[Activity: Creating a Website](sections/create_site.md)  
+[Conventions](sections/conventions.md)  
+[Challenge: Creating a website](sections/create_site.md)  
 
 ## CSS Basics
 
 [CSS Basics](sections/css_basic.md)  
-[HTML/CSS Integration](sections/integration.md)  
+[HTML/CSS integration](sections/integration.md)  
 [Rule sets](sections/rules.md)  
 [Filtering](sections/filter.md)  
 [Classes and ids](sections/classes.md)  
 [Useful selectors](sections/selectors.md)  
-[Activity: Creating a CSS Stylesheet](sections/creating_stylesheet.md)  
+[Activity: creating a CSS stylesheet](sections/creating_stylesheet.md)  
 [Troubleshooting](sections/troubleshooting.md)  
 
 ## Resources

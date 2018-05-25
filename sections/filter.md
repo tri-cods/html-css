@@ -6,12 +6,12 @@ Some of you may be wondering whether it matters what order you add the rule sets
 
 So if your stylesheet contained the following rule sets:
 
-```
+```css
 p {
-	color: green;
+    color: green;
 }
 p strong {
-	color: red;
+    color: red;
 }
 ```
 
