@@ -1,14 +1,15 @@
 [<<<Back](selectors.md) | [Next>>>](troubleshooting.md)
 
-# ACTIVITY: Stylizing your Institute Site with CSS
+# Challenge: Styling your Institute site with CSS
 
 Using the CSS basics we've just reviewed, and the list of selectors found on the [Selectors page](selectors.md) and online, give your website some styling.
 
 I encourage you to use an external stylesheet with classes and IDs to style particular aspects of your site more specifically, but feel free to also play around with inline and internal styling if desired. 
 
 ## Challenge
+
 - Change the color and size of your heading text. 
-- Change the font of your paragragh text. 
+- Change the font of your paragraph text. 
 - Change the background color of your navigation bar or menu. 
 - Center your image on your page. 
 - Shape up your navbar.
