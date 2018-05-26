@@ -2,7 +2,7 @@
 
 # Introduction to HTML and CSS
 
-HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is language used for design and layout. Together, these languages form the foundation of what one needs to know to create well-organized websites that are useful and well-designed.
+HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is a language used for design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed.
 
 By the end of this workshop, participants will:
 

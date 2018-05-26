@@ -40,7 +40,7 @@ Let's use the command line to create the new folder and files:
 4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
 5. Paste the template above (starting with `<!DOCTYPE html>`) into the new file.
 
-The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
+The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
 
 Once you've created your `index.html` file, open it with a web browser using your graphical user interface:
 

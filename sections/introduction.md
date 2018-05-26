@@ -2,7 +2,7 @@
 
 # Introduction
 
-Websites seem like these magical things that appear when we open our web browser (i.e. Chrome, Firefox, Safari). We know that websites are hypertext, meaning that we can click between links, travelling from page to page until we find what we need. What may be less obvious about websites is that, in essence **websites are plain text documents**, usually written in HTML or another web-based markup language, such as XML or XHTML.
+Websites seem like these magical things that appear when we open our web browser (i.e. Chrome, Firefox, Safari). We know that websites are hypertext, meaning that we can click between links, travelling from page to page until we find what we need. What may be less obvious about websites is that, fundamentally **websites are plain text documents**, usually written in HTML or another web-based markup language, such as XML or XHTML.
 
 *Fun fact*: **Nearly 80% of all websites (whose markup language we know) use HTML.** 
 [(w3techs.com)](https://w3techs.com/technologies/details/ml-html/all/all)
@@ -11,7 +11,7 @@ Websites seem like these magical things that appear when we open our web browser
 
 HTML is a markup language used to write web-based documents. It's used to designate "elements" in documents, such as paragraphs, images, headings, and links, so that they can be rendered by programs such as browsers. 
 
-## Markup language vs. Programming Language
+## Markup language vs. programming Language
 
 HTML is a markup language, not a programming language, and functionally and conceptually there is a difference. Whereas programming languages are used to transform data, by creating scripts that organize an output of data based on a particular input of data, a markup language is used to control the presentation of data. 
 
