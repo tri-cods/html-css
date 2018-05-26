@@ -42,7 +42,6 @@ By the end of this workshop, participants will:
 [Summary](sections/summary.md)  
 [Making your Website Public](sections/public.md)  
 [Resources](sections/resource.md)  
-[Projects](sections/projects.md)  
 
 -----
 
