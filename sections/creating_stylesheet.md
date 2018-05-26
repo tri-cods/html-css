@@ -12,14 +12,14 @@ I encourage you to use an external stylesheet with classes and IDs to style part
 - Change the font of your paragraph text. 
 - Change the background color of your navigation bar or menu. 
 - Center your image on your page. 
-- Shape up your navbar.
+- [Shape up your navbar.](navbar-hint.css)
 
 **Reminder:** After creating a stylesheet, you must link it to all HTML documents that you want this styling to apply to. You can do so with the `<link>` tag:
 
-	<link rel="stylesheet" type="text/css" href="style.css">
+```html
+<link rel="stylesheet" type="text/css" href="style.css">
+```
 	
 This will tell your HTML document to apply the style rules from the text file named `style.css` in the same folder.
-<br/>
-<br/>
 
 [<<<Back](selectors.md) | [Next>>>](troubleshooting.md)

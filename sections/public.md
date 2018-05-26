@@ -2,11 +2,13 @@
 
 # Making your website public
 
-Great job! Now you have an AMAZING website *stuck* on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared? 
+Great job! Now you have an AMAZING website *stuck* on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
 
-The basic answer is FTP—but what is FTP, how does it work, and how can I use it to get my website on the Internet? 
+To get your site on the internet, you'll need **hosting**—that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a service.
 
-FTP means **file transfer protocol** and in short, is the method used to share files from your computer (*a client*) to another computer called a server, and back again over the Internet. This is something we do ALL THE TIME, but we refer to it as 'uploading' and 'downloading'. 
+You'll also need a way of getting your website to your host. That's where FTP, or File Transfer Protocol, comes in.
+
+FTP is a protocol used to share files from your computer (*a client*) to another computer called a server, and back again over the Internet. This is something we do ALL THE TIME, but we refer to it as "uploading" and "downloading."
 
 Note: Though FTP stands for file transfer protocol, you are not really transfering or moving your files from your computer; instead they are *copied** to the server. Fear not!
 
@@ -31,9 +33,7 @@ An **FTP client** is software designed specifically for the purpose of sharing f
 
 ## Web hosting
 
-You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). 
-
-You can also treat your computer as a server, and [host a website directly from your computer](https://makeawebsitehub.com/host-website-computer/). 
+You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). As long as your site is just plain HTML and CSS, it's also possible to host your website for free on services such as [GitHub Pages](https://pages.github.com/).
 
 ## Web hosting services
 

@@ -4,6 +4,8 @@
 
 Classes and IDs can also assist with more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that IDs are unique, used to identify one specific element or part of an element, whereas classes are used to identify multiple instances of the same type of element.
 
+Basically, if you're styling a part of your page that is unique, such as the navbar or footer, use an ID. If you're styling something that recurs in different places, like an info box or form field, use a class.
+
 Incorporating classes and IDs into the styling of your document includes two steps:
 
 - First, some CSS rules must be added to your stylesheet.
@@ -13,7 +15,7 @@ The code for classes and IDs is different in both CSS and HTML.
 
 ## Class selectors
 
-Class selectors look like this—the name of the selector preceeded by a full stop:
+Class selectors in CSS are denoted with a period in front of the class name you're creating. They look like this:
 
 ```css
 .intro {
@@ -33,7 +35,7 @@ Class selectors look like this—the name of the selector preceeded by a full st
 
 ## ID selectors 
 
-...clook like this in the CSS - the name of the selector preceeded by a hashmark:
+Id slectors are denoted by a hash (`#`) (also known as a pound sign or octothorpe) before the ID name:
 
 ```css
 #navbar {
@@ -52,6 +54,6 @@ Class selectors look like this—the name of the selector preceeded by a full st
 
 ## Tip
 
-If you run into an error, be sure to **check your syntax**. Often times it is a mistype, or overlooking a semi-colon, etc. See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
+If you run into an error, be sure to **check your syntax**. Often times it is a typo, or overlooking a semi-colon, etc. See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
 
 [<<<Back](filter.md) | [Next>>>](selectors.md)

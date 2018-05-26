@@ -45,7 +45,7 @@ What do you notice about how the information is organized in the webpage? In oth
 
 ## What you should see
 
-Heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab. 
+Your heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab. 
 
 ![Image of the boiler example above rendered in Google Chrome](../images/boiler-example.png)
 

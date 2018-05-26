@@ -12,7 +12,9 @@ Relative links take the current page as an origin point and search for other fil
 
 The following appears as a link to the `about.html` page in the same folder as `index.html`:
 
-	<a href="about.html">About</a>
+```html
+<a href="about.html">About</a>
+```
 
 On your webpage it will appear as:
 

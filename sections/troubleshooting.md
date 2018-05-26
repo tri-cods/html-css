@@ -13,5 +13,6 @@ If you think its an **error with the HTML**, you'll be able to see it there.
 If you think its an **error with the CSS**, then from the Page Source you'll need to click on the link for the `style.css` page. The link to this page should be found in the head of your page. 
 - Don't see it? That may be the problem! Be sure the text document is linked to the external style sheet. 
 - If you do see it, open the link to see what CSS the browser is reading and applying to your HTML. It should match what you have in your text editor. If it looks like an earlier version of your style sheet, then maybe you need to re-save the document.
+- If the link to your CSS doesn't open, it's likely that your link tag is pointing to the wrong location.
 
 [<<<Back](creating_stylesheet.md) | [Next>>>](summary.md)

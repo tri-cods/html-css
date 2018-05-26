@@ -1,6 +1,6 @@
 [<<<Back](conventions.md) | [Next>>>](css_basic.md)
 
-#  Challenge: Create an Institute Site
+#  Challenge: create an Institute Site
 
 For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](cli-reminder.md).
 
@@ -28,8 +28,6 @@ Don't worry about getting the content just right, as much as using this exercise
 Here are two additional tags that might come in handy in assembling your page:
 
 To make a list:
-    </ul>
-</p>
 
 ```html
 <ul>
@@ -47,7 +45,7 @@ To make a line break or give space between different elements:
 <br>
 ```
 
-## Further Challenge
+## Further challenge
 
 Finished early? Play around with other tags by referring to this [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
 
