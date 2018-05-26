@@ -2,9 +2,9 @@
 
 # Making your website public
 
-Great job! Now you have an AMAZING website *stuck* on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
+Great job! Now you have an amazing website, but it's stuck on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
 
-To get your site on the internet, you'll need **hosting**—that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a service.
+To get your site on the internet, you'll need **hosting**—that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
 
 You'll also need a way of getting your website to your host. That's where FTP, or File Transfer Protocol, comes in.
 
