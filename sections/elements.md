@@ -24,8 +24,15 @@ Elements which have an opening and closing tag can have other elements inside th
 </p>e
 ```
 
-Other elements have self-closing tags as with the image element below. These tags are also called **void tags**. These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements—it doesn't for example, make sense to put anything inside an image.
-	
+Other elements have self-closing tags as with the image element below. These tags are also called **void tags**. 
+
+```html
+<img src="image.jpeg">
+```
+These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements—it doesn't for example, make sense to add any additional content inside an image. 
+
+At best you may add information or styling using CSS - such as alt text.
+
 ```html
 <img alt="This is an image" src="image.jpeg">
 ```
