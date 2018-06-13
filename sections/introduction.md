@@ -19,6 +19,8 @@ For a practical example of this difference, we can think about tables. A program
 
 Fundamentally, then, a script or program is a set of instructions given to the computer. A document in a markup language determines how information is presented to a user.
 
+**NOTE - Markup vs Markdown:** Markdown and HTML are both types of markup languages; Markdown is a play on words. Markup languages help format content. 
+
 ## Cascading Style Sheets (CSS)
 
 CSS is a language for describing style in markup languages, and is usually used in conjunction with HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. Its name—cascading style sheets—refers to the fact that there is an order of precedence in how CSS rules are applied to a document; in short, more specific rules overwrite less specific rules.
