@@ -1,6 +1,6 @@
 [<<<Back](conventions.md) | [Next>>>](css_basic.md)
 
-#  Challenge: create an Institute Site
+#  Challenge: Create an Institute Site
 
 For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](cli-reminder.md).
 
@@ -8,7 +8,7 @@ Using the tags we've just reviewed, and two additional ones (see below) begin cr
 
 In your `projects` folder on your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
 
-Add HTNL to your `index.html` file. This page should include the following:
+Add HTML to your `index.html` file. This page should include the following:
 
 - Doctype
 - Root element
