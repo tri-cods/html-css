@@ -30,7 +30,7 @@ The **head section** contains basic information about the file such as the title
 The **body section** contains the content of the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page. 
 ## Activity
 
-Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, create a folder on your desktop instead.
+Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, create a folder on your desktop instead. Inside that folder, create two new text files: `index.html` and `about.html`.
 
 Let's use the command line to create the new folder and files:
 
@@ -39,10 +39,11 @@ Let's use the command line to create the new folder and files:
 3. Create a new folder: `mkdir htmlpractice`.
 4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
 5. Paste the template above (starting with `<!DOCTYPE html>`) into the new file.
+6. Repeat to create a text file titled `about.html`
 
 The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
 
-Once you've created your `index.html` file, open it with a web browser using your graphical user interface:
+Once you've created your new files, open them with a web browser using your graphical user interface:
 
 On Mac OS, click on the Finder in your dock (the apps at the bottom of the screen) and click on Desktop on the left. From there, navigate to `projects`, then `htmlpractice`. Alternately, you can click the projects folder icon on your Desktop and find it from there. If you're on Mac and would prefer to use the command line, you can also type `open index.html` from within your `htmlpractice` folder.
 
