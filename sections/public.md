@@ -37,8 +37,8 @@ You also need a server to transfer your files to, where they can be stored and s
 
 ## Web hosting services
 
-[The Best Web Hosting Services](https://www.makeuseof.com/tag/best-web-hosting-services/)  
-[Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)  
-[10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)  
+- [The Best Web Hosting Services](https://www.makeuseof.com/tag/best-web-hosting-services/)  
+- [Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)  
+- [10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)  
 
 [<<<Back](troubleshooting) | [Next>>>](resource.md)
