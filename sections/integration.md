@@ -61,7 +61,7 @@ Internal styling also adds CSS directly into the HTML, but keeps it separate fro
 
 ## Option three: external
 
-External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same folder as the HTML document it is linked to.
+External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a **stylesheet** and should be named `style.css`. This document must be stored in the same folder as the HTML document it is linked to.
 
 ```html
 <!DOCTYPE html>
@@ -81,11 +81,11 @@ Option 3, external styling, is preferred by most web developers because it's mor
 
 ## Challenge
 
-Create a stylesheet using the command line. In your `index.html` document, link to your style sheet and re-save the file. 
+Create a stylesheet using the command line (following option 3, external styling, described above). In your `index.html` document, link to your style sheet and re-save the file. 
 
 If you need a reminder on which commands to use to create your new stylesheet file, see [here](cli-reminder2.md).
 
-To link your stylesheet with your `index.html` file, insert the following code into the head element:
+To link your stylesheet with your `index.html` file, insert the following code into the head element of that `index.html` file:
 
 ```html
 <link rel="stylesheet" href="style.css">
