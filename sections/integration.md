@@ -61,7 +61,7 @@ Internal styling also adds CSS directly into the HTML, but keeps it separate fro
 
 ## Option three: external
 
-External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same folder as the HTML document it is linked to.
+External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a **stylesheet** and should be named `style.css`. This document must be stored in the same folder as the HTML document it is linked to.
 
 ```html
 <!DOCTYPE html>
