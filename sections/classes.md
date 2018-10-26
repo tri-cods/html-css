@@ -34,8 +34,7 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 ```
 
 ## ID selectors 
-
-Id slectors are denoted by a hash (`#`) (also known as a pound sign or octothorpe) before the ID name:
+...look like this in the CSS—the name of the selector preceeded by a hashmark (`#`) (also known as a pound sign or octothorpe):
 
 ```css
 #navbar {
@@ -53,7 +52,6 @@ Id slectors are denoted by a hash (`#`) (also known as a pound sign or octothorp
 ```
 
 ## Tip
-
-If you run into an error, be sure to **check your syntax**. Often times it is a typo, or overlooking a semi-colon, etc. See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
+*If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.* See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
 
 [<<<Back](filter.md) | [Next>>>](selectors.md)
