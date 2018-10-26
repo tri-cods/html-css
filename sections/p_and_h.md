@@ -8,7 +8,7 @@ The `<h1>`, `<h2>`, `<h3>`, etc tags denote **headings** and **subheadings**, `<
 
 The `<p>` tags denote **paragraphs**, or blocks of text.
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,8 +27,9 @@ The `<p>` tags denote **paragraphs**, or blocks of text.
 
 </html>
 ```
+Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes. The title doesn't appear on the page, but instead elsewhere in the browser when the page is displayed. For example, in Chrome, the title appears on the tab above the navbar.
 
-*Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes.* 
+![Image showing where the title appears in the Chrome web browser](../images/title.png)
 
 ## Activity
 
@@ -44,5 +45,7 @@ What do you notice about how the information is organized in the webpage? In oth
 
 ## What should you see? 
 The heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab. 
+
+![Image of the boiler example above rendered in Google Chrome](../images/boiler-example.png)
 
 [<<<Back](elements.md) | [Next>>>](links.md)

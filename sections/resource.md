@@ -1,16 +1,19 @@
-add resource list here. look at Kelsey's? 
+[<<<Back](public.md) | [Back to Beginning>>>](../README.md)
 
-<h3> Why index.html? </h3> 
+# Resources
 
-[Understanding the index.html Page on a Website, *Thought Co.*](https://www.thoughtco.com/index-html-page-3466505)
+## Cheatsheets
+[HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)  
+[CSS Cheatsheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf)  
 
-<h2>
-	Free and Cheap Hosting Services
-</h2>
+## Tutorials
+[HTML Tutorial](https://www.w3schools.com/html/default.asp)  
+[CSS Tutorial](https://www.w3schools.com/css/default.asp)  
 
-1. Reclaim Hosting
-<img src="reclaim.jpeg"/>
+## Other
+[Code School's Beginner's Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)  
+[Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)  
+[Web Design Inspiration](https://www.webdesign-inspiration.com/)  
+[YouTube Series: How to Build a Responsive Website from Start to Finish](https://www.youtube.com/playlist?annotation_id=annotation_698551941&feature=iv&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI&src_vid=WX0MpDuUqqw)   
 
-<p>
-<a href:"https://pages.github.com/" Github Pages/> 
-</p>v
+[<<<Back](public.md) | [Back to Beginning>>>](../README.md)

@@ -23,53 +23,39 @@ After the `DOCTYPE`, we see the start of the **Root Element**. EVERYTHING—all 
 
 The root element begins by indicating which language the document is written in; and in this basic template, `en` tells us and the computer that we are writing in English. 
 
-Within the root element of the basic template below, you'll notice the two main sections of all HTML documents - a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
+Within the root element of the basic template below, you'll notice the two main sections of all HTML documents: a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
 
-The **head section** contains basic information about the file such as the title, keywords, authors, a short description, etc. This is also where you will link to your CSS stylesheet which describes how you want the page styled (what color, font, size of text, where and how do you want the cotent laid out, etc—something we'll talk about later.
+The **head section** contains basic information about the file such as the title, keywords, authors, a short description, and so on. This is also where you will link to your CSS stylesheet which describes how you want the page styled—what color, font, size of text, and positioning of elements on the page.
 
-The **body section** contains the content of the page including paragraphs, images, links, and more, and indicates how this content is to be structured on the page. 
-
+The **body section** contains the content of the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page. 
 ## Activity
 
-Create a folder called `html_css` on your desktop.
+Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, create a folder on your desktop instead. Inside that folder, create a new text file and save it as `index.html`.
 
-**CHALLENGE** Use the command line to do it. 
+Let's use the command line to create the new folder and file:
 
-1. Open your terminal
-2. Navigate to your desktop
-3. Create a new folder called "website"
-4. Create a new file in that folder called index.html. 
-5. Create a second new file in that folder called about.html.
-(See below for commands.)
+1. Open your terminal.
+2. Navigate to your projects folder using this command: `cd ~/Desktop/projects`.
+3. Create a new folder: `mkdir htmlpractice`.
+4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
+5. Paste the template above (starting with `<!DOCTYPE html>`) into the new file.
 
-Open your text editor (Visual Studio Code) and open your two newly created files (index.html and about.html).
+The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
 
-Type or copy and paste the template above into your two new text files and resave.
+Once you've created your new file, open them with a web browser using your graphical user interface:
 
-These are the first two pages of your new website! 
+On Mac OS, click on the Finder in your dock (the apps at the bottom of the screen) and click on Desktop on the left. From there, navigate to `projects`, then `htmlpractice`. Alternately, you can click the projects folder icon on your Desktop and find it from there. If you're on Mac and would prefer to use the command line, you can also type `open index.html` from within your `htmlpractice` folder.
 
-*Note: The `index.html` file is your default homepage. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [Resources](resource.md) for more.
+On Windows, click the `projects` folder icon on your desktop. Navigate to `projects`, then `htmlpractice`. Double click the `index.html` file. If it does not open in a browser, right click the `index.html` icon and select `Open with...` from the menu. Select Firefox or Google Chrome from the app list that appears.
 
-Once you have both documents saved, open them by
-A. Opening your file manager (i.e. Finder on Macs)
-B. From the command line, make sure you are in the same folder as the file, and type open `index.html`.
+### What happens?
 
-What happens? 
+When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold control and click with Mac OS) and view the page source. How can you explain what happens when you open these text files? 
 
-Open your secondary and view the page source. How can you explain what happens when you open these text files? 
-
-## Command line to Create New files
-After opening your terminal, you:
-2. $ cd Desktop
-3. $ mkdir website
-4. $ mkdir website  AND  $ touch index.html
-5. $ touch about.html
-
-## What should happen when I open my two new files?
-A blank page should open in your web browser. 
+## What should happen when I open each of my two new files?
 
 When you 'View Page Source', you should see the code for the basic template. 
 
-No content renders on the page, because there is no coontent in the template at this time. 
+No content renders on the page, because there is no content in the template at this time. 
 
 [<<<Back](opening_activity.md) | [Next>>>](elements.md)
