@@ -2,56 +2,56 @@
 
 # Classes and IDs
 
-Classes and IDs can also assist with more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that **IDs are unique**, used to identify one specfic element or part of an element, whereas **classes are used to identify multiple instances of the same type of element**.
+Classes and IDs can also assist with more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that IDs are unique, used to identify one specific element or part of an element, whereas classes are used to identify multiple instances of the same type of element.
 
-Incorporating classes and IDs into the styling of your document includes two steps: 
+Basically, if you're styling a part of your page that is unique, such as the navbar or footer, use an ID. If you're styling something that recurs in different places, like an info box or form field, use a class.
 
-<ul>
-	<li> First, some CSS rules must be added to your stylesheet; </li>
-	<li> Second, some HTML code that refers to the stylesheet must be added to your HTML document. <i> Note that this is in addition to the general link to the stylesheet.</i> </li>
-</ul>
+Incorporating classes and IDs into the styling of your document includes two steps:
 
-**The code for classes and IDs is different in both CSS and HTML.**
+- First, some CSS rules must be added to your stylesheet.
+- Second, some HTML code that refers to the stylesheet must be added to your HTML document. Note that this is in addition to the general link to the stylesheet.
+
+The code for classes and IDs is different in both CSS and HTML.
 
 ## Class selectors
-...look like this - the name of the selector preceeded by a full stop:
 
-```
+Class selectors in CSS are denoted with a period in front of the class name you're creating. They look like this:
+
+```css
 .intro {
-	font-family: arial;
-	background-color: grey;
-	color: dark grey;
+    font-family: arial;
+    background-color: grey;
+    color: dark grey;
 }
 ```
 
 ...and in HTML they are incorporated into elements like this:
 
-```
+```html
 <p class="intro">
-		This is my introduction to my paragraph and I want to be distinguished from the rest of my content so I will add it as a class and note where the intros are found in my HTML.
+  This is my introduction to my paragraph and I want to be distinguished from the rest of my content so I will add it as a class and note where the intros are found in my HTML.
 </p>
 ```
 
 ## ID selectors 
-...look like this in the CSS—the name of the selector preceeded by a hashmark:
+...look like this in the CSS—the name of the selector preceeded by a hashmark (`#`) (also known as a pound sign or octothorpe):
 
-```
+```css
 #navbar {
-	background-color: yellow;
-	passing: 80px
+    background-color: yellow;
+    passing: 80px
 }
 ```
-
 ...and in the HTML they are incorporated into elements like this:
 
-```
+```html
 <ul id="navbar">
-	<li> Home </li>
-	<li> About </li>
+  <li> Home </li>
+  <li> About </li>
 </ul>
 ```
 
 ## Tip
-*If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
+*If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.* See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
 
 [<<<Back](filter.md) | [Next>>>](selectors.md)
