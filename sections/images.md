@@ -28,6 +28,12 @@ To add alternative text to an image, you add an additional attribute, `alt` foll
 
 For more information, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say. 
 
+## What images can I use on my site?
+
+If you're planning to use images that you did not take or make yourself, you'll need to use "public domain" or "open license" images. 
+
+This [guide by the OpenLab at City Tech](https://openlab.citytech.cuny.edu/blog/help/following-copyright-guidelines-for-images/) includes more information on licensure and a list of places where you can find reuseable images. 
+
 ## Activity
 
 Download and save an image from the web, or move an image from your computer into the same folder as your `index.html` file.
