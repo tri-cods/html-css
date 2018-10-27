@@ -12,7 +12,7 @@ I encourage you to use an external stylesheet with classes and IDs to style part
 - Change the font of your paragraph text. 
 - Change the background color of your navigation bar or menu. 
 - Center your image on your page. 
-- [Shape up your navbar.](navbar-hint.css)
+- [Shape up your navigation bar.](navbar-hint.css)
 
 **Reminder:** After creating a stylesheet, you must link it to all HTML documents that you want this styling to apply to. You can do so with the `<link>` tag:
 

@@ -2,7 +2,7 @@
 
 # Rule Sets
 
-CSS is based on rules. Rule sets look like this:
+CSS is based on rules. Rule sets—that are included in a .css file—look like this:
 
 ```css
 h1 {
