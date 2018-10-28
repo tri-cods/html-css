@@ -10,7 +10,7 @@ h1 {
     font-style: italic;
 }
 p {
-    font-family: san serif;
+    font-family: sans-serif;
     font-style: normal;
 }
 #navbar {
@@ -20,7 +20,7 @@ p {
 .intro {
     font-family: arial;
     background-color: grey;
-    color: dark grey;
+    color: dark-grey;
 }
 ```
 
