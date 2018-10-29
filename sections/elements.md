@@ -31,7 +31,7 @@ Other elements have self-closing tags as with the image element below. These tag
 ```
 These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements—it doesn't for example, make sense to add any additional content inside an image. 
 
-Below is HTML that adds alternative text to an image - or text that describes the image. This information added is an attribute - or something that modifies the default functionality of an element.
+Below is HTML that adds alternative text to an image—or text that describes the image. This information added is an attribute—or something that modifies the default functionality of an element.
 
 ```html
 <img alt="This is an image" src="image.jpeg">
