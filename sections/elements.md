@@ -21,7 +21,7 @@ Elements which have an opening and closing tag can have other elements inside th
 ```html
 <p>
   When I came home from school, I saw he had <strong>stolen</strong> my chocolate pudding.
-</p>e
+</p>
 ```
 
 Other elements have self-closing tags as with the image element below. These tags are also called **void tags**. 
