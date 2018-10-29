@@ -26,7 +26,9 @@ This link is asking the browser to look for a file titled `about.html` in the sa
 
 An absolute link includes information that allows the browser to file resources on other websites. This information includes the site domain—such as `google.com`—and often the protocol—such as `http` or `https`.
 
-	<a href="http://www.google.com">Google</a>
+```html
+<a href="http://www.google.com">Google</a>
+```
 
 On your webpage it will appear as:
 
