@@ -20,7 +20,7 @@ On your webpage it will appear as:
 
 [About](about.html)  
 
-This link is asking the browser to look for a file titled `about.html` in the same folder. If a file named `about.html` is not in the same folder, clicking the link will result in a `404 -Page Not Found` error.
+This link is asking the browser to look for a file titled `about.html` in the same folder. If a file named `about.html` is not in the same folder, clicking the link will result in a `404—Page Not Found` error.
 
 ## Option Two: Absolute Links
 
