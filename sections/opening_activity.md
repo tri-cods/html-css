@@ -2,8 +2,8 @@
 
 # Opening Activity
 
-1. Open a web browser (NOTE: please use Firefox or Chrome. Safari will not allow you to complete this activity). 
-2. Go to any webpage
+1. Open a web browser. (NOTE: please use Firefox or Chrome. Safari will not allow you to complete this activity.)
+2. Go to any webpage.
 3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the "control" button then click the track pad).
 4. Select ‘View Page Source’ from the dropdown menu. 
 
