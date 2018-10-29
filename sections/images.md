@@ -9,7 +9,7 @@ Images are created with the `<img>` tag. Similar to the `<a>` tag, `<img>` requi
 The following element pulls in an image located in the same folder as the `.html` file:
 
 ```html
-<img src="scream.jpeg"/>
+<img src="scream.jpeg" />
 ```
 
 The same rules apply here as with the `href` tag: if the image is not located in the same folder as the document you are writing in, the image will not be found by the browser. If the browser cannot find an image resource, you will see a broken image icon, such as this one from Chrome:
@@ -23,7 +23,7 @@ Alternative text, or alt text, is descriptive "text associated with an image tha
 To add alternative text to an image, you add an additional attribute, `alt` followed by your descriptive text. For example:
 
 ```html
-<img src="filename.png" alt="Text in these quotes describes the image" />`
+<img src="filename.png" alt="Text in these quotes describes the image" />
 ```
 
 For more information, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say. 
