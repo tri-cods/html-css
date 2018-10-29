@@ -21,7 +21,7 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 .intro {
     font-family: arial;
     background-color: grey;
-    color: dark grey;
+    color: dark-grey;
 }
 ```
 
@@ -39,15 +39,15 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 ```css
 #navbar {
     background-color: yellow;
-    passing: 80px
+    passing: 80px;
 }
 ```
 ...and in the HTML they are incorporated into elements like this:
 
 ```html
 <ul id="navbar">
-  <li> Home </li>
-  <li> About </li>
+  <li>Home</li>
+  <li>About</li>
 </ul>
 ```
 
