@@ -1,6 +1,6 @@
 [<<<Back](troubleshooting.md) | [Next>>>](public.md)
 
-# Workshop summary
+# Workshop Summary
 
 Through this workshop, you have learned the basics of two of the most commonly-used languages for building on the web: HTML and CSS. 
 
