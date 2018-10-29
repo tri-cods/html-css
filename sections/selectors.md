@@ -17,8 +17,10 @@ color: #000000;
 
 Sets the background color of an element.
 
-	background-color: pink
-	background-color: #F601F6;
+```css
+background-color: pink
+background-color: #F601F6;
+```
 
 ### Text align
 
