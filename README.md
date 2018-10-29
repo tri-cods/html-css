@@ -17,29 +17,29 @@ By the end of this workshop, participants will:
 ## HTML Basics
 
 [Introduction](sections/introduction.md)  
-[Opening activity](sections/opening_activity.md)  
-[Basic template](sections/basic.md)  
-[Tags and elements](sections/elements.md)  
-[Paragraphs and headings](sections/p_and_h.md)  
+[Opening Activity](sections/opening_activity.md)  
+[Basic Template for HTML](sections/basic.md)  
+[Tags and Elements](sections/elements.md)  
+[Paragraphs and Headings](sections/p_and_h.md)  
 [Links](sections/links.md)  
 [Images](sections/images.md)  
 [Conventions](sections/conventions.md)  
-[Challenge: Creating a website](sections/create_site.md)  
+[Challenge: Create an Institute Website](sections/create_site.md)  
 
 ## CSS Basics
 
 [CSS Basics](sections/css_basic.md)  
-[HTML/CSS integration](sections/integration.md)  
-[Rule sets](sections/rules.md)  
+[Integrating CSS and HTML](sections/integration.md)  
+[Rule Sets](sections/rules.md)  
 [Filtering](sections/filter.md)  
-[Classes and ids](sections/classes.md)  
+[Classes and IDs](sections/classes.md)  
 [Useful selectors](sections/selectors.md)  
-[Activity: creating a CSS stylesheet](sections/creating_stylesheet.md)  
+[Challenge: Styling Your Institute Website with CSS](sections/creating_stylesheet.md)  
 [Troubleshooting](sections/troubleshooting.md)  
 
 ## Resources
 
-[Summary](sections/summary.md)  
+[Workshop Summary](sections/summary.md)  
 [Making your Website Public](sections/public.md)  
 [Resources](sections/resource.md)  
 
