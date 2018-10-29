@@ -1,6 +1,6 @@
 [<<<Back](conventions.md) | [Next>>>](css_basic.md)
 
-#  Challenge: Create an Institute Site
+# Challenge: Create an Institute Website
 
 For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](cli-reminder.md).
 
