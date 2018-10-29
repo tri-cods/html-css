@@ -1,6 +1,6 @@
 [<<<Back](selectors.md) | [Next>>>](troubleshooting.md)
 
-# Challenge: Styling your Institute site with CSS
+# Challenge: Styling Your Institute Website with CSS
 
 Using the CSS basics we've just reviewed, and the list of selectors found on the [Selectors page](selectors.md) and online, give your website some styling.
 
