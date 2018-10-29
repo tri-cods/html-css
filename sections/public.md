@@ -1,6 +1,6 @@
 [<<<Back](summary.md) | [Next>>>](resource.md)
 
-# Making your website public
+# Making your Website Public
 
 Great job! Now you have an amazing website, but it's stuck on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
 
