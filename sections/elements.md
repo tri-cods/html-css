@@ -12,7 +12,7 @@ Tags and elements are the structuring components of html webpages.
 <p>This is a paragraph.</p>
 	
 <p>
-  This is also a paragraph
+	This is also a paragraph
 </p>
 ```
 	
@@ -20,7 +20,7 @@ Elements which have an opening and closing tag can have other elements inside th
 
 ```html
 <p>
-  When I came home from school, I saw he had <strong>stolen</strong> my chocolate pudding.
+	When I came home from school, I saw he had <strong>stolen</strong> my chocolate pudding.
 </p>
 ```
 
