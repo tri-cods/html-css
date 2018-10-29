@@ -10,7 +10,7 @@ You'll also need a way of getting your website to your host. That's where FTP, o
 
 FTP is a protocol used to share files from your computer (*a client*) to another computer called a server, and back again over the Internet. This is something we do ALL THE TIME, but we refer to it as "uploading" and "downloading."
 
-Note: Though FTP stands for file transfer protocol, you are not really transfering or moving your files from your computer; instead they are *copied** to the server. Fear not!
+Note: Though FTP stands for file transfer protocol, you are not really transfering or moving your files from your computer; instead they are *copied* to the server. Fear not!
 
 In order to transfer your website files (also called your website's directory) to a server you will need:
 
