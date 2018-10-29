@@ -74,7 +74,7 @@ External styling creates a completely separate document for your CSS that will b
   </body>
 </html>
 ```
-This separate document for your CSS that is linked to your HTML document (through the above code) is called a **stylesheet** and should be named `stlye.css`. This document must be stored in the same folder as the HTML document it is linked to.  
+This separate document for your CSS that is linked to your HTML document (through the above code) is called a **stylesheet** and should be named `style.css`. This document must be stored in the same folder as the HTML document it is linked to.  
 
 ## Best practices
 
