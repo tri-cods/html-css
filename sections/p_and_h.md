@@ -21,7 +21,7 @@ The `<p>` tags denote **paragraphs**, or blocks of text.
 		Cleaning my boiler
 	</h1>
 	<p>
-	When I got to my basement that day, I knew that I just had to clean my boiler. It was just too dirty. Honestly, it was getting to be a hazard. So I got my wire brush and put on my most durable pair of boiler-cleaning overalls. It was going to be a long day.
+		When I got to my basement that day, I knew that I just had to clean my boiler. It was just too dirty. Honestly, it was getting to be a hazard. So I got my wire brush and put on my most durable pair of boiler-cleaning overalls. It was going to be a long day.
 	</p>
 </body>
 
