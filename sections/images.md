@@ -12,7 +12,7 @@ The following element pulls in an image located in the same folder as the `.html
 <img src="scream.jpeg">
 ```
 
-The same rules apply here as with the `href` tag: if the image is not located in the same folder as the document you are writing in, the image will not be found by the browser. If the browser cannot find an image resource, you will see a broken image icon, such as this one from Chrome:
+The same rules apply here as with the `href` attribute: if the image is not located in the same folder as the document you are writing in, the image will not be found by the browser. If the browser cannot find an image resource, you will see a broken image icon, such as this one from Chrome:
 
 ![Chrome broken image icon](../images/broken.png)
 
