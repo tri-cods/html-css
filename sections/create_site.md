@@ -27,7 +27,7 @@ Don't worry about getting the content just right, as much as using this exercise
 
 Here are two additional tags that might come in handy in assembling your page:
 
-To make a list:
+To make a list, you open and close it with the `ul` tags, and each item is an enclosed `li` tag:
 
 ```html
 <ul>
