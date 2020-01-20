@@ -46,7 +46,7 @@ By the end of this workshop, participants will:
 -----
 
 Session Leader: Kristen Hackett  
-Based on previous work by Kristen Hackett, Patrick Sweeney, and Patrick Smyth
+Based on previous work by Kristen Hackett, Patrick Sweeney, Patrick Smyth, and Amy Cavender
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
