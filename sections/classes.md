@@ -42,6 +42,8 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 
 Note that it's possible to assign more than one class to an element — just leave a blank space between the two classes, as in the baseball examples above.
 
+Bonus: ID selectors can be used as a link that be used for navigation within a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write HTML like this: `<a href="#mets">Mets</a>`.
+
 ## CSS selectors
 
 Class selectors in CSS are denoted with a period in front of the class name you're creating. They look like this:
