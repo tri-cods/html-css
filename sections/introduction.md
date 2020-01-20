@@ -9,13 +9,13 @@ Websites seem like these magical things that appear when we open our web browser
 
 ## Hypertext Markup Language (HTML)
 
-HTML is a markup language used to write web-based documents. It's used to designate "elements" in documents, such as paragraphs, images, headings, and links, so that they can be rendered by programs such as browsers. 
+HTML is a markup language used to write web-based documents. It enables us to provide web browsers with information about the *content* of a document.  We can, for example, indicate that some part of our document is a paragraph, image, heading, or link. The browser uses this information when displaying the document for users.
 
 ## Markup language vs. programming Language
 
-HTML is a markup language, not a programming language, and functionally and conceptually there is a difference. Whereas programming languages are used to transform data, by creating scripts that organize an output of data based on a particular input of data, a markup language is used to control the presentation of data. 
+HTML is a *markup* language, not a programming language. Programming languages are used to transform data, by creating scripts that organize an output of data based on a particular input of data. A markup language is used to control the presentation of data.
 
-For a practical example of this difference, we can think about tables. A programming language can help you search through a table, understand the kinds of data the table includes, find particular data points, or transform its content into other kinds of data like frequencies. A markup language would instead determine the content, layout, and visual presentation of the table.
+For a practical example of this difference, we can think about tables. A programming language can help you search through a table, understand the kinds of data the table includes, find particular data points, or transform its content into other kinds of data, such as frequencies. A markup language would instead determine the content, layout, and visual presentation of the table.
 
 Fundamentally, then, a script or program is a set of instructions given to the computer. A document in a markup language determines how information is presented to a user.
 
@@ -23,11 +23,11 @@ Fundamentally, then, a script or program is a set of instructions given to the c
 
 ## Cascading Style Sheets (CSS)
 
-CSS is a language for describing style in markup languages, and is usually used in conjunction with HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. Its name—cascading style sheets—refers to the fact that there is an order of precedence in how CSS rules are applied to a document; in short, more specific rules overwrite less specific rules.
+CSS is usually used in conjunction with HTML. HTML tells the browser what the different parts of a document *are*. CSS tells the browser what the parts of the document should *look like*. It is essentially a set of rules that are applied when rendering an HTML document. Its name -- Cascading Style Sheets -- refers to the fact that there is an order of precedence in how the browswer applies CSS rules to a document. More specific rules overwrite less specific rules.
 
 ## Where does the internet come in?
 
-Together, these languages can be used to write and style a website using a text editor (i.e. VS Code) directly from your computer. No internet access needed. 
+Together, these languages can be used to write and style a website using a text editor (such as VS Code) directly from your computer. No internet access needed. 
 
 However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss [how to get your website from your local computer onto the internet](public.md).
 
