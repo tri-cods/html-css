@@ -4,7 +4,7 @@
 
 Great job! Now you have an amazing website, but it's stuck on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
 
-To get your site on the internet, you'll need **hosting**—that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
+To get your site on the internet, you'll need **hosting** — that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
 
 You'll also need a way of getting your website to your host. That's where FTP, or File Transfer Protocol, comes in.
 
@@ -22,7 +22,7 @@ Assuming you all can manage accessing the internet on your own, let's focus on t
 
 ## FTP client
 
-An **FTP client** is software designed specifically for the purpose of sharing files between computers. There are widely-used, freely-available GUIs (i.e. graphic user interface, or the point-and-click, user-friendly software interfaces you are used to) that you can download for use, including [Filezilla](https://filezilla-project.org/) and [Cyberduck](https://cyberduck.io/?l=en). You can also run an FTP client program through the command line on most computers, though the process varies by operating system.
+An **FTP client** is software designed specifically for the purpose of sharing files between computers. There are widely-used, freely-available GUI applications (i.e., applications that use a graphic user interface, or the point-and-click, user-friendly software interfaces you are used to) that you can download for use, including [Filezilla](https://filezilla-project.org/) and [Cyberduck](https://cyberduck.io/). You can also run an FTP client program through the command line on most computers, though the process varies by operating system.
 
 ### Other Resources about FTP:
 
@@ -33,7 +33,7 @@ An **FTP client** is software designed specifically for the purpose of sharing f
 
 ## Web hosting
 
-You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). As long as your site is just plain HTML and CSS, it's also possible to host your website for free on services such as [GitHub Pages](https://pages.github.com/).
+You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI (CUNY Graduate Center Digital Initiatives) website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). As long as your site is just plain HTML and CSS, it's also possible to host your website for free on services such as [GitHub Pages](https://pages.github.com/).
 
 ## Web hosting services
 
