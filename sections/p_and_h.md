@@ -4,7 +4,7 @@
 
 Paragraphs and headings are the main textual elements of the body of your webpages. Because these contain content that you want to organize and display on your webpage, these are entered in the body element. 
 
-The `<h1>`, `<h2>`, `<h3>`, etc tags denote **headings** and **subheadings**, `<h1>` being the largest.
+The `<h1>`, `<h2>`, `<h3>`, etc. tags denote **headings** and **subheadings**, with `<h1>` being the largest and `<h6>` the smallest.
 
 The `<p>` tags denote **paragraphs**, or blocks of text.
 
