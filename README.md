@@ -7,7 +7,7 @@ HTML (Hypertext Markup Language) is a markup language used to create and organiz
 By the end of this workshop, participants will:
 
 - Familiarize themselves with the anatomy of a webpage and how the Internet works.
-- Understand the basics of the HTML and CSS markdown languages.
+- Understand the basics of the HTML and CSS markup languages.
 - Use HTML, CSS, and a text editor to build a small website.
 
 [Get Started >>>](sections/introduction.md)
