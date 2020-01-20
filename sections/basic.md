@@ -23,14 +23,14 @@ After the `DOCTYPE`, we see the start of the **Root Element**. EVERYTHING—all 
 
 The root element begins by indicating which language the document is written in; and in this basic template, `en` tells us and the computer that we are writing in English. 
 
-Within the root element of the basic template below, you'll notice the two main sections of all HTML documents: a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
+Within the root element of the basic template above, you'll notice the two main sections of all HTML documents: a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
 
-The **head section** contains basic information about the file such as the title, keywords, authors, a short description, and so on. This is also where you will link to your CSS stylesheet which describes how you want the page styled—what color, font, size of text, and positioning of elements on the page.
+The **head section** contains basic information about the file such as the title, keywords, authors, a short description, and so on. This is also where you will link to your CSS stylesheet which describes how you want the page styled — colors, fonts, size of text, and positioning of elements on the page.
 
 The **body section** contains the content of the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page. 
 ## Activity
 
-Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, create a folder on your desktop instead. Inside that folder, create a new text file and save it as `index.html`.
+Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, you can create one now. Inside that folder, create a new text file and save it as `index.html`.
 
 Let's use the command line to create the new folder and file:
 
@@ -42,7 +42,7 @@ Let's use the command line to create the new folder and file:
 
 The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
 
-Once you've created your new file, open them with a web browser using your graphical user interface:
+Once you've created your new file, open it with a web browser using your graphical user interface:
 
 On Mac OS, click on the Finder in your dock (the apps at the bottom of the screen) and click on Desktop on the left. From there, navigate to `projects`, then `htmlpractice`. Alternately, you can click the projects folder icon on your Desktop and find it from there. If you're on Mac and would prefer to use the command line, you can also type `open index.html` from within your `htmlpractice` folder.
 
