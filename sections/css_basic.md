@@ -6,7 +6,7 @@ CSS stands for Cascading Style Sheets. This language works in coordination with 
 
 Examples of what CSS can help you determine include:
 
-- What background color you want the page or a paragraph to be.
+- What background color you want to use for the page or a paragraph.
 - What font or font size you want for your headings or your normal text.
 - How large you want the images, and whether you want them aligned center, left, or right.
 - Where elements appear on the page.
