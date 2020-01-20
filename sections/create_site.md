@@ -37,6 +37,8 @@ To make a list, you open and close it with the `ul` tags, and each item is an en
 </ul>
 ```
 
+The HTML above will produce an unordered (bulleted) list. To create an ordered (numbered) list instead, just substitute `<ol>` and `</ol>` for `<ul>` and `</ul>`.
+
 (This may come in handy when making your menu or navigation bar.)
 
 To make a line break or give space between different elements:
