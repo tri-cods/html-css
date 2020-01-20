@@ -74,9 +74,14 @@ External styling creates a completely separate document for your CSS that will b
   </body>
 </html>
 ```
-This separate document for your CSS that is linked to your HTML document (through the above code) is called a **stylesheet** and should be named `style.css`. This document must be stored in the same folder as the HTML document it is linked to.  
 
 ## Best practices
+
+It's best practice to use Option 3, external styling, for a number of reasons:
+
+1. It helps us remember what each language focuses on: HTML is for *content*, CSS is for *styling*.
+2. It helps us maintain consistency across the various pages of our site; multiple HTML files can link to the same CSS file.
+3. Because multiple HTML files can link to the same CSS file, it's not necessary to write the same CSS code multiple times. Once suffices.
 
 Option 3, external styling, is preferred by most web developers because it's more manageable and because it lends itself to greater consistency across the entire site.
 
