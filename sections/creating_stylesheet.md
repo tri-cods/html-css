@@ -1,8 +1,8 @@
-[<<<Back](selectors.md) | [Next>>>](troubleshooting.md)
+[<<<Back](properties.md) | [Next>>>](troubleshooting.md)
 
 # Challenge: Styling your Institute Website with CSS
 
-Using the CSS basics we've just reviewed, and the list of selectors found on the [Selectors page](selectors.md) and online, give your website some styling.
+Using the CSS basics we've just reviewed, and the list of properties found on the [Properties page](properties.md) and online, give your website some styling.
 
 I encourage you to use an external stylesheet with classes and IDs to style particular aspects of your site more specifically, but feel free to also play around with inline and internal styling if desired. 
 
@@ -22,4 +22,4 @@ I encourage you to use an external stylesheet with classes and IDs to style part
 	
 This will tell your HTML document to apply the style rules from the text file named `style.css` in the same folder.
 
-[<<<Back](selectors.md) | [Next>>>](troubleshooting.md)
+[<<<Back](properties.md) | [Next>>>](troubleshooting.md)

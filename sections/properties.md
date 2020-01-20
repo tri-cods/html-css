@@ -1,8 +1,8 @@
 [<<<Back](classes.md) | [Next>>>](creating_stylesheet.md)
 
-# Useful Selectors
+# Useful Properties
 
-Below is a list of useful selectors compiled by Digital Fellow [Patrick Smyth](http://smythp.com). There are also [CSS cheatsheets](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf) available online.
+Below is a list of useful properties that can be modified with CSS, compiled by Digital Fellow [Patrick Smyth](http://smythp.com). There are also [CSS cheatsheets](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf) available online.
 
 ## Color
 
