@@ -88,6 +88,6 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 ```
 
 ## Tip
-*If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, etc.* See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
+*If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, etc.* See the [Troubleshooting](17-troubleshooting.md) section for more information on common issues.
 
 [<<<Back](13-filter.md) | [Next>>>](15-properties.md)

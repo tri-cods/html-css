@@ -1,10 +1,10 @@
-## Command Line to create style sheet:
+[<<< Back](11-integration.md)
+
+# Command Line to create style sheet:
 
 After opening terminal: </br>
 
-```bash
+```console
 cd ~/Desktop/website
 code style.css
 ```
-
-[<<< Back](integration.md)
