@@ -4,7 +4,7 @@
 
 After opening terminal: </br>
 
-```console
+```bash
 cd ~/Desktop/website
 code style.css
 ```

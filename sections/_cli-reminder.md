@@ -4,7 +4,7 @@
 
 After opening the terminal:
 
-```console
+```bash
 cd ~/Desktop/projects
 mkdir website
 cd website
