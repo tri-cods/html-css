@@ -14,7 +14,7 @@ The following element pulls in an image located in the same folder as the `.html
 
 The same rules apply here as with the `href` attribute: if the image is not located in the same folder as the document you are writing in, the browser won't find it. If the browser cannot find an image resource, you will see a broken image icon, such as this one from Chrome:
 
-![Chrome broken image icon](../images/broken.png)
+![Chrome broken image icon](images/broken.png)
 
 Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="/images/scream.jpeg">`.
 
