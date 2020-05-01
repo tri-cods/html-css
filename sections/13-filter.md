@@ -1,4 +1,4 @@
-[<<<Back](rules.md) | [Next>>>](classes.md)
+[<<<Back](12-rules.md) | [Next>>>](14-classes.md)
 
 # Filtering
 
@@ -19,4 +19,4 @@ p strong {
 
 This rule also applies to how you integrate CSS into your HTML to style your content. For example, if you link to an external stylesheet, and you add inline or internal CSS into your HTML, the inline or internal CSS will override the rules set in the external stylesheet. Similarly, the inline CSS will override the internal CSS.
 
-[<<<Back](rules.md) | [Next>>>](classes.md)
+[<<<Back](12-rules.md) | [Next>>>](14-classes.md)

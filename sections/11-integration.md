@@ -1,4 +1,4 @@
-[<<<Back](css_basic.md) | [Next>>>](rules.md)
+[<<<Back](10-css_basic.md) | [Next>>>](12-rules.md)
 
 # Integrating CSS and HTML
 
@@ -97,4 +97,4 @@ To link your stylesheet with your `index.html` file, insert the following code i
 <link rel="stylesheet" href="style.css">
 ```
 
-[<<<Back](css_basic.md) | [Next>>>](rules.md)
+[<<<Back](10-css_basic.md) | [Next>>>](12-rules.md)

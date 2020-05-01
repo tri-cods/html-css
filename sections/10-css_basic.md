@@ -1,4 +1,4 @@
-[<<<Back](create_site.md) | [Next>>>](integration.md)
+[<<<Back](09-create_site.md) | [Next>>>](11-integration.md)
 
 # CSS Basics
 
@@ -12,4 +12,4 @@ Examples of what CSS can help you determine include:
 - Where elements appear on the page.
 - Whether elements are visible to a user or not.
 
-[<<<Back](create_site.md) | [Next>>>](integration.md)
+[<<<Back](09-create_site.md) | [Next>>>](11-integration.md)

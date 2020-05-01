@@ -1,4 +1,4 @@
-[<<<Back](p_and_h.md) | [Next>>>](images.md)
+[<<<Back](05-p_and_h.md) | [Next>>>](07-images.md)
 
 # Links
 
@@ -63,4 +63,4 @@ Use relative links when referring to pages on your own site. The main advantage 
 
 When your pages are updated, you should be able to navigate from your Home page to your About page, and vice versa. You should also be able to navigate to the external web page.
 
-[<<<Back](p_and_h.md) | [Next>>>](images.md)
+[<<<Back](05-p_and_h.md) | [Next>>>](07-images.md)

@@ -1,4 +1,4 @@
-[<<<Back](classes.md) | [Next>>>](creating_stylesheet.md)
+[<<<Back](14-classes.md) | [Next>>>](16-creating_stylesheet.md)
 
 # Useful Properties
 
@@ -91,4 +91,4 @@ Sets the font. Usually best to copy this from [Google Fonts](https://fonts.googl
 font-family: 'Lato', sans-serif;
 ```
 
-[<<<Back](classes.md) | [Next>>>](creating_stylesheet.md)
+[<<<Back](14-classes.md) | [Next>>>](16-creating_stylesheet.md)

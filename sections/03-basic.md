@@ -1,4 +1,4 @@
-[<<<Back](opening_activity.md) | [Next>>>](elements.md)
+[<<<Back](02-opening_activity.md) | [Next>>>](04-elements.md)
 
 # Basic Template for HTML
 
@@ -58,4 +58,4 @@ When you 'View Page Source', you should see the code for the basic template.
 
 No content renders on the page, because there is no content in the template at this time. 
 
-[<<<Back](opening_activity.md) | [Next>>>](elements.md)
+[<<<Back](02-opening_activity.md) | [Next>>>](04-elements.md)

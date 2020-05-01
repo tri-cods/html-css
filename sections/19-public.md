@@ -1,4 +1,4 @@
-[<<<Back](summary.md) | [Next>>>](resource.md)
+[<<<Back](18-summary.md) | [Next>>>](20-resource.md)
 
 # Making your Website Public
 
@@ -41,4 +41,4 @@ You also need a server to transfer your files to, where they can be stored and s
 - [Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)  
 - [10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)  
 
-[<<<Back](summary.md) | [Next>>>](resource.md)
+[<<<Back](18-summary.md) | [Next>>>](20-resource.md)

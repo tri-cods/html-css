@@ -1,4 +1,4 @@
-[<<<Back](links.md) | [Next>>>](conventions.md)
+[<<<Back](06-links.md) | [Next>>>](08-conventions.md)
 
 # Images
 
@@ -44,4 +44,4 @@ Tip: Give the file a simple name. Also, the name **cannot** have spaces. A good 
 
 Using the code above as a reference, add that image into your `index.html` file, re-save the file, and re-open or refresh the page in your browser. Your image should now appear on the page.
 
-[<<<Back](links.md) | [Next>>>](conventions.md)
+[<<<Back](06-links.md) | [Next>>>](08-conventions.md)

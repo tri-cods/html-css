@@ -1,4 +1,4 @@
-[<<<Back](conventions.md) | [Next>>>](css_basic.md)
+[<<<Back](08-conventions.md) | [Next>>>](10-css_basic.md)
 
 # Challenge: Create an Institute Website
 
@@ -51,4 +51,4 @@ To make a line break or give space between different elements:
 
 Finished early? Play around with other tags by referring to this [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
 
-[<<<Back](conventions.md) | [Next>>>](css_basic.md) 
+[<<<Back](08-conventions.md) | [Next>>>](10-css_basic.md)

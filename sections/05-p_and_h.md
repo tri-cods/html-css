@@ -1,4 +1,4 @@
-[<<<Back](elements.md) | [Next>>>](links.md)
+[<<<Back](04-elements.md) | [Next>>>](06-links.md)
 
 # Paragraphs and Headings
 
@@ -50,4 +50,4 @@ The heading should appear at the top of the page, followed by the paragraph text
 
 ![Image of the boiler example above rendered in Google Chrome](../images/boiler-example.png)
 
-[<<<Back](elements.md) | [Next>>>](links.md)
+[<<<Back](04-elements.md) | [Next>>>](06-links.md)

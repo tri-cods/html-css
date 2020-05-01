@@ -1,4 +1,4 @@
-[<<<Back](troubleshooting.md) | [Next>>>](public.md)
+[<<<Back](17-troubleshooting.md) | [Next>>>](19-public.md)
 
 # Workshop Summary
 
@@ -12,4 +12,4 @@ Through understanding these languages in combination with one another, you can a
 
 While this is a good starting point, one important question remains: how can I get these text documents on the Internet so they can be accessed, and interacted with, and linked to by others?
 
-[<<<Back](troubleshooting.md) | [Next>>>](public.md)
+[<<<Back](17-troubleshooting.md) | [Next>>>](19-public.md)

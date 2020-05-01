@@ -1,4 +1,4 @@
-[<<<Back](basic.md) | [Next>>>](p_and_h.md)
+[<<<Back](03-basic.md) | [Next>>>](05-p_and_h.md)
 
 # Tags and Elements
 
@@ -41,10 +41,4 @@ Adding alternative text to an image, as was done in this example, is vitally imp
 
 If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. Each of these main elements will eventually hold many other elements, many of which will be the content of our website.
 
-[<<<Back](basic.md) | [Next>>>](p_and_h.md)
-	
-	
-
-	
-
-
+[<<<Back](03-basic.md) | [Next>>>](05-p_and_h.md)

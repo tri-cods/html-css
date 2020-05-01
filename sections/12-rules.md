@@ -1,4 +1,4 @@
-[<<<Back](integration.md) | [Next>>>](filter.md)
+[<<<Back](11-integration.md) | [Next>>>](13-filter.md)
 
 # Rule Sets
 
@@ -40,4 +40,4 @@ The formatting of the text on your page should change accordingly. Your `<h1>` s
 
 What are some other rules you might set for different HTML elements? Do a quick Google search for a CSS rule that changes the appearance of your page, such as putting a border around an element.
 
-[<<<Back](integration.md) | [Next>>>](filter.md)
+[<<<Back](11-integration.md) | [Next>>>](13-filter.md)

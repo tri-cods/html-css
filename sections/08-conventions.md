@@ -1,4 +1,4 @@
-[<<<Back](images.md) | [Next>>>](create_site.md)
+[<<<Back](07-images.md) | [Next>>>](09-create_site.md)
 
 # Conventions
 
@@ -10,4 +10,4 @@ Here are a few examples:
 - Use lower case. While HTML is not case sensitive, it makes scanning the code easier, and makes it look more consistent.
 - Your code should be nested. This is not a technical necessity either — blank space has no meaning in html. However, this makes it easier to scan the code quickly, which is particularly helpful when you run into errors!
 
-[<<<Back](images.md) | [Next>>>](create_site.md)
+[<<<Back](07-images.md) | [Next>>>](09-create_site.md)

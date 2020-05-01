@@ -1,4 +1,4 @@
-[<<<Back](filter.md) | [Next>>>](selectors.md)
+[<<<Back](13-filter.md) | [Next>>>](15-properties.md)
 
 # Classes and IDs
 
@@ -90,4 +90,4 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 ## Tip
 *If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, etc.* See the [Troubleshooting](troubleshooting.md) section for more information on common issues.
 
-[<<<Back](filter.md) | [Next>>>](properties.md)
+[<<<Back](13-filter.md) | [Next>>>](15-properties.md)

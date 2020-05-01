@@ -1,4 +1,4 @@
-[<<<Back](introduction.md) | [Next>>>](basic.md)
+[<<<Back](01-introduction.md) | [Next>>>](03-basic.md)
 
 # Opening Activity
 
@@ -15,4 +15,4 @@ A second tab should open in your browser displaying the underlying code of the p
 
 In this session, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
 
-[<<<Back](introduction.md) | [Next>>>](basic.md)
+[<<<Back](01-introduction.md) | [Next>>>](03-basic.md)
