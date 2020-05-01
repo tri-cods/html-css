@@ -29,6 +29,6 @@ CSS is usually used in conjunction with HTML. HTML tells the browser what the di
 
 Together, these languages can be used to write and style a website using a text editor (such as VS Code) directly from your computer. No internet access needed. 
 
-However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss [how to get your website from your local computer onto the internet](public.md).
+However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss [how to get your website from your local computer onto the internet](19-public.md).
 
 [<<<Back](../README.md) | [Next>>>](02-opening_activity.md)

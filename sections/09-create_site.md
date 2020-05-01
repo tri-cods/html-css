@@ -2,7 +2,7 @@
 
 # Challenge: Create an Institute Website
 
-For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](cli-reminder.md).
+For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](_cli-reminder.md).
 
 Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Institute. 
 
