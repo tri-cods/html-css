@@ -9,14 +9,17 @@ h1 {
     color: orange;
     font-style: italic;
 }
+
 p {
     font-family: sans-serif;
     font-style: normal;
 }
+
 #navbar {
     background-color: yellow;
     padding: 80px;
 }
+
 .intro {
     font-family: arial;
     background-color: grey;
@@ -32,9 +35,9 @@ Note the different syntax being used to select items for for styling with rule s
 
 ## Challenge
 
-Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.  
+Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.
 
-## What should happen? 
+## What should happen?
 
 The formatting of the text on your page should change accordingly. Your `<h1>` should be orange and italic, for example.
 

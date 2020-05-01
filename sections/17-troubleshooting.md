@@ -2,7 +2,7 @@
 
 # Troubleshooting
 
-It is common — especially in the beginning — that you'll add or amend something to/in your text editor, but it won't present when rendered by your browser.
+It is common—especially in the beginning—that you'll add or amend something to/in your text editor, but it won't present when rendered by your browser.
 
 Your first inclination should be to scan the text in your editor for errors. Nesting will help tremendously with this task. Oftentimes it is as little as forgetting a semicolon or closing tag.
 

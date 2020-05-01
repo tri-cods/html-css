@@ -19,25 +19,31 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 
 ```html
 <ul id="navbar">
-  <li>Home</li>
-  <li>About</li>
+    <li>Home</li>
+    <li>About</li>
 </ul>
+
+
 <h1 class="football">Football teams</h1>
-  <ul>
+<ul>
     <li class="football" id="colts">Indianapolis Colts</li>
     <li class="football" id="packers">Green Bay Packers</li>
-  </ul>
+</ul>
+
+
 <h1 class="baseball">Baseball teams</h1>
-  <p>American League teams</p>
-    <ul>
-      <li class="baseball american" id="twins">Minnesota Twins</li>
-      <li class="baseball american" id="tigers">Detroit Tigers</li>
-    </ul>
-  <p>National League teams</p>
-    <ul>
-      <li class="baseball national" id="dodgers">Los Angeles Dodgers</li>
-      <li class="baseball national" id="mets">New York Mets</li>
-    </ul>
+
+<p>American League teams</p>
+<ul>
+    <li class="baseball american" id="twins">Minnesota Twins</li>
+    <li class="baseball american" id="tigers">Detroit Tigers</li>
+</ul>
+
+<p>National League teams</p>
+<ul>
+    <li class="baseball national" id="dodgers">Los Angeles Dodgers</li>
+    <li class="baseball national" id="mets">New York Mets</li>
+</ul>
 ```
 
 Note that it's possible to assign more than one class to an element — just leave a blank space between the two classes, as in the baseball examples above.
@@ -54,21 +60,24 @@ Class selectors in CSS are denoted with a period in front of the class name you'
   background-color: red;
   color: white;
 }
+
 .football {
   font-family: arial;
   background-color: lightgrey;
   color: blue;
 }
+
 .baseball {
   font-weight: bold;
   color: green;
 }
+
 .american {
   background-color: yellow;
 }
 ```
 
-## ID selectors 
+## ID selectors
 
 ...look like this in the CSS—the name of the selector preceeded by a hashmark (`#`) (also known as a pound sign or octothorpe):
 
@@ -78,16 +87,18 @@ Class selectors in CSS are denoted with a period in front of the class name you'
     padding: 80px;
 }
 ```
+
 ...and in the HTML they are incorporated into elements like this:
 
 ```html
 <ul id="navbar">
-  <li>Home</li>
-  <li>About</li>
+    <li>Home</li>
+    <li>About</li>
 </ul>
 ```
 
 ## Tip
-*If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, etc.* See the [Troubleshooting](17-troubleshooting.md) section for more information on common issues.
+
+*If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc.* See the [Troubleshooting](17-troubleshooting.md) section for more information on common issues.
 
 [<<<Back](13-filter.md) | [Next>>>](15-properties.md)

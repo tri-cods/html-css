@@ -2,7 +2,7 @@
 
 # Filtering
 
-Some of you may be wondering whether it matters what order you add the rule sets to your `style.css` document. The answer is no. CSS has an automatic filtering function where **the most specific rule in CSS always takes precedence.** 
+Some of you may be wondering whether it matters what order you add the rule sets to your `style.css` document. The answer is no. CSS has an automatic filtering function where **the most specific rule in CSS always takes precedence.**
 
 So if your stylesheet contained the following rule sets:
 
@@ -10,6 +10,7 @@ So if your stylesheet contained the following rule sets:
 p {
     color: green;
 }
+
 p strong {
     color: red;
 }

@@ -64,7 +64,7 @@ Determines if text wraps around an element.
 ```css
 float: left;
 ```
-	
+
 ### Display
 
 Determines if an element is treated as a block or inline element. Can also be set to `none`, which makes the element disappear.
@@ -74,7 +74,7 @@ display: inline;
 display: block;
 display: none;
 ```
-	
+
 ### List style
 
 Determines default styling on lists. Usually best to set it to `none`.
