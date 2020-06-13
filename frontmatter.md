@@ -26,7 +26,6 @@ There are no prerequisites required for learning HTML/CSS. However, your website
 
 - "Understanding Web Pages and HTML" on Programming Historian (https://programminghistorian.org/en/lessons/viewing-html-files)
 - "How to build a responsive website from start to finish" on DevTips (https://www.youtube.com/playlist?annotation_id=annotation_698551941&feature=iv&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI&src_vid=WX0MpDuUqqw)
-- 
 
 ### Projects that use these skills
 
