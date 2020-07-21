@@ -2,8 +2,8 @@
 
 Websites seem like these magical things that appear when we open our web browser (i.e. Chrome, Firefox, Safari). We know that websites are hypertext, meaning that we can click between links, travelling from page to page until we find what we need. What may be less obvious about websites is that, fundamentally **websites are plain text documents**, usually written in HTML or another web-based markup language, such as XML or XHTML.
 
-*Fun fact*: **Nearly 80% of all websites (whose markup language we know) use HTML.**
-[(w3techs.com)](https://w3techs.com/technologies/details/ml-html/all/all)
+*Fun fact*: **More than 90% of all websites (whose markup language we know) use HTML**
+[(w3techs.com)](https://w3techs.com/technologies/details/ml-html/all/all).
 
 ## Hypertext Markup Language (HTML)
 
@@ -41,6 +41,8 @@ However, internet access is necessary if you plan on making your website availab
 ## What you're seeing
 
 A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
+
+![Image showing the page source information and underlying HTML code of a webpage](images/pageSource.png)
 
 In this session, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
 
