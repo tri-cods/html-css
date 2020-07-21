@@ -327,7 +327,11 @@ Here are a few examples:
 
 For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](_cli-reminder.md).
 
-Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Institute.
+Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Digital Humanities Institute. Your introductory page should contain:
+- An paragraph of text that describes the workshop.
+- Links to different workshop pages.
+- 3 Images with alt text.
+
 
 In your `projects` folder on your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
 
@@ -372,7 +376,7 @@ To make a line break or give space between different elements:
 
 ## Further challenge
 
-Finished early? Play around with other tags by referring to this [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php).
+Add a table containing a schedule of events to your Institute website. You can learn more about making tables using HTML [here](https://www.w3schools.com/html/html_tables.asp).
 
 # CSS Basics
 
