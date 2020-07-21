@@ -6,9 +6,9 @@ HTML (Hypertext Markup Language) is a markup language used to create and organiz
 
 ## Learning Objectives
 
-By the end of this workshop, participants will:
+By the end of this workshop, you will learn how to:
 
-- Familiarize themselves with the anatomy of a webpage and how the Internet works.
+- Familiarize yourself with the anatomy of a webpage and how the Internet works.
 - Understand the basics of the HTML and CSS markup languages.    
 - Use HTML, CSS, and a text editor to build a small website.    
     
@@ -25,7 +25,6 @@ There are no prerequisites required for learning HTML/CSS. However, your website
 ### Pre-reading suggestions
 
 - ["Understanding Web Pages and HTML" on Programming Historian](https://programminghistorian.org/en/lessons/viewing-html-files)
-- ["How to build a responsive website from start to finish" on DevTips](https://www.youtube.com/playlist?annotation_id=annotation_698551941&feature=iv&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI&src_vid=WX0MpDuUqqw)
 
 ### Projects that use these skills
 
@@ -38,9 +37,7 @@ HTML and CSS are fundamental to building websites. Some projects that use HTML a
 
 Building websites can involve making information public on the internet, which raises a host of intellectual property legal concerns. It is very important to make sure that you prominently declare which creative commons licenses you are using for your website so that visitors to your website are aware of the ways in which they can use the information that you are providing. Learn more about choosing the appropriate creative commons license here on [the Creative Commons website](https://creativecommons.org/choose/).
 
-Another ethical concern when using HTML/CSS to build websites is to correctly acknowledge the labor of all those who have been involved in building the website and gathering the information that it contains. These acknowledgements are usually listed in the website's "about" page.
-
-Creating websites also involves making sure that it is designed to be accessible for those with visual and/or auditory disabilities. If your website displays images, then each image should also contain "alt text" metadata that describes the image such that it is usable for screenreaders. Similarly, if your website involves showcasing audio-based information (like interviews or lectures) then you should provide a transcription of the audio. Learn more about making your website more accessible for those with disabilities in the [W3C's document on Web Accessibility](https://www.w3.org/standards/webdesign/accessibility)
+Creating websites also involves making sure that it is designed to be accessible for those with visual and/or auditory disabilities. If your website displays images, then each image should also contain [alt text](https://accessibility.psu.edu/images/alttext/) metadata that describes the image such that it is usable for screenreaders. Similarly, if your website involves showcasing audio-based information (like interviews or lectures) then you should provide a transcription of the audio. You can also learn more about the standards and guidelines at the [W3C's page on Web Accessibility](https://www.w3.org/standards/webdesign/accessibility). Furthermore, there are also services like the [WAVE tool](https://wave.webaim.org/) that help identify ways of making websites more accessible. 
 
 ## Resources (optional)
 
