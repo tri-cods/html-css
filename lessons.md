@@ -327,10 +327,7 @@ Here are a few examples:
 
 For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](_cli-reminder.md).
 
-Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Digital Humanities Institute. Your introductory page should contain:
-- An paragraph of text that describes the workshop.
-- Links to different workshop pages.
-- 3 Images with alt text.
+Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Digital Humanities Institute.
 
 
 In your `projects` folder on your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
@@ -343,7 +340,7 @@ Add HTML to your `index.html` file. This page should include the following:
 - Title for the page
 - One heading
 - One paragraph
-- One image
+- One image with alt text
 - A menu or navigation bar that links to your Home and About pages
 
 Think about the order of your content as you assemble the body of your page.
