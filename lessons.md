@@ -42,7 +42,7 @@ However, internet access is necessary if you plan on making your website availab
 
 A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
 
-![Image showing the page source information and underlying HTML code of a webpage](images/pageSource.png)
+![Image showing the page source information and underlying HTML code of a webpage](images/pageSource.PNG)
 
 In this session, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
 
