@@ -54,11 +54,13 @@ Below is a basic template for an empty HTML Document.
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-</head>
+  <head>
+      ...
+  </head>
 
-<body>
-</body>
+  <body>
+      ...
+  </body>
 
 </html>
 ```
@@ -84,14 +86,14 @@ Let's use the command line to create the new folder and file:
 1. Open your terminal.
 2. Navigate to your projects folder using this command:
 
-    ```bash
-    cd ~/Desktop/projects
+    ```sh
+    $ cd ~/Desktop/projects
     ```
 
 3. Create a new folder:
 
-    ```bash
-    mkdir htmlpractice
+    ```sh
+    $ mkdir htmlpractice
     ```
 
 4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
@@ -131,7 +133,7 @@ Tags and elements are the structuring components of html webpages.
 </p>
 ```
 
-Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a strong element, which emphasizes the included text by making it bold.
+Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a `strong` element, which emphasizes the included text by making it bold.
 
 ```html
 <p>
@@ -139,7 +141,7 @@ Elements which have an opening and closing tag can have other elements inside th
 </p>
 ```
 
-Other elements have self-closing tags as with the image element below. These tags are also called **void tags**.
+Other elements have self-closing tags as with the `img` (image) element below. These tags are also called **void tags**.
 
 ```html
 <img src="image.jpeg" />
