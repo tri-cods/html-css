@@ -36,13 +36,13 @@ However, internet access is necessary if you plan on making your website availab
 3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the "control" button then click the track pad).
 4. Select ‘View Page Source’ from the dropdown menu.
 
-![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](images/page_source.jpeg)
+![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](images/capture.png)
 
 ## What you're seeing
 
 A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
 
-![Image showing the page source information and underlying HTML code of a webpage](images/pageSource.PNG)
+![Image showing the page source information and underlying HTML code of a webpage](images/capture_pageSource.png)
 
 In this session, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
 
