@@ -23,7 +23,7 @@ What is the difference between a markup language and a programming language?
 
 How do you add images to a webpage using HTML?
 
-How would you connect a CSS file to an HTML document?
+How would you associate a CSS stylesheet with an HTML page?
 
 
 ## Feedback on this workshop
@@ -36,14 +36,14 @@ Which of the following statements best describes your experience completing this
 - The workshop was confusing at times, making it hard to follow along. 
 - The workshop did not offer any new information or skills. 
 
-Please select all that apply. Which section(s) of the Project Lab were most valuable to you? 
+Please select all that apply. Which section(s) of the HTML/CSS workshop were most valuable to you? 
 - Overview of HTML
 - CSS Basics
-- Challenge 1: Creating an Institute Website
+- Challenge 1: Creating an Institute website
 - Challenge 2: Styling your Institute Website
 - Troubleshooting
 - Making your Website Public
-
+- Theory to Practice
 
 What additional topics or information do you wish was covered in this workshop? 
 
