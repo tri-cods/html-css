@@ -848,8 +848,5 @@ You also need a server to transfer your files to, where they can be stored and s
 
 ## Other
 
-[Code School's Beginner's Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)  
 [Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)  
 [Web Design Inspiration](https://www.webdesign-inspiration.com/)  
-[YouTube Series: How to Build a Responsive Website from Start to Finish](https://www.youtube.com/playlist?annotation_id=annotation_698551941&feature=iv&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI&src_vid=WX0MpDuUqqw)   
-
