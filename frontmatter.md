@@ -31,13 +31,13 @@ There are no prerequisites required for learning HTML/CSS. However, your website
 HTML and CSS are fundamental to building websites. Some projects that use HTML and CSS include:
 - [Digital Humanities Research Institute](https://www.dhinstitutes.org/)
 - [Colored Conventions](https://coloredconventions.org/)
-- [Musical Passages](http://www.musicalpassage.org/)
+- [Musical Passage](http://www.musicalpassage.org/)
 
 ### Ethical Considerations
 
-Building websites can involve making information public on the internet, which raises a host of intellectual property legal concerns. It is very important to make sure that you prominently declare which creative commons licenses you are using for your website so that visitors to your website are aware of the ways in which they can use the information that you are providing. Learn more about choosing the appropriate creative commons license here on [the Creative Commons website](https://creativecommons.org/choose/).
+Building websites can involve making information public on the internet, which raises a host of intellectual property legal concerns. It is very important to make sure that you prominently declare which creative commons licenses you are using for your website so that visitors to your website are aware of the ways in which they can use the information that you are providing. Learn more about choosing the appropriate creative commons license here on [the Creative Commons website](https://creativecommons.org/choose/). Similarly, if your website uses images, videos, or any kind of document from other sources (like archives, artists, newspapers, etc.) you must be sure to cite these sources and make sure that you have the necessary permissions to reproduce these works.
 
-Creating websites also involves making sure that it is designed to be accessible for those with visual and/or auditory disabilities. If your website displays images, then each image should also contain [alt text](https://accessibility.psu.edu/images/alttext/) metadata that describes the image such that it is usable for screenreaders. Similarly, if your website involves showcasing audio-based information (like interviews or lectures) then you should provide a transcription of the audio. You can also learn more about the standards and guidelines at the [W3C's page on Web Accessibility](https://www.w3.org/standards/webdesign/accessibility). Furthermore, there are also services like the [WAVE tool](https://wave.webaim.org/) that help identify ways of making websites more accessible. 
+Creating websites also involves making sure that it is designed to be accessible for those with disabilities. If your website displays images, then each image should also contain [alt text](https://accessibility.psu.edu/images/alttext/) metadata that describes the image such that it is usable for screenreaders. Screenreaders make websites accessible for those with visual and/or auditory disabilities. Similarly, if your website involves showcasing audio-based information (like interviews or lectures) then you should provide a transcription of the audio. You can learn more about the standards and guidelines at the [W3C's page on Web Accessibility](https://www.w3.org/standards/webdesign/accessibility). Furthermore, there are also services like the [WAVE tool](https://wave.webaim.org/) that help identify ways of making websites more accessible. 
 
 ## Resources (optional)
 
@@ -46,8 +46,13 @@ Creating websites also involves making sure that it is designed to be accessible
 
 ## Acknowledgements
 
-- Kristen Hackett
-- Patrick Sweeney
-- Patrick Smyth
-- Amy Cavender
-- Param Ajmera
+- Current author: Param Ajmera
+- Reviewer: Kristen Hackett
+- Reviewer: Stefano Morello
+- Reviewer: Di Yoong
+- Past contributing authors: 
+    - Kristen Hackett
+    - Patrick Sweeney
+    - Patrick Smyth
+    - Amy Cavender
+    
