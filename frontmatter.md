@@ -41,6 +41,7 @@ Creating websites also involves making sure that it is designed to be accessible
 
 ## Resources (optional)
 
+- [VS Code Text Editor](https://code.visualstudio.com/)
 - [HTML Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php)
 - [CSS Cheat Sheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf)
 
