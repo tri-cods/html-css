@@ -327,12 +327,9 @@ Here are a few examples:
 
 # Challenge: Create an Institute Website
 
-For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](_cli-reminder.md).
+In this challenge, we will begin creating an introductory page for your a Digital Humanities Institute in your home institution. Using the tags we've just reviewed, and two additional ones (see below), we will make a barebones website that provides information about a Digital Humanities Instutite that you might organize.  
 
-Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Digital Humanities Institute.
-
-
-In your `projects` folder on your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
+The first step is to create a new folder called `website` in your `projects` folder on your desktop. Create an `index.html` as well as an `about.html` file inside that folder. These will be the landing page of your site, and a supplemental page that provides information about your Digital Humanities Institute's leaders and sponsors.
 
 Add HTML to your `index.html` file. This page should include the following:
 
@@ -345,9 +342,9 @@ Add HTML to your `index.html` file. This page should include the following:
 - One image with alt text
 - A menu or navigation bar that links to your Home and About pages
 
-Think about the order of your content as you assemble the body of your page.
+Think about the order of your content as you assemble the body of your page. Feel free to make up workshops or borrow language from our [Digital Humanities Institute](https://www.dhinstitutes.org/) website. 
 
-Don't worry about getting the content just right, as much as using this exercise to review the structure of a webpage, and practice creating a webpage.
+Don't worry about getting the content just right. The important aspect of this exercise is to review the structure of a webpage, and practice creating a webpage.
 
 ## Additional Tags
 
