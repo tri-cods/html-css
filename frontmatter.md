@@ -18,7 +18,7 @@ By the end of this workshop, you will learn how to:
 
 ## Prerequisites
 
-There are no prerequisites required for learning HTML/CSS. However, your website can be enhanced by incorporating other languages like javascript, python, SQL, git, and jekyll, among others. 
+This workshop makes reference to concepts from the Command Line workshop. In particular, we make use of the Command Line to create new folders and files, as well as to move along the file directory. Completing the Command Line workshop will make participants more comfortable with working with HTML / CSS.
 
 ## Contexts
 
