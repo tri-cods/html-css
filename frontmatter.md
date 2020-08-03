@@ -24,7 +24,9 @@ This workshop makes reference to concepts from the Command Line workshop. In par
 
 ### Pre-reading suggestions
 
-- [Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this free online book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
+[Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this free online book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
+
+- ["Promises and Perils of Digital History"](http://chnm.gmu.edu/digitalhistory/introduction/)
 
 ### Projects that use these skills
 
