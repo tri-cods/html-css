@@ -2,7 +2,7 @@
 
 ## Abstract
 
-HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is a language used for design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed.
+HTML (Hypertext Markup Language) is used to create and organize the content of a website. CSS (Cascading Style Sheets) is used for website design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed. This workshop walks participants through the fundamentals of HTML and CSS. The purpose of this website is to help participants understand the rudiments of websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects.
 
 ## Learning Objectives
 
@@ -24,7 +24,7 @@ This workshop makes reference to concepts from the Command Line workshop. In par
 
 ### Pre-reading suggestions
 
-- [Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from the initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
+- [Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this free online book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
 
 ### Projects that use these skills
 
