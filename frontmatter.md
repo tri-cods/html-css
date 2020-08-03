@@ -18,13 +18,13 @@ By the end of this workshop, you will learn how to:
 
 ## Prerequisites
 
-This workshop makes reference to concepts from the Command Line workshop. In particular, we make use of the Command Line to create new folders and files, as well as to move along the file directory. Completing the Command Line workshop will make participants more comfortable with working with HTML / CSS because . 
+This workshop makes reference to concepts from the Command Line workshop. In particular, we make use of the Command Line to create new folders and files, as well as to move along the file directory. Completing the Command Line workshop will make participants more comfortable with working with HTML / CSS.  
 
 ## Contexts
 
 ### Pre-reading suggestions
 
-
+- [Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from the initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
 
 ### Projects that use these skills
 
