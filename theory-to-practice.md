@@ -57,4 +57,6 @@ If you are unsure of which HTML/CSS commands to use, check out the [HTML Cheat S
 
 ## Discussion Questions
 
-- In this workshop, we have focused on the fundametals of HTML and CSS. The point was to provide an introduction to the workings of websites. In practice, however, the websites that we desire to build will have complex use cases
+- In this workshop, we have focused on the fundametals of HTML and CSS. The point was to provide an introduction to the workings of websites. In practice, however, the websites that we desire to build will have complex use cases. What are some websites that you imagine building? What kinds of interactive features would you like to have in your website?
+
+- Some websites provide information clearly and in an enaging manner. Others might inundate with a barrage of information that leaves users mystified. What would you say are some of the characteristics of well-designed websites? Which websites do you consider a joy to use? What design elements (such as font, color, layout, and menus) stand out to you as being particularly important in making good websites?   
