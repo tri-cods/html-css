@@ -2,7 +2,7 @@
 
 ## Abstract
 
-HTML (Hypertext Markup Language) is used to create and organize the content of a website. CSS (Cascading Style Sheets) is used for website design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed. This workshop walks participants through the fundamentals of HTML and CSS. The purpose of this website is to help participants understand the rudiments of websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects.
+HTML (Hypertext Markup Language) is used to create and organize the content of a website. CSS (Cascading Style Sheets) is used for website design and layout. Together, these languages form the foundation of what one needs to know to create useful and well-designed websites. This workshop walks participants through the fundamentals of HTML and CSS. The purpose of this website is to help participants understand the rudiments of making websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects.
 
 ## Learning Objectives
 
@@ -24,16 +24,25 @@ This workshop makes reference to concepts from the Command Line workshop. In par
 
 ### Pre-reading suggestions
 
-[Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this free online book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
-
 - ["Promises and Perils of Digital History"](http://chnm.gmu.edu/digitalhistory/introduction/)
+
+[Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this free online book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
 
 ### Projects that use these skills
 
-HTML and CSS are fundamental to building websites. Some projects that use HTML and CSS include:
+HTML and CSS are fundamental to building websites. Almost all web-based projects use HTML and CSS in some aspect of their web design. I have included three different kinds of projects that use HTML and CSS to to bring to notice different ways of using the internet and websites in digital humanities projects:
+
 - [Digital Humanities Research Institute](https://www.dhinstitutes.org/)
+
+Our very own Digital Humanities Research Institute uses HTML, CSS, and other languages in its web site. Our web design aims to provide its workshops in a visual style that emphasizes accessibility, ease, and comfort.  
+
 - [Colored Conventions](https://coloredconventions.org/)
+
+The Colored Conventions project is a community-based archive of nineteenth-century Black political organization. In its early stage, this project crowdsourced much of its data-gathering efforts by building an interface for volunteers to transcribe archival texts online. This project used HTML and CSS in many of its aspects.  
+
 - [Musical Passage](http://www.musicalpassage.org/)
+
+Musical Passage is an exhibit of early African diasporic music. This website reproduces a transcriptions and renditions of songs performed by enslaved African people in the Caribbean in the early eighteenth century. This project uses HTML, CSS, and other languages to provide a multimodal experience for its visitors, who can see a historical document as well as listen to the earliest known record of African diasporic music. 
 
 ### Ethical Considerations
 
@@ -44,8 +53,16 @@ Creating websites also involves making sure that it is designed to be accessible
 ## Resources (optional)
 
 - [VS Code Text Editor](https://code.visualstudio.com/)
+
+A text editor to use to write HTML and CSS code.
+
 - [HTML Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php)
+
+A cheat sheet with some common HTML commands.
+
 - [CSS Cheat Sheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf)
+
+A cheat sheet with some common CSS commands.
 
 ## Acknowledgements
 
