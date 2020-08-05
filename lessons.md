@@ -477,7 +477,7 @@ It's best practice to use Option 3, external styling, for a number of reasons:
 
 Option 3, external styling, is preferred by most web developers because it's more manageable and because it lends itself to greater consistency across the entire site.
 
-## Challenge
+## Activity
 
 Create a blank stylesheet using the command line (following option 3, external styling, described above). In your `index.html` document, link to your style sheet and re-save the file.
 
@@ -522,7 +522,7 @@ The lines within the curly braces (i.e. `{ }`) are called **declarations**, and 
 
 Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to **ids** and **classes**. In general, adding classes and ids to HTML elements allows for more specific styling — more on these soon!
 
-## Challenge
+## Activity
 
 Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.
 
