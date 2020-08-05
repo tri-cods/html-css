@@ -38,7 +38,7 @@ Our very own Digital Humanities Research Institute uses HTML, CSS, and other lan
 
 - [Colored Conventions](https://coloredconventions.org/)
 
-The Colored Conventions project is a community-based archive of nineteenth-century Black political organization. In its early stage, this project crowdsourced much of its data-gathering efforts by building an interface for volunteers to transcribe archival texts online. This project used HTML and CSS in many of its aspects.  
+The Colored Conventions project is a community-based archive of nineteenth-century Black political organization. In its early stage, this project crowdsourced much of its data-gathering efforts by building an interface for volunteers to digitally transcribe archival texts. This project uses HTML and CSS in many of its aspects.  
 
 - [Musical Passage](http://www.musicalpassage.org/)
 
