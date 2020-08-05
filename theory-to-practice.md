@@ -20,7 +20,7 @@ This is a scholarly article that provides insight into how websites are used as 
 
 - Elizabeth Maddock Dillon, [“By Design: Remapping the Colonial Archive”](https://doi.org/10.1215/01642472-3315838), _Social Text_ 33, no. 4 125 (2015): 142–147.
 
-This scholarly article also discusses the [_Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative_](http://revolt.axismaps.com/) project, a digital archive and interactive map of Tacky's Rebellion. Elizabeth Maddock Dillon argues for the centrality of the question of design in building websites. Dillon underscores the importance of thoughtful attention to the arrangement of imagery and text, the choice of iconography used to express information, and the form of data visualizations when creating online digital humanities projects. The article suggests the ways in which emergent digital technologies might enable new modes of creating knowledge.
+This scholarly article also discusses the [_Slave Revolt in Jamaica, 1760–1761: A Cartographic Narrative_](http://revolt.axismaps.com/) project, a digital archive and interactive map of Tacky's Rebellion. Elizabeth Maddock Dillon argues for the centrality of the question of design in building websites. Dillon underscores the importance of thoughtful attention to the arrangement of imagery and text, the choice of iconography used to express information, and the form of data visualizations when creating online digital humanities projects.
 
 ## Other Tutorials
 
@@ -35,7 +35,7 @@ This scholarly article also discusses the [_Slave Revolt in Jamaica, 1760–1761
 
 ### Build a Course Website
 
-This project is designed to help you practice the HTML/CSS fundamentals covered in this workshop. The goal of this project will be to create a locally-hosted course website using HTML and CSS that contains the following information:
+This project is designed to help you practice the HTML/CSS fundamentals covered in this workshop. The goal of this project will be to create a locally-hosted course website using HTML and CSS that contains the following:
 
 - Course Description 
 - Readings
@@ -52,11 +52,11 @@ You are free to decide how this information is presented and styled in your webs
 
 To begin, create a folder called "courseWebsite" in your working directory. This folder will contain your index.html file, any other HTML files you create, any CSS files you use to style your website, and images that you would like to use in your Course Website. Now its time start using elements, attributes, classes, IDs, and all the other aspects of HTML and CSS to start building your website!
 
-If you are unsure of which HTML/CSS commands to use, check out the [HTML Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php) and the [CSS Cheat Sheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf), which provides a quick reference of some common tasks in these languages.
+If you are unsure of which HTML/CSS commands to use, check out the [HTML Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php) and the [CSS Cheat Sheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf), which provides a quick reference guide.
 
 
 ## Discussion Questions
 
 - In this workshop, we have focused on the fundametals of HTML and CSS. The point was to provide an introduction to the workings of websites. In practice, however, the websites that we desire to build will have complex use cases. What are some websites that you imagine building? What kinds of interactive features would you like to have in your website?
 
-- Some websites provide information clearly and in an enaging manner. Others might inundate with a barrage of information that leaves users mystified. What would you say are some of the characteristics of well-designed websites? Which websites do you consider a joy to use? What design elements (such as font, color, layout, and menus) stand out to you as being particularly important in making good websites?   
+- Some websites provide information clearly and in an enaging manner. Others might inundate with a barrage of content that leaves one mystified. What would you say are some of the characteristics of well-designed websites? Which websites do you consider a joy to use? What design elements (such as font, color, layout, and menus) stand out to you as being particularly important in making good websites?   
