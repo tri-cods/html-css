@@ -24,6 +24,10 @@ This scholarly article also discusses the [_Slave Revolt in Jamaica, 1760–1761
 
 ## Other Tutorials
 
+- [W3School HTML Tutorial](https://www.w3schools.com/html/default.asp) provides an indepth overview of HTML and introduces a number of commands and protocols not covered in our introductory workshop.  
+
+- [W3Schools CSS Tutorial](https://www.w3schools.com/css/default.asp) covers a lot more ground with CSS and provides very helpful "how to" guides for making menus and integrating with other websites.
+
 - [Omeka](https://www.omeka.net/) is a platform for building digital archives and digital exhibits. It is designed to help those without deep technical knowledge build simple interactive websites. Instead of using HTML and CSS, Omeka provides a [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface) for building websites. Omeka is a wonderful point of beginning to understand how a content management system works. Graduate Center Digital Fellow and digital archivist, Stefano Morello, has put together a very helpful workshop on [getting started with Omeka](https://github.com/GCDigitalFellows/omeka).
 
 - [Wordpress](https://wordpress.org/) is the most widely used content management service. Similar to Omeka, it provides a Graphical User Interface for building websites. However, unlike Omeka, Wordpress provides many additional functionalities that vary in their use, scale, and complexity. Wordpress can be used to make a variety of different kinds of websites, from course-websites to scholarly publications, and much more. The [Wordpress Turorial for Beginners](https://wordpress.com/learn/) provides a helpful introduction to this tool. 

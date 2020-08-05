@@ -29,10 +29,12 @@ Together, these languages can be used to write and style a website using a text 
 
 However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss [how to get your website from your local computer onto the internet](19-public.md).
 
+In our activities during this workshop we will focus on building locally-hosted websites. These are websites that you can open on your web browser, however, they only exist on your own device and are only accessible to you. Locally-hosted websites are not yet on the internet. 
+
 # Opening Activity
 
 1. Open a web browser. (NOTE: please use Firefox or Chrome. Safari will not allow you to complete this activity.)
-2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/)
+2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/).
 3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the "control" button then click the track pad).
 4. Select ‘View Page Source’ from the dropdown menu.
 
@@ -79,7 +81,7 @@ The **body section** contains the content of the page, including paragraphs, ima
 
 ## Activity
 
-Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, you can create one now. Inside that folder, create a new text file and save it as `index.html`.
+Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). Inside that folder, create a new text file and save it as `index.html`.
 
 Let's use the command line to create the new folder and file:
 
@@ -109,7 +111,7 @@ On Windows, click the `projects` folder icon on your desktop. Navigate to `proje
 
 ### What happens?
 
-When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold control and click with macOS) and view the page source. How can you explain what happens when you open these text files?
+When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold control and click with macOS) and view the page source. 
 
 ## What should happen when I open each of my two new files?
 
@@ -329,7 +331,7 @@ Here are a few examples:
 
 In this challenge, we will begin creating an introductory page for your a Digital Humanities Institute in your home institution. Using the tags we've just reviewed, and two additional ones (see below), we will make a barebones website that provides information about a Digital Humanities Instutite that you might organize.  
 
-The first step is to create a new folder called `website` in your `projects` folder on your desktop. Create an `index.html` as well as an `about.html` file inside that folder. These will be the landing page of your site, and a supplemental page that provides information about your Digital Humanities Institute's leaders and sponsors.
+The first step is to create a new folder called `website` in your `projects` folder on your desktop. Create an `index.html` as well as an `about.html` file inside that folder. These will be the landing page of your site, and a supplemental page that provides information about your Digital Humanities Institute's organizers.
 
 Add HTML to your `index.html` file. This page should include the following:
 
@@ -477,9 +479,9 @@ Option 3, external styling, is preferred by most web developers because it's mor
 
 ## Challenge
 
-Create a stylesheet using the command line (following option 3, external styling, described above). In your `index.html` document, link to your style sheet and re-save the file.
+Create a blank stylesheet using the command line (following option 3, external styling, described above). In your `index.html` document, link to your style sheet and re-save the file.
 
-If you need a reminder on which commands to use to create your new stylesheet file, see [here](/sections/_cli-reminder2.md).
+If you need a reminder on which commands to use to create your new stylesheet file, see [here](/_cli-reminder2.md).
 
 To link your stylesheet with your `index.html` file, insert the following code into the head element of that `index.html` file:
 
@@ -821,29 +823,15 @@ An **FTP client** is software designed specifically for the purpose of sharing f
 - [How To Use FTP Through the Command Line in Mac OS X](http://www.techradar.com/how-to/software/operating-systems/how-to-use-ftp-through-the-command-line-in-mac-os-x-1305664)
 - [How to Use the Mac Terminal as an FTP or SFTP Client](https://beebom.com/how-to-use-mac-terminal-ftp-sftp-client/)
 
-## Web hosting
+## Web Hosting
 
 You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI (CUNY Graduate Center Digital Initiatives) website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). As long as your site is just plain HTML and CSS, it's also possible to host your website for free on services such as [GitHub Pages](https://pages.github.com/).
 
-### Web hosting services
+### Guides to Web Hosting Services
 
 - [The Best Web Hosting Services](https://www.makeuseof.com/tag/best-web-hosting-services/)
 - [Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)
 - [10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)
 
-# Resources
 
-## Cheatsheets
-
-[HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)  
-[CSS Cheatsheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf)  
-
-## Tutorials
-
-[HTML Tutorial](https://www.w3schools.com/html/default.asp)  
-[CSS Tutorial](https://www.w3schools.com/css/default.asp)  
-
-## Other
-
-[Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)  
-[Web Design Inspiration](https://www.webdesign-inspiration.com/)  
+ 

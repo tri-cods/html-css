@@ -64,6 +64,10 @@ A cheat sheet with some common HTML commands.
 
 A cheat sheet with some common CSS commands.
 
+- [Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)  
+
+This guide was created by the W3C, which is the international community that develops Web standards. This guide provides information on ways of making websites more accessible to those with disabilities.
+
 ## Acknowledgements
 
 - Current author: Param Ajmera
