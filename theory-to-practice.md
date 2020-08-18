@@ -1,12 +1,16 @@
 # Theory to Practice
 
+This workshop has provided an introduction to HTML and CSS. Through its discussion of tags, elements, and attributes, we have tried to cover the basic ways in which web pages are initially constructed in plaintext and then rendered on browsers. As we concieve of digital humanities projects, however, our visions quickly exceed the capacity of the commands that was covered in this workshop. Not only might we be interested in making information public on the internet, but we might also be interested in providing tools that facilitate interactivity and ease of use with the content that we are curating. Building these tools and incorporating them in our websites requires the knowledge of languages like javascript, SQL, and python, among many others. Digital humanities projects are often collaborative endeavors and bringing someone into the project who has these skills is an effective way to building well-designed websites.
+
+Another way to build more complex design and functionality into your websites is by using a Content Management System (CMS), which refers to a suite of tools that facilitates easy website development and hosting on the internet. Most modern-day websites require functionalities that strains the limits of HTML and CSS. Content Management Systems allow users without much familiarity with advanced web-design languages and concepts to quickly build websites that are visually appealing and contain a variety of features. Popular content management systems in the digital humanities include [Omeka](https://www.omeka.net/), [Scalar](https://scalar.me/anvc/scalar/), [Libguides](https://www.springshare.com/libguides/), and [Wordpress](https://wordpress.org/). These CMS have robust documentation and an active user community, both of which can help solve issues in website development. The suggested readings and tutorials provided below link to more information on selecting and using a CMS. 
+
 ## Suggested Further Readings
 
 ### Platforms
 
 - ["What is a CMS?"](https://darc.gcdiprojects.org/What_is_a_CMS%3F), _DARC Wiki_, Digital Archives Research Collective. 
 
-This entry from the DARC wiki introduces the concept of a Content Management System (CMS), which refers to a suite of tools that facilitates easy website development as well as hosting on the internet. Most modern-day websites require functionalities that strains the limits of HTML and CSS. Content Management Systems allow users without much familiarity with advanced web-design languages and concepts to quickly build websites that are visually appealing and contain a variety of features.   
+This entry from the DARC wiki introduces the concept of Content Management Systems and raises a number of factors that influence which one is better suited for your project.
 
 - [“Choosing a Platform for Your Project Website”](http://digitalhumanities.berkeley.edu/blog/13/12/04/choosing-platform-your-project-website), Digital Humanities at Berkeley.
 
@@ -48,13 +52,13 @@ This project is designed to help you practice the HTML/CSS fundamentals covered 
 - Instructor's Contact Details and Office Hours
 - Menu that allows users to navigate the different sections of the website.
 
-You are free to decide how this information is presented and styled in your website. You could put all of the information in a single page. Alternatively, you might consider making different pages for each aspect of the course website. However, as you develop your website, be sure to make sure that you cover the following key aspects of thoughtful website design:
+You are free to decide how this information is presented and styled in your website. You could put all of the information in a single page. Alternatively, you might consider making different pages for each aspect of the course website. However, as you develop your website, be sure to cover the following key aspects of thoughtful website design:
 
-- Make sure that all links are correctly formatted and point in the right direction.
-- Be sure to include alt-text with all images.
-- Ensure that your use of color, font, and images facilitates ease of access. 
+- All links should be correctly formatted and point in the right direction.
+- Include alt-text with all images.
+- Ensure that your use of color, font, and images facilitates ease of access for those with disabilities. 
 
-To begin, create a folder called "courseWebsite" in your working directory. This folder will contain your index.html file, any other HTML files you create, any CSS files you use to style your website, and images that you would like to use in your Course Website. Now its time start using elements, attributes, classes, IDs, and all the other aspects of HTML and CSS to start building your website!
+To begin, create a folder called "courseWebsite" in your working directory. This folder will contain your index.html file, any other HTML files you create for additional pages, any CSS files you use to style your website, as well as images that you would like to use in your Course Website. Now its time start using elements, attributes, classes, IDs, and all the other aspects of HTML and CSS to start building your website!
 
 If you are unsure of which HTML/CSS commands to use, check out the [HTML Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php) and the [CSS Cheat Sheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf), which provides a quick reference guide.
 
