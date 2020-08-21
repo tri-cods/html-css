@@ -31,6 +31,12 @@ However, internet access is necessary if you plan on making your website availab
 
 In our activities during this workshop we will focus on building locally-hosted websites. These are websites that you can open on your web browser, however, they only exist on your own device and are only accessible to you. Locally-hosted websites are not yet on the internet. 
 
+## Evaluation
+
+True or False: The primary difference between markup languages and programming languages is that markup languages are used to determine the format, appearance, and purpose of content, whereas programming languages are used to transform data.
+- True*
+- False
+
 # Opening Activity
 
 1. Open a web browser. (NOTE: please use Firefox or Chrome. Safari will not allow you to complete this activity.)
@@ -46,7 +52,7 @@ A second tab should open in your browser displaying the underlying code of the p
 
 ![Image showing the page source information and underlying HTML code of a webpage](images/capture_pageSource.png)
 
-In this session, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
+In this workshop, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
 
 # Basic Template for HTML
 
@@ -109,7 +115,7 @@ On macOS, click on the Finder in your dock (the apps at the bottom of the screen
 
 On Windows, click the `projects` folder icon on your desktop. Navigate to `projects`, then `htmlpractice`. Double click the `index.html` file. If it does not open in a browser, right click the `index.html` icon and select "Open with..." from the menu. Select Firefox or Google Chrome from the app list that appears.
 
-### What happens?
+## What happens?
 
 When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold control and click with macOS) and view the page source. 
 
@@ -118,6 +124,12 @@ When you open the empty template, you'll see only a blank web page. Open your se
 When you "View Page Source," you should see the code for the basic template.
 
 No content renders on the page, because there is no content in the template at this time.
+
+## Evaluation
+
+Which of these two HTML commands is also known as the "root element"?
+- <!DOCTYPE html>
+- <html lang="en">*
 
 # Tags and Elements
 
@@ -160,6 +172,12 @@ Below is HTML that adds alternative text to an image—or text that describes th
 Adding alternative text to an image, as was done in this example, is vitally important. That information makes the image more accessible to those viewing your site. For instance, users with poor vision who may not be able to see your image will still understand what it is and why it's there if you provide alternative text describing it.
 
 If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. Each of these main elements will eventually hold many other elements, many of which will be the content of our website.
+
+## Evaluation
+
+Which of the following statements is correct:
+- Elements have opening and closing tags.*
+- Tags have opening and closing elements.
 
 # Paragraphs and Headings
 
@@ -212,6 +230,13 @@ What do you notice about how the information is organized in the webpage? In oth
 The heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab.
 
 ![Image of the boiler example above rendered in Google Chrome](images/boiler-example.png)
+
+## Evaluation
+
+If I wanted to indicate that "About" is a subheading in my page, which element should I use?
+
+- `<head>`
+-`<h2>`*
 
 # Links
 
@@ -273,6 +298,12 @@ Use relative links when referring to pages on your own site. The main advantage 
 
 When your pages are updated, you should be able to navigate from your Home page to your About page, and vice versa. You should also be able to navigate to the external web page.
 
+## Evaluation
+
+Which of the following options is a relative link?
+- <a href="https://www.nytimes.com/">The New York Times</a>
+- <a href="digitalProject.html">Digital Project</a>*
+
 # Images
 
 Images are another important component of websites. Sometimes these just help bring your website to life, but other times they can help communicate information to users.
@@ -301,7 +332,7 @@ To add alternative text to an image, you add an additional attribute, `alt` foll
 <img src="filename.png" alt="Text in these quotes describes the image" />
 ```
 
-For more information, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
+For more information about using alt text, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
 
 ## What images can I use on my site?
 
@@ -316,6 +347,12 @@ Download and save an image from the web, or move an image from your computer int
 Tip: Give the file a simple name. Also, the name **cannot** have spaces. A good practice is to use either dashes or underscores where there would otherwise be spaces. For example: `this-is-an-image.jpg` or `this_is_an_image.jpg`.
 
 Using the code above as a reference, add that image into your `index.html` file, re-save the file, and re-open or refresh the page in your browser. Your image should now appear on the page.
+
+## Evaluation
+
+True or False: Including alt text in websites improves its accessibility?
+- True*
+- False
 
 # Conventions
 
@@ -387,6 +424,12 @@ Examples of what CSS can help you determine include:
 - How large you want the images, and whether you want them aligned center, left, or right.
 - Where elements appear on the page.
 - Whether elements are visible to a user or not.
+
+## Evaluation
+
+Is CSS a markup language or a programming language?
+- Markup Language*
+- Programming Language
 
 # Integrating CSS and HTML
 
@@ -488,10 +531,41 @@ To link your stylesheet with your `index.html` file, insert the following code i
 ```html
 <link rel="stylesheet" href="style.css" />
 ```
+## Evaluation
+
+Is the following code-snippet an example of inline styling or internal styling?
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Homepage</title>
+        <style>
+            h1 {
+              font-family: monospace;
+            }
+            p {
+             font-family: fantasy;   
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>
+            Online Library for All!
+        </h1>
+        <p>
+            Free books here!
+        </p>       
+    </body>
+</html>
+```
+- Inline Styling
+- Internal Styling*
 
 # Rule Sets
 
-CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets (included in a .css file) look like this:
+CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets (included in a .css file) which comprise an external styling file look like this:
 
 ```css
 h1 {
@@ -531,6 +605,12 @@ Copy and paste the CSS above into your `style.css` file and re-save the file. Th
 The formatting of the text on your page should change accordingly. Your `<h1>` should be orange and italic, for example.
 
 What are some other rules you might set for different HTML elements? Do a quick Google search for a CSS rule that changes the appearance of your page, such as putting a border around an element.
+
+## Evaluation
+
+How do we associate a CSS file with an HTML page?
+- By including a link to the CSS file in the HTML page's `<head>` element.*
+- By putting the CSS file in the same folder as the HTML page.
 
 # Filtering
 
@@ -652,6 +732,12 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 ## Tip
 
 *If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc.* See the [Troubleshooting](17-troubleshooting.md) section for more information on common issues.
+
+## Evaluation
+
+True or False: Classes are used to create categories of related elements, IDs are used create unique identifiers.
+- True*
+- False
 
 # Useful Properties
 
