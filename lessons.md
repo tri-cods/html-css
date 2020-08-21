@@ -128,8 +128,8 @@ No content renders on the page, because there is no content in the template at t
 ## Evaluation
 
 Which of these two HTML commands is also known as the "root element"?
-- <!DOCTYPE html>
-- <html lang="en">*
+- `<!DOCTYPE html>`
+- `<html lang="en">`*
 
 # Tags and Elements
 
@@ -236,7 +236,7 @@ The heading should appear at the top of the page, followed by the paragraph text
 If I wanted to indicate that "About" is a subheading in my page, which element should I use?
 
 - `<head>`
--`<h2>`*
+- `<h2>`*
 
 # Links
 
@@ -301,8 +301,8 @@ When your pages are updated, you should be able to navigate from your Home page 
 ## Evaluation
 
 Which of the following options is a relative link?
-- <a href="https://www.nytimes.com/">The New York Times</a>
-- <a href="digitalProject.html">Digital Project</a>*
+- `<a href="https://www.nytimes.com/">The New York Times</a>`
+- `<a href="digitalProject.html">Digital Project</a>`*
 
 # Images
 
@@ -565,7 +565,7 @@ Is the following code-snippet an example of inline styling or internal styling?
 
 # Rule Sets
 
-CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets (included in a .css file) which comprise an external styling file look like this:
+CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets comprise an external styling file with a .css extenstion. Here is a sample .css file:
 
 ```css
 h1 {
