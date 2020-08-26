@@ -41,8 +41,8 @@ True or False: The primary difference between markup languages and programming l
 
 1. Open a web browser. (NOTE: please use Firefox or Chrome. Safari will not allow you to complete this activity.)
 2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/).
-3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the "control" button then click the track pad).
-4. Select ‘View Page Source’ from the dropdown menu.
+3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>Control</kbd> button then click the track pad).
+4. Select `View Page Source` from the dropdown menu.
 
 ![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](images/capture.png)
 
@@ -117,7 +117,7 @@ On Windows, click the `projects` folder icon on your desktop. Navigate to `proje
 
 ## What happens?
 
-When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold control and click with macOS) and view the page source. 
+When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold <kbd>Control</kbd> and click with macOS) and view the page source. 
 
 ## What should happen when I open each of my two new files?
 
@@ -918,6 +918,3 @@ You also need a server to transfer your files to, where they can be stored and s
 - [The Best Web Hosting Services](https://www.makeuseof.com/tag/best-web-hosting-services/)
 - [Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)
 - [10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)
-
-
- 
