@@ -62,13 +62,13 @@ Below is a basic template for an empty HTML Document.
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-      ...
-  </head>
+    <head>
+        ...
+    </head>
 
-  <body>
-      ...
-  </body>
+    <body>
+        ...
+    </body>
 
 </html>
 ```
@@ -366,7 +366,7 @@ Here are a few examples:
 
 # Challenge: Create an Institute Website
 
-In this challenge, we will begin creating an introductory page for your a Digital Humanities Institute in your home institution. Using the tags we've just reviewed, and two additional ones (see below), we will make a barebones website that provides information about a Digital Humanities Instutite that you might organize.  
+In this challenge, we will begin creating an introductory page for your a Digital Humanities Institute in your home institution. Using the tags we've just reviewed, and two additional ones (see below), we will make a barebones website that provides information about a Digital Humanities Instutite that you might organize.
 
 The first step is to create a new folder called `website` in your `projects` folder on your desktop. Create an `index.html` as well as an `about.html` file inside that folder. These will be the landing page of your site, and a supplemental page that provides information about your Digital Humanities Institute's organizers.
 
@@ -688,24 +688,24 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 
 ```css
 #navbar {
-  padding: 80px;
-  background-color: red;
-  color: white;
+    padding: 80px;
+    background-color: red;
+    color: white;
 }
 
 .football {
-  font-family: arial;
-  background-color: lightgrey;
-  color: blue;
+    font-family: arial;
+    background-color: lightgrey;
+    color: blue;
 }
 
 .baseball {
-  font-weight: bold;
-  color: green;
+    font-weight: bold;
+    color: green;
 }
 
 .american {
-  background-color: yellow;
+    background-color: yellow;
 }
 ```
 
