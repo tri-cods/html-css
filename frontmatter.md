@@ -24,13 +24,13 @@ This workshop makes reference to concepts from the Command Line workshop. In par
 
 ### Pre-reading suggestions
 
-- ["Promises and Perils of Digital History"](http://chnm.gmu.edu/digitalhistory/introduction/)
+- ["Introduction: Promises and Perils of Digital History"](http://chnm.gmu.edu/digitalhistory/introduction/)
 
 - [Digital History: A Guide To Gathering, Preserving, and Presenting the Past on the Web](http://chnm.gmu.edu/digitalhistory/) by Daniel J. Cohen and Roy Rosenzweig provides clear introduction to what a life-cycle of web-based digital humanities project might look like. The book covers a variety of aspects of a website project from initial planning, to website design, and even cultivating an audience. Participants are welcome to read as much of this free online book as suits them. I highly recommend reading the [introduction](http://chnm.gmu.edu/digitalhistory/introduction/) which helpfully explains the affordances and difficulties of web-based digital projects.
 
 ### Projects that use these skills
 
-HTML and CSS are fundamental to building websites. Almost all web-based projects use HTML and CSS in some aspect of their web design. I have included three different kinds of projects that use HTML and CSS to to bring to notice different ways of using the internet and websites in digital humanities projects:
+HTML and CSS are fundamental to building websites. Almost all web-based projects use HTML and CSS in some aspect of their web design. I have included three different kinds of projects that use HTML and CSS to to bring to notice a diversity of ways of using the internet and websites in digital humanities projects:
 
 - [Digital Humanities Research Institute](https://www.dhinstitutes.org/): Our very own Digital Humanities Research Institute uses HTML, CSS, and other languages in its web site. Our web design aims to provide its workshops in a visual style that emphasizes accessibility, ease, and comfort.  
 
