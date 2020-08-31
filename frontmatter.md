@@ -56,11 +56,13 @@ HTML and CSS are fundamental to building websites. Almost all web-based projects
 
 ## Acknowledgements
 
-- Current author: Param Ajmera
-- Reviewer: Kristen Hackett
-- Reviewer: Stefano Morello
-- Reviewer: Di Yoong
-- Past contributing author: Amy Cavender
-- Past contributing author: Kristen Hackett
-- Past contributing author: Patrick Smyth
-- Past contributing author: Patrick Sweeney
+- Current author: [Param Ajmera](https://github.com/paramajmera)
+- Reviewer: [Kristen Hackett](https://github.com/hackettka)
+- Reviewer: [Stefano Morello](https://github.com/smorello87)
+- Reviewer: [Di Yoong](https://github.com/dyoong)
+- Past contributing author: [Amy Cavender](https://github.com/acavender)
+- Past contributing author: [Kristen Hackett](https://github.com/hackettka)
+- Past contributing author: [Patrick Smyth](https://github.com/smythp)
+- Past contributing author: [Patrick Sweeney](https://github.com/pswee001)
+- Editor: [Lisa Rhody](https://github.com/lmrhody)
+- Editor: [Kalle Westerling](https://github.com/kallewesterling)
