@@ -39,7 +39,9 @@ True or False: The primary difference between markup languages and programming l
 
 # Opening Activity
 
-1. Open a web browser. (NOTE: please use Firefox or Chrome. Safari will not allow you to complete this activity.)
+**_Note_: please use Firefox or Chrome. Safari will not allow you to complete this activity.**
+
+1. Open a web browser, preferably [Firefox](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/firefox.md).
 2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/).
 3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>Control</kbd> button then click the track pad).
 4. Select `View Page Source` from the dropdown menu.
@@ -242,7 +244,7 @@ If I wanted to indicate that "About" is a subheading in my page, which element s
 
 Links are the foundation of the World Wide Web, and thus are an important component of most websites. Hyperlinking text enables users to move between the different webpages on your site (sometimes in the form of a menu or navigation bar), or connect to other resources or information on other websites.
 
-The `<a>` tag, or **anchor tag**, creates a link to another document. You can use the `<a>` tag to link to other documents or webpages you created for the same site or to documents located elsewhere on the web. You can also use it to link to a particular location on a page—we'll see an example of this in the section on classes and ids.
+The `<a>` tag, or **anchor tag**, creates a link to another document. You can use the `<a>` tag to link to other documents or webpages you created for the same site or to documents located elsewhere on the web. You can also use it to link to a particular location on a page—we'll see an example of this in the section on Classes and IDs.
 
 ## Option One: Relative Links
 
@@ -433,9 +435,13 @@ Is CSS a markup language or a programming language?
 
 # Integrating CSS and HTML
 
-In order for CSS to inform the style of the content on the page, it must be integrated with your HTML. CSS can be integrated into your HTML in three ways: inline, internal, and external.
+In order for CSS to inform the style of the content on the page, it must be integrated with your HTML. CSS can be integrated into your HTML in three ways:
 
-## Option one: inline
+1. inline
+2. internal
+3. external (_recommended_)
+
+## Option 1: Inline
 
 Inline styling adds CSS directly into the HTML of a page to adjust the style of particular parts of a page.
 
@@ -459,7 +465,7 @@ For example, if you want the text of your first paragraph to be red, but the tex
 </html>
 ```
 
-## Option two: internal
+## Option 2: Internal
 
 Internal styling also adds CSS directly into the HTML, but keeps it separate from the content code of the page by adding it into the head using the `<style>` tag. When using internal styling you are providing styling rules for the entire page. For example, if you want all headings to be blue:
 
@@ -492,9 +498,9 @@ Internal styling also adds CSS directly into the HTML, but keeps it separate fro
 </html>
 ```
 
-## Option three: external (recommended)
+## Option 3: External (Recommended)
 
-External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a **stylesheet** and should be named `style.css`. This document must be stored in the same folder as the HTML document it is linked to.
+External styling creates a completely separate document for your CSS that will be linked to your HTML in the head section of your HTML document using the code below. This separate document is called a _stylesheet_ and is often named `style.css`. The document is linked through a void `<link>` tag that lives inside the parent `<head>` tag. Its `href` attribute is a relative link to the document somewhere in relation to the document that references it.
 
 ```html
 <!DOCTYPE html>
@@ -514,9 +520,9 @@ External styling creates a completely separate document for your CSS that will b
 
 It's best practice to use Option 3, external styling, for a number of reasons:
 
-1. It helps us remember what each language focuses on: HTML is for _content_, CSS is for _styling_. (This is sometimes referred to as ["separation of concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/))
-2. It helps us maintain consistency across the various pages of our site; multiple HTML files can link to the same CSS file.
-3. Because multiple HTML files can link to the same CSS file, it's not necessary to write the same CSS code multiple times. Once suffices.
+1. It helps us remember what each language focuses on: HTML is for _content_, CSS is for _styling_. (This is sometimes referred to as the principle of ["separation of concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/))
+2. It helps us maintain consistency across the various pages of our site as _multiple HTML files can link to the same stylesheet_.
+3. Because multiple HTML files can link to the same CSS file, it's not necessary to write the same CSS code multiple times. Once suffices. (This is sometimes referred to as the ["Don't Repeat Yourself" principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), or simply _DRY_.)
 
 Option 3, external styling, is preferred by most web developers because it's more manageable and because it lends itself to greater consistency across the entire site.
 
@@ -531,10 +537,10 @@ To link your stylesheet with your `index.html` file, insert the following code i
 ```html
 <link rel="stylesheet" href="style.css" />
 ```
+
 ## Evaluation
 
 Is the following code-snippet an example of inline styling or internal styling?
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -565,7 +571,7 @@ Is the following code-snippet an example of inline styling or internal styling?
 
 # Rule Sets
 
-CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets comprise an external styling file with a .css extenstion. Here is a sample .css file:
+CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets comprise an external styling file with a `.css` extension. Here is the contents of a sample `.css` file:
 
 ```css
 h1 {
@@ -592,13 +598,13 @@ p {
 
 The first rule (which starts with the `h1` selector) applies to all `<h1>` tags on each page where your HTML document links to your stylesheet, and changes the font style and display of those headings.
 
-The lines within the curly braces (i.e. `{ }`) are called **declarations**, and they change the formatting of the elements in the HTML document. Each line in the declaration sets the value for a **property** and ends with a semicolon (`;`).
+The lines within the curly braces (i.e. `{ ... }`) are called **declarations**, and they change the formatting of the elements in the HTML document. Each line in the declaration sets the value for a **property** and ends with a semicolon (`;`).
 
-Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to **ids** and **classes**. In general, adding classes and ids to HTML elements allows for more specific styling—more on these soon!
+Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to **IDs** and **classes**. In general, adding classes and IDs to HTML elements allows for more specific styling—more on these soon!
 
 ## Activity
 
-Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.
+Copy and paste the CSS rules above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.
 
 ## What should happen?
 
@@ -657,6 +663,7 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 
 
 <h1 class="football">Football teams</h1>
+
 <ul>
     <li class="football" id="colts">Indianapolis Colts</li>
     <li class="football" id="packers">Green Bay Packers</li>
@@ -680,7 +687,7 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 
 Note that it's possible to assign more than one class to an element—just leave a blank space between the two classes, as in the baseball examples above.
 
-Bonus: ID selectors can be used to create links that can be used for navigation *within* a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write HTML like this: `<a href="#mets">Mets</a>`.
+Bonus: ID selectors can be used to create links that can be used for navigation _within_ a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write a HTML link like this: `<a href="#mets">Mets</a>`.
 
 ## CSS selectors
 
@@ -731,7 +738,7 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 
 ## Tip
 
-*If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc.* See the [Troubleshooting](17-troubleshooting.md) section for more information on common issues.
+_If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc._ See the [Troubleshooting](#troubleshooting) section for more information on common issues.
 
 ## Evaluation
 
@@ -745,7 +752,7 @@ Below is a list of useful properties that can be modified with CSS, compiled by 
 
 ## Color
 
-Determines text color. Can be a word or a hex value, like #FFFFFF:
+Determines text color. Can be a word or a hex value, like `#FFFFFF`:
 
 ```css
 color: blue;
@@ -771,7 +778,7 @@ text-align: center;
 
 ### Padding
 
-The space between text and the "box" (`<div>`) surrounding it.
+The space between contents and the "box" (`<div>`) surrounding it.
 
 ```css
 padding: 10px;
@@ -836,8 +843,6 @@ Using the CSS basics we've just reviewed, and the list of properties found on th
 
 I encourage you to use an external stylesheet with classes and IDs to style particular aspects of your site more specifically, but feel free to also play around with inline and internal styling if desired.
 
-## Challenge
-
 - Change the color and size of your heading text.
 - Change the font of your paragraph text.
 - Change the background color of your navigation bar or menu.
@@ -868,13 +873,13 @@ If you think it is an **error with the CSS**, then from the Page Source you'll n
 
 Through this workshop, you have learned the basics of two of the most commonly-used languages for building on the web: HTML and CSS.
 
-HTML, or Hypertext Markup Language, organizes content on your page using [elements denoted by tags (`< >`)](04-elements.md). When rendered by your browser, these tags tell your browser that certain content is paragraph text, while other content is heading or title text, and so on. You can also use [image (`<img>`)](07-images.md) and [link or anchor (`<a>`)](06-links.md) tags to tell the browser to render an image on the page, or take the visitor to another page on your or another website. We also discussed some important [conventions](08-conventions.md) to consider when creating HTML documents, such as nesting.
+HTML, or Hypertext Markup Language, organizes content on your page using elements denoted by tags (`<...>`). When rendered by your browser, these tags tell your browser that certain content is paragraph text, while other content is heading or title text, and so on. You can also use image (`<img>`) and link or anchor (`<a>`) tags to tell the browser to render an image on the page, or take the visitor to another page on your or another website. We also discussed some important conventions to consider when creating HTML documents, such as nesting.
 
-CSS, or Cascading Style Sheets, allows for further styling of your website through the application of a series of [rule sets](12-rules.md) that are applied to different aspects/elements of your site. In order for CSS to render on a webpage, it must be [integrated with your html](11-integration.md), which can happen in three ways: inline, internal, and external. CSS rules can be of varying specificity, and in particular, through creating [classes and ids](14-classes.md). We also discussed how the ordering of rule sets doesn't matter, because an important function of CSS is the way it filters and applies rules in accordance with the specificity of the rule.
+CSS, or Cascading Style Sheets, allows for further styling of your website through the application of a series of rule sets that are applied to different aspects/elements of your site. In order for CSS to render on a webpage, it must be integrated with your html, which can happen in three ways: inline, internal, and external. CSS rules can be of varying specificity, and in particular, through creating classes and IDs. We also discussed how the ordering of rule sets doesn't matter, because an important function of CSS is the way it filters and applies rules in accordance with the specificity of the rule.
 
 Through understanding these languages in combination with one another, you can also reframe your understanding of the web—not as _poof! magic!_, but as a series of intentionally styled, hyperlinked text documents, with each website representing a folder of documents.
 
-While this is a good starting point, one important question remains: how can I get these text documents on the Internet so they can be accessed, and interacted with, and linked to by others?
+While this is a good starting point, one important question remains: how can I get these text documents on the Internet so they can be accessed, and interacted with, and linked to by others? This is what we will discuss in the final lesson of this workshop.
 
 # Making your Website Public
 
