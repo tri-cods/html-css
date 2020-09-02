@@ -17,7 +17,7 @@ For a practical example of this difference, we can think about tables. A program
 
 Fundamentally, then, a script or program is a set of instructions given to the computer. A document in a markup language determines how information is presented to a user.
 
-**NOTE - Markup vs Markdown:** Markdown and HTML are both types of markup languages; Markdown is a play on words. Markup languages help format content.
+**NOTE—Markup vs Markdown:** Markdown and HTML are both types of markup languages; Markdown is a play on words. Markup languages help format content.
 
 ## Cascading Style Sheets (CSS)
 
@@ -25,7 +25,7 @@ CSS is usually used in conjunction with HTML. HTML tells the browser what the di
 
 ## Where does the internet come in?
 
-Together, these languages can be used to write and style a website using a text editor (such as VS Code) directly from your computer. No internet access needed.
+Together, these languages can be used to write and style a website using a text editor (such as Visual Studio Code) directly from your computer. No internet access needed.
 
 However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss [how to get your website from your local computer onto the internet](19-public.md).
 
@@ -94,17 +94,17 @@ Let's use the command line to create the new folder and file:
 1. Open your terminal.
 2. Navigate to your projects folder using this command:
 
-    ```sh
+    ```console
     $ cd ~/Desktop/projects
     ```
 
 3. Create a new folder:
 
-    ```sh
+    ```console
     $ mkdir htmlpractice
     ```
 
-4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
+4. Use your Visual Studio Code text editor to create a file called `index.html`: `code index.html`.
 5. Paste the template above (starting with `<!DOCTYPE html>`) into the new file.
 
 The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
@@ -147,7 +147,7 @@ Tags and elements are the structuring components of html webpages.
 </p>
 ```
 
-Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a `strong` element, which emphasizes the included text by making it bold.
+Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a `<strong>` element, which emphasizes the included text by making it bold.
 
 ```html
 <p>
@@ -155,13 +155,13 @@ Elements which have an opening and closing tag can have other elements inside th
 </p>
 ```
 
-Other elements have self-closing tags as with the `img` (image) element below. These tags are also called **void tags**.
+Other elements have self-closing tags as with the `<img>` (image) element below. These tags are also called **void tags**.
 
 ```html
 <img src="image.jpeg" />
 ```
 
-These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements. For example, it doesn't make sense to add any additional content inside an image.
+These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements. For example, it doesn't make sense to add any additional content inside an image. It is common practice to end void tags like the one above with a `/` to mark the end of it.
 
 Below is HTML that adds alternative text to an image—or text that describes the image. This information added is an attribute—or something that modifies the default functionality of an element.
 
@@ -276,7 +276,7 @@ This pathway is directing your browser to look online for this text document at 
 
 ## More on links
 
-Each example above includes an `href` tag. The `href` tag, short for hypertext reference, is an example of an **attribute**. Attributes offer secondary information about an element.
+Each example above includes an `href`—a hypertext reference—which is an example of an **attribute**. Attributes offer secondary information about an element.
 
 The `<a>` tag, or anchor tag, creates a link. The text within the `<a>` and `</a>` tags, the anchor text, is what a visitor to the site will see and can click on. The `href=` attribute tells the browser where the user should be directed when they click the link.
 
@@ -289,14 +289,14 @@ Use relative links when referring to pages on your own site. The main advantage 
 ## Activity
 
 1. Create a new text file called `about.html` in your `htmlpractice` folder. Copy over the HTML from your `index.html` file, but change the text in the `<h1>` element to "About."
-2. In your `index.html` file, add a relative link leading to your About page.
-3. Also add a relative link from your `About page` to your `index.html` page. In this link, call your `index.html` page `Home` (Reminder: `index.html` is the default homepage)
+2. In your `index.html` file, add a relative link leading to your "About" page.
+3. Also add a relative link from your "About" page to your `index.html` page. In this link, call your `index.html` page "Home" (Reminder: `index.html` is the default homepage)
 4. Lastly, include an absolute link to a page of your choosing. Remember that an absolute link includes the protocol (for example, `http:`) and also a domain (for example, `cuny.edu`), such as `http://cuny.edu/about`.
 5. Re-save your text files and reopen or refresh them in your browser.
 
 ## Check if it worked
 
-When your pages are updated, you should be able to navigate from your Home page to your About page, and vice versa. You should also be able to navigate to the external web page.
+When your pages are updated, you should be able to navigate from your "Home" page to your "About" page, and vice versa. You should also be able to navigate to the external web page.
 
 ## Evaluation
 
@@ -320,7 +320,7 @@ The same rules apply here as with the `href` attribute: if the image is not loca
 
 ![Chrome broken image icon](images/broken.png)
 
-Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="/images/scream.jpeg" />`.
+Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="images/scream.jpeg" />`.
 
 ## Making images accessible
 
@@ -350,7 +350,7 @@ Using the code above as a reference, add that image into your `index.html` file,
 
 ## Evaluation
 
-True or False: Including alt text in websites improves its accessibility?
+True or False: Does including "alt text" in websites improve their accessibility?
 - True*
 - False
 
@@ -360,9 +360,9 @@ As we’ve gone through the different components of creating a webpage, you like
 
 Here are a few examples:
 
-- Some tags are self-closing, while others require a closing tag. Self-closing tags are called void tags, and are generally self-closing because you wouldn't need or want to add another element within a tag. They also generally end with a backslash (`/`) to mark the end of the tag.
+- Some tags are self-closing, while others require a closing tag. Self-closing tags are called void tags, and are generally self-closing because you wouldn't need or want to add another element within a tag. They also generally end with a forward slash (`/`) to mark the end of the tag.
 - Use lower case. While HTML is not case sensitive, it makes scanning the code easier, and makes it look more consistent.
-- Your code should be nested. This is not a technical necessity either — blank space has no meaning in html. However, this makes it easier to scan the code quickly, which is particularly helpful when you run into errors!
+- Your code should be nested. This is not a technical necessity either—blank space has no meaning in html. However, this makes it easier to scan the code quickly, which is particularly helpful when you run into errors!
 
 # Challenge: Create an Institute Website
 
@@ -389,13 +389,13 @@ Don't worry about getting the content just right. The important aspect of this e
 
 Here are two additional tags that might come in handy in assembling your page:
 
-To make a list, you open and close it with the `ul` tags, and each item is an enclosed `li` tag:
+To **make a list**, you open and close it with the `<ul>` tags, and each item is an enclosed `<li>` tag:
 
 ```html
 <ul>
-    <li> item 1 </li>
-    <li> item 2 </li>
-    <li> item 3 </li>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
 </ul>
 ```
 
@@ -403,15 +403,15 @@ The HTML above will produce an unordered (bulleted) list. To create an ordered (
 
 (This may come in handy when making your menu or navigation bar.)
 
-To make a line break or give space between different elements:
+To **make a line break** or give space between different elements:
 
 ```html
 <br />
 ```
 
-## Further challenge
+## Challenge
 
-Add a table containing a schedule of events to your Institute website. You can learn more about making tables using HTML [here](https://www.w3schools.com/html/html_tables.asp).
+Here is a more advanced challenge if you're up for it: Add a table containing a schedule of events to your Institute website. You can learn more about making tables using HTML [here](https://www.w3schools.com/html/html_tables.asp).
 
 # CSS Basics
 
@@ -594,7 +594,7 @@ The first rule (which starts with the `h1` selector) applies to all `<h1>` tags 
 
 The lines within the curly braces (i.e. `{ }`) are called **declarations**, and they change the formatting of the elements in the HTML document. Each line in the declaration sets the value for a **property** and ends with a semicolon (`;`).
 
-Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to **ids** and **classes**. In general, adding classes and ids to HTML elements allows for more specific styling — more on these soon!
+Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to **ids** and **classes**. In general, adding classes and ids to HTML elements allows for more specific styling—more on these soon!
 
 ## Activity
 
@@ -678,7 +678,7 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 </ul>
 ```
 
-Note that it's possible to assign more than one class to an element — just leave a blank space between the two classes, as in the baseball examples above.
+Note that it's possible to assign more than one class to an element—just leave a blank space between the two classes, as in the baseball examples above.
 
 Bonus: ID selectors can be used to create links that can be used for navigation *within* a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write HTML like this: `<a href="#mets">Mets</a>`.
 
@@ -880,7 +880,7 @@ While this is a good starting point, one important question remains: how can I g
 
 Great job! Now you have an amazing website, but it's stuck on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
 
-To get your site on the internet, you'll need **hosting** — that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
+To get your site on the internet, you'll need **hosting**—that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
 
 You'll also need a way of getting your website to your host. That's where FTP, or File Transfer Protocol, comes in.
 
