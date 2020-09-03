@@ -37,6 +37,15 @@ True or False: The primary difference between markup languages and programming l
 - True*
 - False
 
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [CSS](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/css.md)
+- [HTML](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/html.md)
+- [Markdown](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/markdown.md)
+- [Programming Language](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/programminglanguage.md)
+
 # Opening Activity
 
 **_Note_: please use Firefox or Chrome. Safari will not allow you to complete this activity.**
@@ -133,6 +142,12 @@ Which of these two HTML commands is also known as the "root element"?
 - `<!DOCTYPE html>`
 - `<html lang="en">`*
 
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [Root Element](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/rootelement.md)
+
 # Tags and Elements
 
 Tags and elements are the structuring components of html webpages.
@@ -180,6 +195,13 @@ If you look back at the basic template in your `index.html` file, you'll see tha
 Which of the following statements is correct:
 - Elements have opening and closing tags.*
 - Tags have opening and closing elements.
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [Tag](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/tag.md)
+- [Elements](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/elements.md)
 
 # Paragraphs and Headings
 
@@ -305,6 +327,12 @@ When your pages are updated, you should be able to navigate from your "Home" pag
 Which of the following options is a relative link?
 - `<a href="https://www.nytimes.com/">The New York Times</a>`
 - `<a href="digitalProject.html">Digital Project</a>`*
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [Attribute](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/attribute.md)
 
 # Images
 
@@ -618,6 +646,14 @@ How do we associate a CSS file with an HTML page?
 - By including a link to the CSS file in the HTML page's `<head>` element.*
 - By putting the CSS file in the same folder as the HTML page.
 
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [CSS Selectors](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/cssselectors.md)
+- [Class](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/class.md)
+- [ID](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/id.md)
+
 # Filtering
 
 Some of you may be wondering whether it matters what order you add the rule sets to your `style.css` document. The answer is no. CSS has an automatic filtering function where **the most specific rule in CSS always takes precedence.**
@@ -745,6 +781,14 @@ _If you run into an error, be sure to check your punctuation. Oftentimes the pro
 True or False: Classes are used to create categories of related elements, IDs are used create unique identifiers.
 - True*
 - False
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [CSS Selectors](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/cssselectors.md)
+- [Class](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/class.md)
+- [ID](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/id.md)
 
 # Useful Properties
 
@@ -923,3 +967,10 @@ You also need a server to transfer your files to, where they can be stored and s
 - [The Best Web Hosting Services](https://www.makeuseof.com/tag/best-web-hosting-services/)
 - [Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)
 - [10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [FTP](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/ftp.md)
+- [Web Hosting](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/webhosting.md)
