@@ -50,7 +50,7 @@ Do you remember the glossary terms from this section?
 
 **_Note_: please use Firefox or Chrome. Safari will not allow you to complete this activity.**
 
-1. Open a web browser, preferably [Firefox](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/firefox.md).
+1. Open a web browser, preferably [Firefox](https://www.github.com/DHRI-Curriculum/install/blob/v2.0/guides/firefox.md).
 2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/).
 3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>Control</kbd> button then click the track pad).
 4. Select `View Page Source` from the dropdown menu.
