@@ -332,7 +332,7 @@ Which of the following options is a relative link?
 
 Do you remember the glossary terms from this section?
 
-- [Attribute](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/attribute.md)
+- [Attributes](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/attribute.md)
 
 # Images
 
