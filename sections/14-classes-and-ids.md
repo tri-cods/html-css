@@ -1,6 +1,8 @@
-[<<<Back](13-filter.md) | [Next>>>](15-properties.md)
+← [Filtering](13-filtering.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Useful Properties](15-useful-properties.md) →
 
-# Classes and IDs
+---
+
+# 14. Classes and IDs
 
 Classes and IDs enable more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that IDs are unique, used to identify one specific element or part of an element, whereas classes are used to identify multiple instances of the same type of element.
 
@@ -25,6 +27,7 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 
 
 <h1 class="football">Football teams</h1>
+
 <ul>
     <li class="football" id="colts">Indianapolis Colts</li>
     <li class="football" id="packers">Green Bay Packers</li>
@@ -46,9 +49,9 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 </ul>
 ```
 
-Note that it's possible to assign more than one class to an element — just leave a blank space between the two classes, as in the baseball examples above.
+Note that it's possible to assign more than one class to an element—just leave a blank space between the two classes, as in the baseball examples above.
 
-Bonus: ID selectors can be used to create links that can be used for navigation *within* a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write HTML like this: `<a href="#mets">Mets</a>`.
+Bonus: ID selectors can be used to create links that can be used for navigation _within_ a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write a HTML link like this: `<a href="#mets">Mets</a>`.
 
 ## CSS selectors
 
@@ -56,24 +59,24 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 
 ```css
 #navbar {
-  padding: 80px;
-  background-color: red;
-  color: white;
+    padding: 80px;
+    background-color: red;
+    color: white;
 }
 
 .football {
-  font-family: arial;
-  background-color: lightgrey;
-  color: blue;
+    font-family: arial;
+    background-color: lightgrey;
+    color: blue;
 }
 
 .baseball {
-  font-weight: bold;
-  color: green;
+    font-weight: bold;
+    color: green;
 }
 
 .american {
-  background-color: yellow;
+    background-color: yellow;
 }
 ```
 
@@ -99,6 +102,22 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 
 ## Tip
 
-*If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc.* See the [Troubleshooting](17-troubleshooting.md) section for more information on common issues.
+_If you run into an error, be sure to check your punctuation. Oftentimes the problem is a typo, or overlooking a semi-colon, a period, etc._ See the [Troubleshooting](https://curriculum.dhinstitutes.org/workshops/html-css/lessons/?page=17) section for more information on common issues.
 
-[<<<Back](13-filter.md) | [Next>>>](15-properties.md)
+## Evaluation
+
+True or False: Classes are used to create categories of related elements, IDs are used create unique identifiers.
+- True*
+- False
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [CSS Selectors](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/cssselectors.md)
+- [Class](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/class.md)
+- [ID](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/id.md)
+
+---
+
+← [Filtering](13-filtering.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Useful Properties](15-useful-properties.md) →

@@ -1,6 +1,8 @@
-[<<<Back](12-rules.md) | [Next>>>](14-classes.md)
+← [Rule Sets](12-rule-sets.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Classes and IDs](14-classes-and-ids.md) →
 
-# Filtering
+---
+
+# 13. Filtering
 
 Some of you may be wondering whether it matters what order you add the rule sets to your `style.css` document. The answer is no. CSS has an automatic filtering function where **the most specific rule in CSS always takes precedence.**
 
@@ -20,4 +22,6 @@ p strong {
 
 This rule also applies to how you integrate CSS into your HTML to style your content. For example, if you link to an external stylesheet, and you add inline or internal CSS into your HTML, the inline or internal CSS will override the rules set in the external stylesheet. Similarly, the inline CSS will override the internal CSS.
 
-[<<<Back](12-rules.md) | [Next>>>](14-classes.md)
+---
+
+← [Rule Sets](12-rule-sets.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Classes and IDs](14-classes-and-ids.md) →

@@ -1,6 +1,8 @@
-[<<<Back](16-creating_stylesheet.md) | [Next>>>](18-summary.md)
+← [Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Workshop Summary](18-workshop-summary.md) →
 
-# Troubleshooting
+---
+
+# 17. Troubleshooting
 
 It is common—especially in the beginning—that you'll add or amend something to/in your text editor, but it won't present when rendered by your browser.
 
@@ -12,4 +14,6 @@ If you think it is an **error with the HTML**, you'll be able to see it there.
 
 If you think it is an **error with the CSS**, then from the Page Source you'll need to click on the link for the `style.css` page. The link to this page should be found in the head of your page. Don't see it? That may be the problem! If you do see it, open the link to see what CSS the browser is reading and applying to your HTML. It should match what you have in your text editor. If it looks like an earlier version of your style sheet, then maybe you need to re-save the document.
 
-[<<<Back](16-creating_stylesheet.md) | [Next>>>](18-summary.md)
+---
+
+← [Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Workshop Summary](18-workshop-summary.md) →

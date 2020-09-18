@@ -1,6 +1,8 @@
-[<<<Back](06-links.md) | [Next>>>](08-conventions.md)
+← [Links](06-links.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Conventions](08-conventions.md) →
 
-# Images
+---
+
+# 7. Images
 
 Images are another important component of websites. Sometimes these just help bring your website to life, but other times they can help communicate information to users.
 
@@ -14,9 +16,9 @@ The following element pulls in an image located in the same folder as the `.html
 
 The same rules apply here as with the `href` attribute: if the image is not located in the same folder as the document you are writing in, the browser won't find it. If the browser cannot find an image resource, you will see a broken image icon, such as this one from Chrome:
 
-![Chrome broken image icon](images/broken.png)
+![Chrome broken image icon](../images/broken.png)
 
-Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="/images/scream.jpeg" />`.
+Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="images/scream.jpeg" />`.
 
 ## Making images accessible
 
@@ -28,7 +30,7 @@ To add alternative text to an image, you add an additional attribute, `alt` foll
 <img src="filename.png" alt="Text in these quotes describes the image" />
 ```
 
-For more information, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
+For more information about using alt text, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
 
 ## What images can I use on my site?
 
@@ -44,4 +46,12 @@ Tip: Give the file a simple name. Also, the name **cannot** have spaces. A good 
 
 Using the code above as a reference, add that image into your `index.html` file, re-save the file, and re-open or refresh the page in your browser. Your image should now appear on the page.
 
-[<<<Back](06-links.md) | [Next>>>](08-conventions.md)
+## Evaluation
+
+True or False: Does including "alt text" in websites improve their accessibility?
+- True*
+- False
+
+---
+
+← [Links](06-links.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Conventions](08-conventions.md) →

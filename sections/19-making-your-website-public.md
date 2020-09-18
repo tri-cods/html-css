@@ -1,10 +1,12 @@
-[<<<Back](18-summary.md) | [Next>>>](20-resource.md)
+← [Workshop Summary](18-workshop-summary.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Start](../README.md) ↺
 
-# Making your Website Public
+---
+
+# 19. Making your Website Public
 
 Great job! Now you have an amazing website, but it's stuck on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared?
 
-To get your site on the internet, you'll need **hosting** — that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
+To get your site on the internet, you'll need **hosting**—that is, a remote computer that will stay on day in and day out to serve the website to visitors. In theory, you could host your website on your own computer, but in practice, it usually makes sense to purchase hosting from a hosting company or use a free service.
 
 You'll also need a way of getting your website to your host. That's where FTP, or File Transfer Protocol, comes in.
 
@@ -33,14 +35,23 @@ An **FTP client** is software designed specifically for the purpose of sharing f
 - [How To Use FTP Through the Command Line in Mac OS X](http://www.techradar.com/how-to/software/operating-systems/how-to-use-ftp-through-the-command-line-in-mac-os-x-1305664)
 - [How to Use the Mac Terminal as an FTP or SFTP Client](https://beebom.com/how-to-use-mac-terminal-ftp-sftp-client/)
 
-## Web hosting
+## Web Hosting
 
 You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI (CUNY Graduate Center Digital Initiatives) website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). As long as your site is just plain HTML and CSS, it's also possible to host your website for free on services such as [GitHub Pages](https://pages.github.com/).
 
-### Web hosting services
+### Guides to Web Hosting Services
 
 - [The Best Web Hosting Services](https://www.makeuseof.com/tag/best-web-hosting-services/)
 - [Top 7 Easy and Free Web Hosting Services](https://www.makeuseof.com/tag/top-7-easy-and-free-web-hosting-services/)
 - [10 Ways That Free Web Hosting Is Bad for Your First Website](https://www.makeuseof.com/tag/free-web-hosting-is-bad/)
 
-[<<<Back](18-summary.md) | [Next>>>](20-resource.md)
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [FTP](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/ftp.md)
+- [Web Hosting](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/webhosting.md)
+
+---
+
+← [Workshop Summary](18-workshop-summary.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Start](../README.md) ↺

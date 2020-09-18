@@ -1,6 +1,8 @@
-[<<<Back](02-opening_activity.md) | [Next>>>](04-elements.md)
+← [Opening Activity](02-opening-activity.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Tags and Elements](04-tags-and-elements.md) →
 
-# Basic Template for HTML
+---
+
+# 3. Basic Template for HTML
 
 Below is a basic template for an empty HTML Document.
 
@@ -8,11 +10,13 @@ Below is a basic template for an empty HTML Document.
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-</head>
+    <head>
+        ...
+    </head>
 
-<body>
-</body>
+    <body>
+        ...
+    </body>
 
 </html>
 ```
@@ -31,24 +35,24 @@ The **body section** contains the content of the page, including paragraphs, ima
 
 ## Activity
 
-Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, you can create one now. Inside that folder, create a new text file and save it as `index.html`.
+Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). Inside that folder, create a new text file and save it as `index.html`.
 
 Let's use the command line to create the new folder and file:
 
 1. Open your terminal.
 2. Navigate to your projects folder using this command:
 
-    ```bash
-    cd ~/Desktop/projects
+    ```console
+    $ cd ~/Desktop/projects
     ```
 
 3. Create a new folder:
 
-    ```bash
-    mkdir htmlpractice
+    ```console
+    $ mkdir htmlpractice
     ```
 
-4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
+4. Use your Visual Studio Code text editor to create a file called `index.html`: `code index.html`.
 5. Paste the template above (starting with `<!DOCTYPE html>`) into the new file.
 
 The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
@@ -59,9 +63,9 @@ On macOS, click on the Finder in your dock (the apps at the bottom of the screen
 
 On Windows, click the `projects` folder icon on your desktop. Navigate to `projects`, then `htmlpractice`. Double click the `index.html` file. If it does not open in a browser, right click the `index.html` icon and select "Open with..." from the menu. Select Firefox or Google Chrome from the app list that appears.
 
-### What happens?
+## What happens?
 
-When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold control and click with macOS) and view the page source. How can you explain what happens when you open these text files?
+When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold <kbd>Control</kbd> and click with macOS) and view the page source. 
 
 ## What should happen when I open each of my two new files?
 
@@ -69,4 +73,18 @@ When you "View Page Source," you should see the code for the basic template.
 
 No content renders on the page, because there is no content in the template at this time.
 
-[<<<Back](02-opening_activity.md) | [Next>>>](04-elements.md)
+## Evaluation
+
+Which of these two HTML commands is also known as the "root element"?
+- `<!DOCTYPE html>`
+- `<html lang="en">`*
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [Root Element](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/rootelement.md)
+
+---
+
+← [Opening Activity](02-opening-activity.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Tags and Elements](04-tags-and-elements.md) →

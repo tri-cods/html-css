@@ -558,8 +558,6 @@ Option 3, external styling, is preferred by most web developers because it's mor
 
 Create a blank stylesheet using the command line (following option 3, external styling, described above). In your `index.html` document, link to your style sheet and re-save the file.
 
-If you need a reminder on which commands to use to create your new stylesheet file, see [here](https://github.com/DHRI-Curriculum/html-css/blob/v2.0/sections/_cli-reminder.md).
-
 To link your stylesheet with your `index.html` file, insert the following code into the head element of that `index.html` file:
 
 ```html

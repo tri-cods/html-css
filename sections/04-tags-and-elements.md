@@ -1,6 +1,8 @@
-[<<<Back](03-basic.md) | [Next>>>](05-p_and_h.md)
+← [Basic Template for HTML](03-basic-template-for-html.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Paragraphs and Headings](05-paragraphs-and-headings.md) →
 
-# Tags and Elements
+---
+
+# 4. Tags and Elements
 
 Tags and elements are the structuring components of html webpages.
 
@@ -16,7 +18,7 @@ Tags and elements are the structuring components of html webpages.
 </p>
 ```
 
-Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a strong element, which emphasizes the included text by making it bold.
+Elements which have an opening and closing tag can have other elements inside them. Inside the paragraph element below is a `<strong>` element, which emphasizes the included text by making it bold.
 
 ```html
 <p>
@@ -24,13 +26,13 @@ Elements which have an opening and closing tag can have other elements inside th
 </p>
 ```
 
-Other elements have self-closing tags as with the image element below. These tags are also called **void tags**.
+Other elements have self-closing tags as with the `<img>` (image) element below. These tags are also called **void tags**.
 
 ```html
 <img src="image.jpeg" />
 ```
 
-These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements. For example, it doesn't make sense to add any additional content inside an image.
+These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements. For example, it doesn't make sense to add any additional content inside an image. It is common practice to end void tags like the one above with a `/` to mark the end of it.
 
 Below is HTML that adds alternative text to an image—or text that describes the image. This information added is an attribute—or something that modifies the default functionality of an element.
 
@@ -42,4 +44,19 @@ Adding alternative text to an image, as was done in this example, is vitally imp
 
 If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. Each of these main elements will eventually hold many other elements, many of which will be the content of our website.
 
-[<<<Back](03-basic.md) | [Next>>>](05-p_and_h.md)
+## Evaluation
+
+Which of the following statements is correct:
+- Elements have opening and closing tags.*
+- Tags have opening and closing elements.
+
+## Keywords
+
+Do you remember the glossary terms from this section?
+
+- [Tag](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/tag.md)
+- [Elements](https://github.com/DHRI-Curriculum/glossary/blob/v2.0/terms/elements.md)
+
+---
+
+← [Basic Template for HTML](03-basic-template-for-html.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Paragraphs and Headings](05-paragraphs-and-headings.md) →

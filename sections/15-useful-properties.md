@@ -1,12 +1,14 @@
-[<<<Back](14-classes.md) | [Next>>>](16-creating_stylesheet.md)
+← [Classes and IDs](14-classes-and-ids.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md) →
 
-# Useful Properties
+---
+
+# 15. Useful Properties
 
 Below is a list of useful properties that can be modified with CSS, compiled by Digital Fellow [Patrick Smyth](http://smythp.com). There are also [CSS cheatsheets](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf) available online.
 
 ## Color
 
-Determines text color. Can be a word or a hex value, like #FFFFFF:
+Determines text color. Can be a word or a hex value, like `#FFFFFF`:
 
 ```css
 color: blue;
@@ -32,7 +34,7 @@ text-align: center;
 
 ### Padding
 
-The space between text and the "box" (`<div>`) surrounding it.
+The space between contents and the "box" (`<div>`) surrounding it.
 
 ```css
 padding: 10px;
@@ -91,4 +93,6 @@ Sets the font. Usually best to copy this from [Google Fonts](https://fonts.googl
 font-family: 'Lato', sans-serif;
 ```
 
-[<<<Back](14-classes.md) | [Next>>>](16-creating_stylesheet.md)
+---
+
+← [Classes and IDs](14-classes-and-ids.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md) →
