@@ -9,7 +9,7 @@ Websites seem like these magical things that appear when we open our web browser
 
 HTML is a markup language used to write web-based documents. It enables us to provide web browsers with information about the _content_ of a document. We can, for example, indicate that some part of our document is a paragraph, image, heading, or link. The browser uses this information when displaying the document for users.
 
-## Markup language vs. programming Language
+## Markup Language vs. Programming Language
 
 HTML is a *markup* language, not a programming language. Programming languages are used to transform data, by creating scripts that organize an output of data based on a particular input of data. A markup language is used to control the presentation of data.
 
@@ -23,7 +23,7 @@ Fundamentally, then, a script or program is a set of instructions given to the c
 
 CSS is usually used in conjunction with HTML. HTML tells the browser what the different parts of a document _are_. CSS tells the browser what the parts of the document should _look like_. It is essentially a set of rules that are applied when rendering an HTML document. Its name—Cascading Style Sheets—refers to the fact that there is an order of precedence in how the browswer applies CSS rules to a document. More specific rules overwrite less specific rules.
 
-## Where does the internet come in?
+## Where Does the Internet Come In?
 
 Together, these languages can be used to write and style a website using a text editor (such as Visual Studio Code) directly from your computer. No internet access needed.
 
@@ -52,12 +52,12 @@ Do you remember the glossary terms from this section?
 
 1. Open a web browser, preferably [Firefox](https://www.github.com/DHRI-Curriculum/install/blob/v2.0/guides/firefox.md).
 2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/).
-3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>Control</kbd> button then click the track pad).
+3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>control</kbd> button then click the track pad).
 4. Select `View Page Source` from the dropdown menu.
 
 ![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](images/capture.png)
 
-## What you're seeing
+## What You Are Seeing
 
 A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
 
@@ -126,11 +126,11 @@ On macOS, click on the Finder in your dock (the apps at the bottom of the screen
 
 On Windows, click the `projects` folder icon on your desktop. Navigate to `projects`, then `htmlpractice`. Double click the `index.html` file. If it does not open in a browser, right click the `index.html` icon and select "Open with..." from the menu. Select Firefox or Google Chrome from the app list that appears.
 
-## What happens?
+## What Happens?
 
-When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold <kbd>Control</kbd> and click with macOS) and view the page source. 
+When you open the empty template, you'll see only a blank web page. Open your secondary menu (right click on Windows, hold <kbd>control</kbd> and click with macOS) and view the page source.
 
-## What should happen when I open each of my two new files?
+## What Should Happen When I Open Each of my Two New Files?
 
 When you "View Page Source," you should see the code for the basic template.
 
@@ -249,7 +249,7 @@ Then, re-save the file. Open it in your browser again or refresh the page if sti
 
 What do you notice about how the information is organized in the webpage? In other words, where are the title, heading, and paragraph text?
 
-## What should you see?
+## What Should You See?
 
 The heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab.
 
@@ -298,7 +298,7 @@ On your webpage it will appear as:
 
 This pathway is directing your browser to look online for this text document at the URL address provided.
 
-## More on links
+## More on Links
 
 Each example above includes an `href`—a hypertext reference—which is an example of an **attribute**. Attributes offer secondary information about an element.
 
@@ -306,7 +306,7 @@ The `<a>` tag, or anchor tag, creates a link. The text within the `<a>` and `</a
 
 There is another technical difference between the two options above.
 
-## Relative vs. Absolute Links: When to use which
+## Relative vs. Absolute Links: When to Use Which One
 
 Use relative links when referring to pages on your own site. The main advantage of using relative links to pages on your site is that your site will not break if it is moved to a different folder or environment.
 
@@ -318,7 +318,7 @@ Use relative links when referring to pages on your own site. The main advantage 
 4. Lastly, include an absolute link to a page of your choosing. Remember that an absolute link includes the protocol (for example, `http:`) and also a domain (for example, `cuny.edu`), such as `http://cuny.edu/about`.
 5. Re-save your text files and reopen or refresh them in your browser.
 
-## Check if it worked
+## Check If It Worked
 
 When your pages are updated, you should be able to navigate from your "Home" page to your "About" page, and vice versa. You should also be able to navigate to the external web page.
 
@@ -352,7 +352,7 @@ The same rules apply here as with the `href` attribute: if the image is not loca
 
 Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="images/scream.jpeg" />`.
 
-## Making images accessible
+## Making Images Accessible
 
 As briefly noted earlier, alternative text, or alt text, is descriptive "text associated with an image that serves the same purpose and conveys the same essential information as the image" (see [Wikipedia Manual of Style/Accessibility/Alternative Text for Images](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility/Alternative_text_for_images) for more), and is important for ensuring content conveyed by images is accessible to all.
 
@@ -364,7 +364,7 @@ To add alternative text to an image, you add an additional attribute, `alt` foll
 
 For more information about using alt text, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
 
-## What images can I use on my site?
+## What Images May I Use On My Site?
 
 If you're planning to use images that you did not take or make yourself, you'll need to use "public domain" or "open license" images.
 
@@ -544,7 +544,7 @@ External styling creates a completely separate document for your CSS that will b
 </html>
 ```
 
-## Best practices
+## Best Practices
 
 It's best practice to use Option 3, external styling, for a number of reasons:
 
@@ -577,7 +577,7 @@ Is the following code-snippet an example of inline styling or internal styling?
               font-family: monospace;
             }
             p {
-             font-family: fantasy;   
+             font-family: fantasy;
             }
         </style>
     </head>
@@ -588,7 +588,7 @@ Is the following code-snippet an example of inline styling or internal styling?
         </h1>
         <p>
             Free books here!
-        </p>       
+        </p>
     </body>
 </html>
 ```
@@ -632,7 +632,7 @@ Note the different syntax being used to select items for for styling with rule s
 
 Copy and paste the CSS rules above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.
 
-## What should happen?
+## What Should Happen?
 
 The formatting of the text on your page should change accordingly. Your `<h1>` should be orange and italic, for example.
 
@@ -685,7 +685,7 @@ Incorporating classes and IDs into the styling of your document includes two ste
 
 The code for classes and IDs is different in both CSS and HTML.
 
-## HTML code
+## HTML Code
 
 In HTML, classes and ids are added to the first part of a tag. Here's an example of what HTML code with classes and ids looks like:
 
@@ -723,7 +723,7 @@ Note that it's possible to assign more than one class to an element—just leave
 
 Bonus: ID selectors can be used to create links that can be used for navigation _within_ a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write a HTML link like this: `<a href="#mets">Mets</a>`.
 
-## CSS selectors
+## CSS Selectors
 
 Class selectors in CSS are denoted with a period in front of the class name you're creating. They look like this:
 
@@ -750,7 +750,7 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 }
 ```
 
-## ID selectors
+## ID Selectors
 
 ...look like this in the CSS—the name of the selector preceeded by a hashmark (`#`) (also known as a pound sign or octothorpe):
 
@@ -801,7 +801,7 @@ color: blue;
 color: #000000;
 ```
 
-### Background color
+### Background Color
 
 Sets the background color of an element.
 
@@ -810,7 +810,7 @@ background-color: pink
 background-color: #F601F6;
 ```
 
-### Text align
+### Text Align
 
 Aligns text to the left, center, or right.
 
@@ -836,7 +836,7 @@ margin: 10px;
 margin-top: 10px;
 ```
 
-### Width and height
+### Width and Height
 
 Sets the width or height of an element. Typically, don't set both of these.
 
@@ -863,7 +863,7 @@ display: block;
 display: none;
 ```
 
-### List style
+### List Style
 
 Determines default styling on lists. Usually best to set it to `none`.
 
@@ -871,7 +871,7 @@ Determines default styling on lists. Usually best to set it to `none`.
 list-style-type: none;
 ```
 
-### Font family
+### Font Family
 
 Sets the font. Usually best to copy this from [Google Fonts](https://fonts.google.com/) or another web font repository.
 
@@ -879,7 +879,7 @@ Sets the font. Usually best to copy this from [Google Fonts](https://fonts.googl
 font-family: 'Lato', sans-serif;
 ```
 
-# Challenge: Styling your Institute Website with CSS
+# Challenge: Styling Your Institute Website Using CSS
 
 Using the CSS basics we've just reviewed, and the list of properties found on the [Properties page](15-properties.md) and online, give your website some styling.
 
