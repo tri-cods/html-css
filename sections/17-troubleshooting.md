@@ -1,4 +1,4 @@
-← [Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Workshop Summary](18-workshop-summary.md) →
+← [Challenge: Styling Your Institute Website Using CSS](16-challenge-styling-your-institute-website-using-css.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Workshop Summary](18-workshop-summary.md) →
 
 ---
 
@@ -16,4 +16,4 @@ If you think it is an **error with the CSS**, then from the Page Source you'll n
 
 ---
 
-← [Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Workshop Summary](18-workshop-summary.md) →
+← [Challenge: Styling Your Institute Website Using CSS](16-challenge-styling-your-institute-website-using-css.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Workshop Summary](18-workshop-summary.md) →

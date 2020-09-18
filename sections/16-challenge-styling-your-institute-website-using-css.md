@@ -2,7 +2,7 @@
 
 ---
 
-# 16. Challenge: Styling your Institute Website with CSS
+# 16. Challenge: Styling Your Institute Website Using CSS
 
 Using the CSS basics we've just reviewed, and the list of properties found on the [Properties page](15-properties.md) and online, give your website some styling.
 

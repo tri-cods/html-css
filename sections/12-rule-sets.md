@@ -39,7 +39,7 @@ Note the different syntax being used to select items for for styling with rule s
 
 Copy and paste the CSS rules above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.
 
-## What should happen?
+## What Should Happen?
 
 The formatting of the text on your page should change accordingly. Your `<h1>` should be orange and italic, for example.
 

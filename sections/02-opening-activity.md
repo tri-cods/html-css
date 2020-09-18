@@ -8,12 +8,12 @@
 
 1. Open a web browser, preferably [Firefox](https://www.github.com/DHRI-Curriculum/install/blob/v2.0/guides/firefox.md).
 2. Go to any website. The example below is from [paramajmera.github.io](http://paramajmera.github.io/).
-3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>Control</kbd> button then click the track pad).
+3. Open the secondary menu (using a mouse, this would be the menu that opens when you right click on the page; on Mac computers, this is usually a two-finger tap on the track pad, or you can press the <kbd>control</kbd> button then click the track pad).
 4. Select `View Page Source` from the dropdown menu.
 
 ![Image showing dropdown menu that appears when right clicking on a website in Chrome or Firefox](../images/capture.png)
 
-## What you're seeing
+## What You Are Seeing
 
 A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
 

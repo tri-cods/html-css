@@ -13,7 +13,7 @@ Websites seem like these magical things that appear when we open our web browser
 
 HTML is a markup language used to write web-based documents. It enables us to provide web browsers with information about the _content_ of a document. We can, for example, indicate that some part of our document is a paragraph, image, heading, or link. The browser uses this information when displaying the document for users.
 
-## Markup language vs. programming Language
+## Markup Language vs. Programming Language
 
 HTML is a *markup* language, not a programming language. Programming languages are used to transform data, by creating scripts that organize an output of data based on a particular input of data. A markup language is used to control the presentation of data.
 
@@ -27,7 +27,7 @@ Fundamentally, then, a script or program is a set of instructions given to the c
 
 CSS is usually used in conjunction with HTML. HTML tells the browser what the different parts of a document _are_. CSS tells the browser what the parts of the document should _look like_. It is essentially a set of rules that are applied when rendering an HTML document. Its name—Cascading Style Sheets—refers to the fact that there is an order of precedence in how the browswer applies CSS rules to a document. More specific rules overwrite less specific rules.
 
-## Where does the internet come in?
+## Where Does the Internet Come In?
 
 Together, these languages can be used to write and style a website using a text editor (such as Visual Studio Code) directly from your computer. No internet access needed.
 

@@ -1,4 +1,4 @@
-← [Classes and IDs](14-classes-and-ids.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md) →
+← [Classes and IDs](14-classes-and-ids.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Challenge: Styling Your Institute Website Using CSS](16-challenge-styling-your-institute-website-using-css.md) →
 
 ---
 
@@ -15,7 +15,7 @@ color: blue;
 color: #000000;
 ```
 
-### Background color
+### Background Color
 
 Sets the background color of an element.
 
@@ -24,7 +24,7 @@ background-color: pink
 background-color: #F601F6;
 ```
 
-### Text align
+### Text Align
 
 Aligns text to the left, center, or right.
 
@@ -50,7 +50,7 @@ margin: 10px;
 margin-top: 10px;
 ```
 
-### Width and height
+### Width and Height
 
 Sets the width or height of an element. Typically, don't set both of these.
 
@@ -77,7 +77,7 @@ display: block;
 display: none;
 ```
 
-### List style
+### List Style
 
 Determines default styling on lists. Usually best to set it to `none`.
 
@@ -85,7 +85,7 @@ Determines default styling on lists. Usually best to set it to `none`.
 list-style-type: none;
 ```
 
-### Font family
+### Font Family
 
 Sets the font. Usually best to copy this from [Google Fonts](https://fonts.google.com/) or another web font repository.
 
@@ -95,4 +95,4 @@ font-family: 'Lato', sans-serif;
 
 ---
 
-← [Classes and IDs](14-classes-and-ids.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Challenge: Styling your Institute Website with CSS](16-challenge-styling-your-institute-website-with-css.md) →
+← [Classes and IDs](14-classes-and-ids.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Challenge: Styling Your Institute Website Using CSS](16-challenge-styling-your-institute-website-using-css.md) →

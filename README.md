@@ -32,7 +32,7 @@ In this workshop, you will:
 13. [Filtering](sections/13-filtering.md)
 14. [Classes and IDs](sections/14-classes-and-ids.md)
 15. [Useful Properties](sections/15-useful-properties.md)
-16. [Challenge: Styling your Institute Website with CSS](sections/16-challenge-styling-your-institute-website-with-css.md)
+16. [Challenge: Styling Your Institute Website Using CSS](sections/16-challenge-styling-your-institute-website-using-css.md)
 17. [Troubleshooting](sections/17-troubleshooting.md)
 18. [Workshop Summary](sections/18-workshop-summary.md)
 19. [Making your Website Public](sections/19-making-your-website-public.md)

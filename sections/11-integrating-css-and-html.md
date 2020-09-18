@@ -85,7 +85,7 @@ External styling creates a completely separate document for your CSS that will b
 </html>
 ```
 
-## Best practices
+## Best Practices
 
 It's best practice to use Option 3, external styling, for a number of reasons:
 
@@ -118,7 +118,7 @@ Is the following code-snippet an example of inline styling or internal styling?
               font-family: monospace;
             }
             p {
-             font-family: fantasy;   
+             font-family: fantasy;
             }
         </style>
     </head>
@@ -129,7 +129,7 @@ Is the following code-snippet an example of inline styling or internal styling?
         </h1>
         <p>
             Free books here!
-        </p>       
+        </p>
     </body>
 </html>
 ```

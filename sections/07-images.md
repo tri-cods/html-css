@@ -20,7 +20,7 @@ The same rules apply here as with the `href` attribute: if the image is not loca
 
 Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="images/scream.jpeg" />`.
 
-## Making images accessible
+## Making Images Accessible
 
 As briefly noted earlier, alternative text, or alt text, is descriptive "text associated with an image that serves the same purpose and conveys the same essential information as the image" (see [Wikipedia Manual of Style/Accessibility/Alternative Text for Images](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility/Alternative_text_for_images) for more), and is important for ensuring content conveyed by images is accessible to all.
 
@@ -32,7 +32,7 @@ To add alternative text to an image, you add an additional attribute, `alt` foll
 
 For more information about using alt text, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
 
-## What images can I use on my site?
+## What Images May I Use On My Site?
 
 If you're planning to use images that you did not take or make yourself, you'll need to use "public domain" or "open license" images.
 

@@ -38,7 +38,7 @@ On your webpage it will appear as:
 
 This pathway is directing your browser to look online for this text document at the URL address provided.
 
-## More on links
+## More on Links
 
 Each example above includes an `href`—a hypertext reference—which is an example of an **attribute**. Attributes offer secondary information about an element.
 
@@ -46,7 +46,7 @@ The `<a>` tag, or anchor tag, creates a link. The text within the `<a>` and `</a
 
 There is another technical difference between the two options above.
 
-## Relative vs. Absolute Links: When to use which
+## Relative vs. Absolute Links: When to Use Which One
 
 Use relative links when referring to pages on your own site. The main advantage of using relative links to pages on your site is that your site will not break if it is moved to a different folder or environment.
 
@@ -58,7 +58,7 @@ Use relative links when referring to pages on your own site. The main advantage 
 4. Lastly, include an absolute link to a page of your choosing. Remember that an absolute link includes the protocol (for example, `http:`) and also a domain (for example, `cuny.edu`), such as `http://cuny.edu/about`.
 5. Re-save your text files and reopen or refresh them in your browser.
 
-## Check if it worked
+## Check If It Worked
 
 When your pages are updated, you should be able to navigate from your "Home" page to your "About" page, and vice versa. You should also be able to navigate to the external web page.
 

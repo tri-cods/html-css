@@ -48,7 +48,7 @@ Then, re-save the file. Open it in your browser again or refresh the page if sti
 
 What do you notice about how the information is organized in the webpage? In other words, where are the title, heading, and paragraph text?
 
-## What should you see?
+## What Should You See?
 
 The heading should appear at the top of the page, followed by the paragraph text. The heading text should be larger. The title should appear in the browser window tab.
 

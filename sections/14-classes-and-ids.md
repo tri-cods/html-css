@@ -15,7 +15,7 @@ Incorporating classes and IDs into the styling of your document includes two ste
 
 The code for classes and IDs is different in both CSS and HTML.
 
-## HTML code
+## HTML Code
 
 In HTML, classes and ids are added to the first part of a tag. Here's an example of what HTML code with classes and ids looks like:
 
@@ -53,7 +53,7 @@ Note that it's possible to assign more than one class to an element—just leave
 
 Bonus: ID selectors can be used to create links that can be used for navigation _within_ a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write a HTML link like this: `<a href="#mets">Mets</a>`.
 
-## CSS selectors
+## CSS Selectors
 
 Class selectors in CSS are denoted with a period in front of the class name you're creating. They look like this:
 
@@ -80,7 +80,7 @@ Class selectors in CSS are denoted with a period in front of the class name you'
 }
 ```
 
-## ID selectors
+## ID Selectors
 
 ...look like this in the CSS—the name of the selector preceeded by a hashmark (`#`) (also known as a pound sign or octothorpe):
 
