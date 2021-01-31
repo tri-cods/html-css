@@ -16,7 +16,7 @@ HTML (Hypertext Markup Language) is used to create and organize the content of a
 
 ## Prerequisites
 
-- [Introduction to Command Line](https://www.github.com/DHRI-Curriculum/command-line). This workshop makes reference to concepts from the Command Line workshop, in particular, in creating new folders and files, as well as moving around in file directories. Completing the Command Line workshop will make your more comfortable with working with HTML/CSS.
+- [Introduction to Command Line](https://www.github.com/DHRI-Curriculum/command-line) (required). This workshop makes reference to concepts from the Command Line workshop, in particular, in creating new folders and files, as well as moving around in file directories. Completing the Command Line workshop will make you more comfortable with working with HTML/CSS.
 - [Visual Studio Code](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md)
 
 ## Contexts
