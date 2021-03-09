@@ -138,7 +138,7 @@ No content renders on the page, because there is no content in the template at t
 
 ## Evaluation
 
-Which of these two HTML commands is also known as the "root element"?
+Which one of these two HTML commands is also known as the "root element"?
 - `<!DOCTYPE html>`
 - `<html lang="en">`*
 
