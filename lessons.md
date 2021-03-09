@@ -192,7 +192,7 @@ If you look back at the basic template in your `index.html` file, you'll see tha
 
 ## Evaluation
 
-Which of the following statements is correct:
+Which one of the following statements is correct:
 - Elements have opening and closing tags.*
 - Tags have opening and closing elements.
 
@@ -324,7 +324,7 @@ When your pages are updated, you should be able to navigate from your "Home" pag
 
 ## Evaluation
 
-Which of the following options is a relative link?
+Which one of the following options is a relative link?
 - `<a href="https://www.nytimes.com/">The New York Times</a>`
 - `<a href="digitalProject.html">Digital Project</a>`*
 
