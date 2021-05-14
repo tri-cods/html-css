@@ -15,15 +15,15 @@ To create a new account or log into your existing account, follow the link for y
 - [Haverford Sites](https://sites.haverford.edu/)
 - Swarthmore Domain of One's Own (NEED URL)
 
-Each of these urls will be part of the url of your website, which will consist of a few parts:
+Take note of the URL for your institution, because in fact your website will be a **subdomain** of that subdomain, which means it will be included in your website's URL.
 
-The subdomain you chose: alice
-Your school's webhosting subdomain: digital
-Your school's root domain: brynmawr.edu
+- The subdomain you chose: e.g. `alice`
+- The subdomain for your school's webhosting service: `digital`
+- Your school's root domain: `brynmawr.edu`
 
-In this case, the URL for my website is: alice.digital.brynmawr.edu
+In this case, the URL for my website is: `alice.digital.brynmawr.edu`
 
-### cPanel
+### cPanel Dashboard
 
 ### File Manager
 
