@@ -10,10 +10,10 @@ To get your site on the internet, you'll need **web hosting** — that is, a rem
 
 While today we'll focus on deploying your hand-coded sites, your webhosting account allows you to explore other options, including **content management systems**  that can be installed on your account such as WordPress, Omeka, Scalar, and many more.
 
-To create a new account or log into your existing account, follow the link for your College: 
-- [Bryn Mawr Domain of One's Own](https://digital.brynmawr.edu)
-- [Haverford Sites](https://sites.haverford.edu/)
-- Swarthmore Domain of One's Own (NEED URL)
+To create a new account or log into your existing account, follow the URL for your College: 
+- Bryn Mawr's Domain of One's Own: https://digital.brynmawr.edu
+- Haverford Sites: https://sites.haverford.edu/
+- Swarthmore Domain of One's Own: 
 
 Take note of the URL for your institution, because in fact your website will be a **subdomain** of that subdomain, which means it will be included in your website's URL.
 
