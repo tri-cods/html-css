@@ -4,11 +4,17 @@
 
 Links are the foundation of the World Wide Web, and thus are an important component of most websites. Hyperlinking text enables users to move between the different webpages on your site (sometimes in the form of a menu or navigation bar), or connect to other resources or information on other websites.
 
-The `<a>` tag, or **anchor tag**, creates a link to another document. You can use the `<a>` tag to link to other documents or webpages you created for the same site or to documents located elsewhere on the web. You can also use it to link to a particular location on a page—we'll see an example of this in the section on classes and ids.
+The `<a>` tag, or **anchor tag**, creates a link to another document. You can use the `<a>` tag to link to other documents or webpages you created for the same site or to documents located elsewhere on the web. (You can also use it to link to a particular location on a page—we'll see an example of this in the section on classes and ids.) 
 
-## Option One: Relative Links
+```html
+<a href="https://en.wikipedia.org">Wikipedia</a>
+```
 
-Relative links take the current page as an origin point and search for other files within the same folder or directory. This method is useful for creating links to pages within your own site.
+The text between the `<a>` and `</a>` tags, the **anchor text**, is what a visitor to the site will see and can click on. You'll notice that the `<a>` tag above includes a url preceded by `href=`: this tag, short for hypertext reference, tells the browser where the user should be directed when they click the link. The `href` is an example of an element **attribute**. Attributes appear within the opening element tag and offer secondary information about an element. 
+
+## Relative vs. Absolute Links
+
+A **relative link** takes the current document as an origin point and search for other files within the same folder or directory. This method is useful for creating links to pages within your own site.
 
 The following appears as a link to the `about.html` page in the same folder as `index.html`:
 
@@ -22,31 +28,19 @@ On your webpage it will appear as:
 
 This link is asking the browser to look for a file titled `about.html` in the same folder. If a file named `about.html` is not in the same folder, clicking the link will result in a `404` ("Page Not Found") error.
 
-## Option Two: Absolute Links
-
-An absolute link includes information that allows the browser to find resources on other websites. This information includes the site domain—such as `google.com`—and often the protocol—such as `http` or `https`.
+An **absolute link** resembles a typical URL, and allows the browser to find resources on other websites. This information includes the site domain—such as `wikipedia.org`—and often the protocol—such as `http` or `https`.
 
 ```html
-<a href="http://www.google.com">Google</a>
+<a href="https://en.wikipedia.org">Wikipedia</a>
 ```
 
 On your webpage it will appear as:
 
-> [Google](http://www.google.com)
+> [Wikipedia](https://en.wikipedia.org)
 
 This pathway is directing your browser to look online for this text document at the URL address provided.
 
-## More on links
-
-Each example above includes an `href` tag. The `href` tag, short for hypertext reference, is an example of an **attribute**. Attributes offer secondary information about an element.
-
-The `<a>` tag, or anchor tag, creates a link. The text within the `<a>` and `</a>` tags, the anchor text, is what a visitor to the site will see and can click on. The `href=` attribute tells the browser where the user should be directed when they click the link.
-
-There is another technical difference between the two options above.
-
-## Relative vs. Absolute Links: When to use which
-
-Use relative links when referring to pages on your own site. The main advantage of using relative links to pages on your site is that your site will not break if it is moved to a different folder or environment.
+Use relative links when referring to pages on your own site. That way your site will not break if it is moved to a different folder or environment.
 
 ## Activity
 

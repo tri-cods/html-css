@@ -11,8 +11,10 @@
 
 ## What you're seeing
 
-A second tab should open in your browser displaying the underlying code of the page. This is the code that is used to make and render the page in your web browser.
+A second tab should open in your browser displaying the underlying code of the page. This is the HTML code that is used to make and render the page in your web browser.
 
 In this session, we are going to learn how to read and write this code, and render it in the browser on your local computer. At the end we will discuss the next steps for how you could host your new website, making it available for browsing by others via the internet.
+
+As you continue to learn how to structure and style web content using HTML and CSS, you may find it helpful to use this function or other browser tools to look 'under the hood' of webpages you use. 
 
 [<<<Back](01-introduction.md) | [Next>>>](03-basic.md)
