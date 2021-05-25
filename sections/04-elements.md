@@ -24,21 +24,13 @@ Elements which have an opening and closing tag can have other elements inside th
 </p>
 ```
 
-Some elements, such as the image element, have self-closing tags or **void tags**: these do not contain displayed text or other nested elements.
-
-```html
-<img src="image.jpeg" />
-```
-
-These elements don't require a separate closing tag. Closing tags aren't needed because you wouldn't add content inside these elements. For example, it doesn't make sense to add any additional content inside an image.
-
-In addition to the 'src' attribute, which tells the browser where to find the image file to display, `<img>` elements should also have an 'alt' attribute with a brief description of the image (alternative text).
+Some elements, such as the image element, have self-closing tags or **void tags**. Because these elements do not contain displayed text or other nested elements, they only need a single tag `<img/>` rather than a tag to open `<p>` and a tag to close `</p>`
 
 ```html
 <img alt="This is an image" src="image.jpeg" />
 ```
 
-Alternative text is crucial to make your website accessible: it provides a description of the image for users who are using alternative browser technology (such as audio-based screen readers).  
+You'll notice that the `img` element above does have additional information within the tag itself: these are called **attributes**. Attributes offer secondary information about an element or modify its functionality. In this case, the `img` has a `src` or source attribute, which tells the browser where to find the image file to display, and an `alt` attribute, which provides an alternative text description of the image content and is crucial for web accessibility. We will discuss both attributes in more detail in the [images section](07-images.md).   
 
 If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. Each of these main elements will eventually enclose several nested elements to structure the content of our website.
 

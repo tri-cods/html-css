@@ -4,7 +4,7 @@
 
 Images are another important component of websites. Sometimes these just help bring your website to life, but other times they can help communicate information to users.
 
-Images are created with the `<img>` tag. Similar to the `<a>` tag, `<img>` requires an attribute, in this case `src`. The `src` attribute stands for "source" and communicates secondary information to your browser that identifies and locates the image. Unlike many other tags, the `<img>` tag does not need to be closed, making it an example of a void tag.
+Images are created with the `<img/>` tag. Similar to the `<a>` tag, `<img>` requires an attribute with a link, in this case `src`. The `src` attribute stands for "source" and communicates secondary information to your browser that identifies and locates the image. Unlike many other tags, the `<img>` tag does not need to be closed, making it an example of a void tag.
 
 The following element pulls in an image located in the same folder as the `.html` file:
 
@@ -22,15 +22,15 @@ Also like `href`, the `src` attribute can link to an image hosted elsewhere on t
 
 ## Making images accessible
 
-As briefly noted earlier, alternative text, or alt text, is descriptive "text associated with an image that serves the same purpose and conveys the same essential information as the image" (see [Wikipedia Manual of Style/Accessibility/Alternative Text for Images](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility/Alternative_text_for_images) for more), and is important for ensuring content conveyed by images is accessible to all.
+As briefly noted earlier, alternative text provides a description of an image's basic function or content and it is necessary to make your website accessible to all users. While some users navigate the web visually with traditional browsers, many users navigate with screen reader software that conveys all information aurally by reading text and image descriptions. Other users with low-bandwith internet may opt to display alternative text instead of data-intensive images. 
 
-To add alternative text to an image, you add an additional attribute, `alt` followed by your descriptive text. For example:
+The most common way to include alternative text is to add an `alt` attribute to an image element, followed by your descriptive text. For example:
 
 ```html
 <img src="filename.png" alt="Text in these quotes describes the image" />
 ```
 
-For more information, see what the [Social Security Administration](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
+If an image is purely decorative and has no semantic function, you can include a null alt attribute with empty quotation marks `alt=""`, which signals to screen readers that the content is not significant. For more information, see the [Wikipedia Manual of Style/Accessibility/Alternative Text for Images](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility/Alternative_text_for_images) and the [Social Security Administration's guide to alternative text](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) has to say.
 
 ## What images can I use on my site?
 

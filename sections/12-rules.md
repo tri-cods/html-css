@@ -2,7 +2,21 @@
 
 # Rule Sets
 
-CSS is based on selectors and declarations, which together form rule sets (or just "rules"). Rule sets (included in a .css file) look like this:
+A CSS document is comprised of rule sets that define individual display properties. For example: 
+
+```css
+h1 {
+    color: orange;
+}
+```
+
+Each rule set includes:
+- A **selector** (here, `h1`) which identifies the HTML elements to which the rule will apply (i.e., all `<h1>` elements in your document)
+- A set of curly braces (i.e. `{ }`) 
+- Within the braces, one or more **declarations** (`color: orange;`) that tells the browser how to format or style those elements
+- These consist of a display **property** (`color`) followed by a colon `:`, at least one **value** (`orange`) and then a semicolon `;`
+
+Unlike an HTML document, a CSS document doesn't need a specific overall structure, but it does require specific formatting: 
 
 ```css
 h1 {
@@ -27,11 +41,7 @@ p {
 }
 ```
 
-The first rule (which starts with the `h1` selector) applies to all `<h1>` tags on each page where your HTML document links to your stylesheet, and changes the font style and display of those headings.
-
-The lines within the curly braces (i.e. `{ }`) are called **declarations**, and they change the formatting of the elements in the HTML document. Each line in the declaration sets the value for a **property** and ends with a semicolon (`;`).
-
-Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to **ids** and **classes**. In general, adding classes and ids to HTML elements allows for more specific styling — more on these soon!
+Note the different syntax being used to select items for for styling with rule sets. The bottom two selectors are used to apply rule sets to elements with a particular **id** or **class** attribute. In general, adding classes and ids to HTML elements allows for more specific styling — more on these soon!
 
 ## Challenge
 
