@@ -18,6 +18,8 @@ The same rules apply here as with the `href` attribute: if the image is not loca
 
 Note: Some sites use a lot of images. When this is the case, it can be helpful to keep images in a separate folder within your site's structure. To enable the browser to find an image in that case, just add the directory in front of the file name. For example, if you have a folder named images in the same folder as your index.html file, and scream.jpeg is in that folder, you'd change the void tag above to `<img src="/images/scream.jpeg" />`.
 
+Also like `href`, the `src` attribute can link to an image hosted elsewhere on the web, as long as it is a direct url ending with an image filename and file extension.
+
 ## Making images accessible
 
 As briefly noted earlier, alternative text, or alt text, is descriptive "text associated with an image that serves the same purpose and conveys the same essential information as the image" (see [Wikipedia Manual of Style/Accessibility/Alternative Text for Images](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility/Alternative_text_for_images) for more), and is important for ensuring content conveyed by images is accessible to all.
