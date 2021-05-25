@@ -1,6 +1,6 @@
 # Introduction to HTML and CSS
 
-HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is a language used for design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed.
+HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is a language used for design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed. The purpose of this workshop is to help participants understand the rudiments of making websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects.
 
 By the end of this workshop, participants will:
 
@@ -22,7 +22,7 @@ By the end of this workshop, participants will:
 [Links](sections/06-links.md)  
 [Images](sections/07-images.md)  
 [Conventions](sections/08-conventions.md)  
-[Challenge: Create an Institute Website](sections/09-create_site.md)  
+[Challenge: Create a Simple Website](sections/09-create_site.md)  
 
 ## CSS Basics
 
@@ -32,7 +32,7 @@ By the end of this workshop, participants will:
 [Filtering](sections/13-filter.md)  
 [Classes and IDs](sections/14-classes.md)  
 [Useful properties](sections/15-properties.md)  
-[Challenge: Styling Your Institute Website with CSS](sections/16-creating_stylesheet.md)  
+[Challenge: Styling Your Website with CSS](sections/16-creating_stylesheet.md)  
 [Troubleshooting](sections/17-troubleshooting.md)  
 
 ## Resources
@@ -43,8 +43,11 @@ By the end of this workshop, participants will:
 
 -----
 
-Session Leader: Alice McGrath & Vickie Karasic
-Based on previous work by Kristen Hackett, Patrick Sweeney, Patrick Smyth, and Amy Cavender
+Current author: Alice McGrath 
+Current reviewer: Vickie Karasic
+Past contributing authors: Param Ajmera, Amy Cavender, Kristen Hackett, Patrick Smith, Patrick Sweeney
+Past editors: Lisa Rhody, Kalle Westerling
+Past reviewers: Kristen Hackett, Stefano Morello, Di Yoong
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 

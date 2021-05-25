@@ -54,13 +54,9 @@ h1 {
     letter-spacing:-0.05555556em;
     font-size:60px;
     font-size:3.4em;
-    font-shadow:none;
     color: white;
 }
 
-h2 {
-
-}
 
 @media (max-width: 1000px) {
     li {

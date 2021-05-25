@@ -10,7 +10,7 @@
 ## Tutorials
 
 [HTML Tutorial](https://www.w3schools.com/html/default.asp)  
-[CSS Tutorial](https://www.w3schools.com/css/default.asp)  
+[CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
 ## Other
 

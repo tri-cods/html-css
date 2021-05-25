@@ -2,14 +2,13 @@
 
 # CSS Basics
 
-CSS stands for Cascading Style Sheets. This language works in coordination with HTML, but is its own language with its own rules and terminology. In contrast to HTML, which is responsible for the content of the page, CSS is responsible for the presentation of the page.
+CSS, or Cascading Style Sheets, is a language that works in coordination with HTML, but has its own syntax. Where HTML governs the content of the page, CSS governs the style and appearance of the page by establishing a set of rules or **declarations** for how particular HTML elements are displayed. 
 
-Examples of what CSS can help you determine include:
+Using CSS, you can control many aspects of page style, including:
 
-- What background color you want to use for the page or a paragraph.
-- What font or font size you want for your headings or your normal text.
-- How large you want the images, and whether you want them aligned center, left, or right.
-- Where elements appear on the page.
-- Whether elements are visible to a user or not.
+- Background color for a web page or a particular text element
+- Size, font, and text decoration for headings and paragraph text
+- Size and alignment of images
+- Whether elements are visible to a user or not and where they appear on the page
 
 [<<<Back](09-create_site.md) | [Next>>>](11-integration.md)

@@ -11,15 +11,11 @@ Websites seem like these magical things that appear when we open our web browser
 
 A _markup language_ is a system for organizing and annotating data. Unlike a functional programming language (such as Bash, Python, or C), markup languages don't perform functions or provide instructions -- they simply segment and label different parts of a document, such as headings, paragraphs, lists, images, and links. HTML is the primary language used to structure web-based documents by providing web browsers with information about the _content_ of a document and how it should be displayed, interpreted, or acted upon by functional programming languages. The browser uses this information when displaying the document for users.
 
-## Markup language vs. programming language
-
-Markup languages such as HTML are used to organize data and control its presentation. They are different from functional programing languages such as python, R, or Bash, which are used to transform data. and execute instructions and actions. by creating scripts that organize an output of data based on a particular input of data. 
-
 **NOTE - Markup vs Markdown:** Markdown and HTML are both types of markup languages; Markdown is a play on words. Markup languages help format content.
 
 ## Cascading Style Sheets (CSS)
 
-CSS (Cascading Style Sheets) is usually used in conjunction with HTML. HTML tells the browser what the different parts of a document _are_. CSS tells the browser how these parts of the document should look. It is essentially a set of rules that are applied when rendering an HTML document. Its name—Cascading Style Sheets—refers to the fact that there is an order of precedence in how the browser applies CSS rules to a document: more specific rules overwrite less specific rules.
+CSS (Cascading Style Sheets) is usually used in conjunction with HTML. HTML tells the browser what the different parts of a document _are_. CSS tells the browser how these parts of the document should appear. It is essentially a set of rules that are applied when rendering an HTML document. Its name—Cascading Style Sheets—refers to the fact that there is an order of precedence in how the browser applies CSS rules to a document: more specific rules overwrite less specific rules.
 
 ## Where does the internet come in?
 

@@ -22,4 +22,6 @@ I encourage you to use an external stylesheet with classes and IDs to style part
 
 This will tell your HTML document to apply the style rules from the text file named `style.css` in the same folder.
 
+Want more practice? The [CSS Diner game](https://flukeout.github.io/) is a great way to hone your skills in identifying selectors.
+
 [<<<Back](15-properties.md) | [Next>>>](17-troubleshooting.md)
