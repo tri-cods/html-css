@@ -15,7 +15,7 @@ The code for classes and IDs is different in both CSS and HTML.
 
 ## HTML code
 
-In HTML, classes and ids are added to the first part of a tag. Here's an example of what HTML code with classes and ids looks like:
+In HTML, classes and IDs are added to the first part of a tag as attributes: `id="id-name"` and `class="class-name"`. For example:
 
 ```html
 <ul id="navbar">
@@ -23,23 +23,24 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
     <li>About</li>
 </ul>
 
+<h1>Teams</h1>
 
-<h1 class="football">Football teams</h1>
+<h2 class="football">Football teams</h2>
 <ul>
     <li class="football" id="colts">Indianapolis Colts</li>
     <li class="football" id="packers">Green Bay Packers</li>
 </ul>
 
 
-<h1 class="baseball">Baseball teams</h1>
+<h2 class="baseball">Baseball teams</h2>
 
-<p>American League teams</p>
+<h3>American League teams</h3>
 <ul>
     <li class="baseball american" id="twins">Minnesota Twins</li>
     <li class="baseball american" id="tigers">Detroit Tigers</li>
 </ul>
 
-<p>National League teams</p>
+<h3>National League teams</h3>
 <ul>
     <li class="baseball national" id="dodgers">Los Angeles Dodgers</li>
     <li class="baseball national" id="mets">New York Mets</li>
@@ -48,18 +49,13 @@ In HTML, classes and ids are added to the first part of a tag. Here's an example
 
 Note that it's possible to assign more than one class to an element — just leave a blank space between the two classes, as in the baseball examples above.
 
-Bonus: ID selectors can be used to create links that can be used for navigation *within* a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write HTML like this: `<a href="#mets">Mets</a>`.
+Bonus: ID selectors can also be used to create links that can be used for navigation *within* a page. For example, to add a link to the page that takes the user directly to the line that reads "New York Mets," we might write HTML like this: `<a href="#mets">Mets</a>`.
 
 ## CSS selectors
 
-Class selectors in CSS are denoted with a period in front of the class name you're creating. They look like this:
+Class selectors in CSS are denoted with a period in front of the class name you're creating: `.class-name`. For example:
 
 ```css
-#navbar {
-  padding: 80px;
-  background-color: red;
-  color: white;
-}
 
 .football {
   font-family: arial;
@@ -76,10 +72,17 @@ Class selectors in CSS are denoted with a period in front of the class name you'
   background-color: yellow;
 }
 ```
+...and in the HTML they are incorporated into elements like this:
+
+```html
+
+<h2 class="football">Football teams</h2>
+
+```
 
 ## ID selectors
 
-...look like this in the CSS—the name of the selector preceeded by a hashmark (`#`) (also known as a pound sign or octothorpe):
+...look like this in the CSS—the name of the selector preceeded by a hashmark (`#id-name`) (also known as a pound sign or octothorpe):
 
 ```css
 #navbar {
