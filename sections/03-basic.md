@@ -29,6 +29,7 @@ The **head section** contains basic information about the file such as the title
 
 The **body section** contains the content to be displayed on the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page.
 
+
 ## Activity
 
 Create a folder called `htmlpractice` in your projects folder (`~/Desktop/projects/htmlpractice`). If you haven't created a projects folder in an earlier session, you can create one now. Inside that folder, create a new text file and save it as `index.html`.
