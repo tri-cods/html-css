@@ -1,19 +1,16 @@
 [<<<Back](02-opening_activity.md) | [Next>>>](04-elements.md)
 
-# Basic Template for HTML
+# Anatomy of an HTML Document
 
-Below is a basic template for an empty HTML Document.
+You can think of an HTML document as a tree with branches that decrease in size. Each branch is demarcated by a set of nearly identical opening `<html>` and closing `</html>` tags. This is the basic structure of that tree:
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-</head>
-
-<body>
-</body>
-
+    <head>
+    </head>
+    <body>
+    </body>
 </html>
 ```
 
@@ -25,9 +22,9 @@ The root element begins by indicating which language the document is written in.
 
 Within the root element of the basic template above, you'll notice the two main sections of all HTML documents: a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`).
 
-The **head section** contains basic information about the file such as the title, keywords, authors, a short description, and so on. The title here will appear in your browser tab. This is also where you will link to external resources such as CSS files.
+The **head** branch contains basic metadata about the file such as the title, keywords, authors, a short description, and so on. None of this metadata will appear on the webpage itself (though the title here will appear in your browser tab), but it provides instructions and context for your browser. This is also where you will link to external resources such as CSS files.
 
-The **body section** contains the content to be displayed on the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page.
+The **body** branch contains all the content to be displayed on the page, including paragraphs, images, links, and more, and indicates how this content is to be structured on the page.
 
 
 ## Activity
@@ -49,12 +46,12 @@ Let's use the command line to create the new folder and file:
     mkdir htmlpractice
     ```
 
-4. Use your VS Code text editor to create a file called `index.html`: `code index.html`.
-5. Type or paste the template above (starting with `<!DOCTYPE html>`) into the new file.
+4. Use your VS Code text editor to create a file called `index.html` -- try this command: `code index.html`. (If it doesn't work, that's ok; just open the file in VS Code using your GUI).
+5. Type the template above (starting with `<!DOCTYPE html>`) into the new file. 
 
-The `index.html` file is your default homepage for the website we are creating. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
+The `index.html` file is the homepage for the website we are creating -- the name 'index' is conventionally used to refer to the opening page to the directory that is your website. See [here](https://www.lifewire.com/index-html-page-3466505) for more explanation.
 
-Once you've created your new file, open it with a web browser using your graphical user interface:
+Once you've created your new file and saved that content, open it with a web browser using your graphical user interface:
 
 On macOS, click on the Finder in your dock (the apps at the bottom of the screen) and click on Desktop on the left. From there, navigate to `projects`, then `htmlpractice`. Alternately, you can click the projects folder icon on your Desktop and find it from there. If you're using a Mac and would prefer to use the command line, you can also type `open index.html` from within your `htmlpractice` folder.
 
