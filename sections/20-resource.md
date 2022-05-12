@@ -11,9 +11,12 @@
 
 [HTML Tutorial](https://www.w3schools.com/html/default.asp)  
 [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+[freeCodeCamp Responsive Web Design path](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## Other
 
+[CSS Diner Game](https://flukeout.github.io/)
+[HTML5up website templates](https://html5up.net/)
 [Code School's Beginner's Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)  
 [Web Development with Accessibility in Mind](https://www.w3.org/standards/webdesign/accessibility)  
 [Web Design Inspiration](https://www.webdesign-inspiration.com/)  
