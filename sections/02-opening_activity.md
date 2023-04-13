@@ -1,4 +1,4 @@
-[<<<Back](01-introduction.md) | [Next>>>](03-basic.md)
+[<<<Back](01-context.md) | [Next>>>](03-basic.md)
 
 # Opening Activity
 
@@ -17,4 +17,4 @@ In this session, we are going to learn how to read and write this code, and rend
 
 As you continue to learn how to structure and style web content using HTML and CSS, you may find it helpful to use this function or other browser tools to look 'under the hood' of webpages you use. 
 
-[<<<Back](01-introduction.md) | [Next>>>](03-basic.md)
+[<<<Back](01-context.md) | [Next>>>](03-basic.md)

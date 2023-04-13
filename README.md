@@ -8,13 +8,13 @@ By the end of this workshop, participants will:
 - Understand the basics of the HTML and CSS markup languages.
 - Use HTML, CSS, and a text editor to build a small website.
 
-[Get Started >>>](sections/01-introduction.md)
+[Get Started >>>](sections/01-context.md)
 
 -----
 
 ## HTML Basics
 
-[Introduction](sections/01-introduction.md)  
+[Introduction](sections/01-context.md)  
 [Opening Activity](sections/02-opening_activity.md)  
 [Basic Template for HTML](sections/03-basic.md)  
 [Tags and Elements](sections/04-elements.md)  
