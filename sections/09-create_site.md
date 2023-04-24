@@ -2,11 +2,9 @@
 
 # Challenge: Create a Website
 
-For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](_cli-reminder.md).
-
 Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Institute.
 
-In your `projects` folder on your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
+In your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
 
 Add HTML to your `index.html` file. This page should include the following:
 
