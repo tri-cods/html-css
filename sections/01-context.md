@@ -23,4 +23,28 @@ Together, these languages can be used to write and style a website using a text 
 
 However, internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly discuss [how to get your website from your local computer onto the internet](19-public.md).
 
+## A brief history of web design
+
+Part of understanding why we use the tools and standards for web design today involves understanding how web design started and its evolution. Although not at all exhaustive, below is a brief history of some of the major steps in web design evolution.
+
+### First website
+![Screenshot of the first ever website](images/first.png)
+
+### Tables
+![Screenshot of bbc news from 1998 site](images/table.png)
+
+### CSS1
+![Image of example of css](images/css.png)
+
+### Flash
+![Screenshot of gabocorp site using flash](images/flash.png)
+
+### Dynamic 
+![Image of first version of wordpress](https://cdn4.wpbeginner.com/wp-content/uploads/2018/07/wordpress-firstrelease-1.png)
+
+### Responsive
+![Image of first responsive site](https://www.webdesignmuseum.org/uploaded/web-design-history/audi-de-2001.png)
+### HTML5 - No more flash
+![Image of HTML5 logo](https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png)
+
 [<<<Back](../README.md) | [Next>>>](02-opening_activity.md)
