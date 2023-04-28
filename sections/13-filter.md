@@ -2,7 +2,14 @@
 
 # Filtering
 
-Some of you may be wondering whether it matters what order you add the rule sets to your `style.css` document. The answer is no. CSS has an automatic filtering function where **the most specific rule in CSS always takes precedence.**
+## Why 'Cascading?'
+
+Cascading refers to the order in which the rule sets apply:
+
+- More specific rules override less specific rules
+- Later rules override earlier rules (left to right, top to bottom)
+- The `!important` keyword will override other rules
+- Non-specified properties may be inherited from the parent element
 
 So if your stylesheet contained the following rule sets:
 
