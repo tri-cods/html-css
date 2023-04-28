@@ -2,7 +2,7 @@
 
 # Classes and IDs
 
-Classes and IDs enable more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that IDs are unique, used to identify one specific element or part of an element, whereas classes are used to identify multiple instances of the same type of element.
+Classes and IDs enable more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that classes are used to identify multiple instances of the same type of element, while IDs are unique to a single element.
 
 Basically, if you're styling a part of your page that is unique, such as the navbar or footer, use an ID. If you're styling something that recurs in different places, like an info box or form field, use a class.
 
