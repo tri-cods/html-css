@@ -52,10 +52,10 @@ Whether or not you plan on developing a website from  scratch, understanding the
 
 -----
 
-Current contributing authors: Alice McGrath, Roberto Vargas
-Past contributing authors: Param Ajmera, Amy Cavender, Kristen Hackett, Patrick Smith, Patrick Sweeney
-Past editors: Lisa Rhody, Kalle Westerling
-Past reviewers: Kristen Hackett, Stefano Morello, Di Yoong, Vickie Karasic
+Current contributing authors: Alice McGrath, Roberto Vargas.
+Past contributing authors: Param Ajmera, Amy Cavender, Kristen Hackett, Patrick Smith, Patrick Sweeney.
+Past editors: Lisa Rhody, Kalle Westerling.
+Past reviewers: Kristen Hackett, Stefano Morello, Di Yoong, Vickie Karasic.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
