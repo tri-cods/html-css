@@ -91,14 +91,14 @@ Option 3, external styling, is preferred by most web developers because it's mor
 
 ## Challenge
 
-Create a stylesheet using the command line (following option 3, external styling, described above). In your `index.html` document, link to your style sheet and re-save the file.
-
-If you need a reminder on which commands to use to create your new stylesheet file, see [here](_cli-reminder2.md).
+Using your text editor, create a new file in the same folder and name it `style.css`. We'll be using option 3, external styling, as described above.
 
 To link your stylesheet with your `index.html` file, insert the following code into the head element of that `index.html` file:
 
 ```html
 <link rel="stylesheet" href="style.css" />
 ```
+
+Save your files.
 
 [<<<Back](10-css_basic.md) | [Next>>>](12-rules.md)
