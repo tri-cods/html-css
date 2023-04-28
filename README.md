@@ -1,12 +1,21 @@
 # Introduction to HTML and CSS
 
-HTML (Hypertext Markup Language) is a markup language used to create and organize the content of a website. CSS (Cascading Style Sheets) is a language used for design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed. The purpose of this workshop is to help participants understand the rudiments of making websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects.
+HTML (Hypertext Markup Language) is used to create and organize the content of a website. CSS (Cascading Style Sheets) is a language used for design and layout. Together, these languages form the foundation of what one needs to know to create websites that are useful and well-designed. The purpose of this workshop is to help participants understand the rudiments of front-end web development, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects.
 
 By the end of this workshop, participants will:
 
 - Familiarize themselves with the anatomy of a webpage and how the Internet works.
 - Understand the basics of the HTML and CSS markup languages.
 - Use HTML, CSS, and a text editor to build a small website.
+
+## Why learn HTML & CSS?
+
+Whether or not you plan on developing a website from  scratch, understanding the basics of HTML & CSS is important for a variety of uses.
+
+- Troubleshooting no-code web editors and content management systems
+- Formatting and customizing web publishing tools such as ArcGIS Online, Timeline JS, Storymaps JS, WordPress or courseware software like Moodle
+- Extracting structured data from a website (i.e. web scraping)
+
 
 [Get Started >>>](sections/01-context.md)
 
@@ -43,11 +52,10 @@ By the end of this workshop, participants will:
 
 -----
 
-Current author: Alice McGrath 
-Current reviewer: Vickie Karasic
+Current contributing authors: Alice McGrath, Roberto Vargas
 Past contributing authors: Param Ajmera, Amy Cavender, Kristen Hackett, Patrick Smith, Patrick Sweeney
 Past editors: Lisa Rhody, Kalle Westerling
-Past reviewers: Kristen Hackett, Stefano Morello, Di Yoong
+Past reviewers: Kristen Hackett, Stefano Morello, Di Yoong, Vickie Karasic
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
