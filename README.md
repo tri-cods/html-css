@@ -14,7 +14,7 @@ By the end of this workshop, participants will:
 
 ## HTML Basics
 
-[Introduction](sections/01-introduction.md)  
+[Introduction](sections/01-context.md)  
 [Opening Activity](sections/02-opening_activity.md)  
 [Basic Template for HTML](sections/03-basic.md)  
 [Tags and Elements](sections/04-elements.md)  

@@ -48,3 +48,5 @@ Part of understanding why we use the tools and standards for web design today in
 ![Image of HTML5 logo](https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png)
 
 [<<<Back](../README.md) | [Next>>>](02-opening_activity.md)
+
+
