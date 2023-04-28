@@ -11,7 +11,7 @@ To get your site on the internet, you'll need **web hosting** — that is, a rem
 To create a new account or log into your existing account, follow the URL for your College: 
 - Bryn Mawr's Domain of One's Own: https://digital.brynmawr.edu
 - Haverford Sites: https://sites.haverford.edu/
-- Swarthmore [Domain of One's Own instructions](https://kb.swarthmore.edu/display/SW/Domain+of+One%27s+Own%3A+Accounts+and+Passwords)
+- Swarthmore Domains: https://domains.swarthmore.edu/
 
 Take note of the URL for your institution, because in fact your website will be a **subdomain** of that subdomain, which means it will be included in your website's URL.
 
